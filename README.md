@@ -1,5 +1,10 @@
+## snpedia-nlp
+
 ### Description
 
-Functions for working with the SNPedia MediaWiki API, with a focus on creating text datasets for NLP.
+Creating cleaned text datasets from the SNPedia resource, using the MediaWiki API.
 
 Uses mwclient 0.10.1
+
+### Feedback
+Send any feedback, questions, or suggestions to irbraun at iastate dot edu.
