@@ -4,7 +4,7 @@
 # ### Description
 # This notebook focuses on scraping the SNPedia website using the MediaWiki API to build a dataframe containing the raw text associated with each SNP associated with each gene. The raw texts are then preprocessed as a preliminary cleaning step to build a second dataset. This dataset is reshaped to be able to be able to easily read in by some other packages but the underlying data is the same. Some additional information is added to this dataframe, including whether or not each gene was mapped in some additional resources, such as the KEGG biochemical pathways database, informed by additional files from other repositories.
 
-# In[1]:
+# In[ ]:
 
 
 from collections import defaultdict
@@ -17,7 +17,7 @@ import mwclient
 import utils
 
 
-# In[2]:
+# In[ ]:
 
 
 # Get a list of the genes on SNPedia.
@@ -26,21 +26,21 @@ snpedia_gene_names = [page.name for page in site.Categories["Is_a_gene"]]
 print("done")
 
 
-# In[3]:
+# In[ ]:
 
 
 # How many genes are on SNPedia?
 print(len(snpedia_gene_names))
 
 
-# In[4]:
+# In[ ]:
 
 
 # What are the first few values in the list of gene names recovered?
 print(snpedia_gene_names[:10])
 
 
-# In[5]:
+# In[ ]:
 
 
 # Read in a file that has the list of genes that are mentioned in the KEGG biochemical pathways database.
@@ -51,7 +51,7 @@ kegg_gene_identifier_set = set(kegg_gene_identifiers)
 print(len(kegg_gene_identifier_set))
 
 
-# In[6]:
+# In[ ]:
 
 
 # How many of the genes in SNPedia also have an entry in KEGG?
@@ -61,21 +61,22 @@ print(len(is_in_kegg))
 print(sum(is_in_kegg.values()))
 
 
-# In[7]:
+# In[ ]:
 
 
 # Should we proceed with all of those genes, or just a subset of them? 
 # Supposed to be used for testing, not when running the whole pipeline.
 # Could also just use the genes that are present in KEGG or some similar criteria.
 snpedia_gene_names_to_use = snpedia_gene_names[1:10]
+snpedia_gene_names_to_use = snpedia_gene_names
 print(len(snpedia_gene_names_to_use))
 
 
-# In[8]:
+# In[ ]:
 
 
 # Do the web scraping step, building a dictionary mapping genes to SNPs to raw text strings.
-GENE_NUM_LIMIT = 1500
+GENE_NUM_LIMIT = 5000
 PAUSE_AFTER = 50
 genes_to_snps_to_text = defaultdict(dict)
 for i,gene_name in enumerate(snpedia_gene_names_to_use,1):
@@ -88,7 +89,7 @@ for i,gene_name in enumerate(snpedia_gene_names_to_use,1):
 print("completed the web scraping step")
 
 
-# In[9]:
+# In[ ]:
 
 
 # Producing a dataset in CSV format that shows genes, SNPs, and the text that was cleaned from each page.
@@ -103,7 +104,7 @@ for gene in genes_to_snps_to_text.keys():
         row_tuples_for_cleaned_df.append((gene, snp, cleaned_text))
 
 
-# In[10]:
+# In[ ]:
 
 
 # Generate the dataframe and subset to only include SNPs that had some amount of text extracted, and save as CSV file.
@@ -113,7 +114,7 @@ raw_df.to_csv(os.path.join("data","snps_and_scraped_text.csv"), index=False)
 raw_df.head(10)
 
 
-# In[11]:
+# In[ ]:
 
 
 # Generate the dataframe and subset to only include SNPs that had some amount of text extracted, and save as CSV file.
@@ -123,7 +124,7 @@ cleaned_df.to_csv(os.path.join("data","snps_and_cleaned_text.csv"), index=False)
 cleaned_df.head(10)
 
 
-# In[12]:
+# In[ ]:
 
 
 # Concatenate all the raw text that was scraped for all the SNPs for each gene, and generate a dataframe for it.
@@ -144,7 +145,7 @@ cleaned_df.head(10)
 #df.head(10)        
 
 
-# In[13]:
+# In[ ]:
 
 
 # We might not need to scrape for all the gene names in SNPEedia, because we can only use the ones mentioned in KEGG.
