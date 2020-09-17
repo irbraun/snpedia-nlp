@@ -1,0 +1,37 @@
+[
+   {
+      "response_id": "R_1IvdZOg9fDRD6vW",
+      "recorded_datetime": "2020-09-16 13:13:20",
+      "status": "Survey Preview",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 18,
+      "hilights": [
+         {
+            "qid": 244,
+            "selection": "131240.0003",
+            "selection_index": 10
+         },
+         {
+            "qid": 314,
+            "selection": "23andMe name",
+            "selection_index": 0
+         },
+         {
+            "qid": 548,
+            "selection": "glomerulosclerosis",
+            "selection_index": 16
+         },
+         {
+            "qid": 926,
+            "selection": "Niemann-Pick Disease",
+            "selection_index": 35
+         },
+         {
+            "qid": 1080,
+            "selection": "9Ala)23andMe nam",
+            "selection_index": 17
+         }
+      ]
+   }
+]
