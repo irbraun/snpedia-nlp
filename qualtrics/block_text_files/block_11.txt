@@ -1,0 +1,4579 @@
+[[AdvancedFormat]]
+[[Block:Block 11]]
+
+    [[Question:Text]]
+    [[ID:q1132]]
+    <blockquote>
+        <p class="text-snippet" data-id="1132">aka c.1945C>T (p.Gln649Ter)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4002]]
+    <blockquote>
+        <p class="text-snippet" data-id="4002">reports that one or two copies of a common variation (glycine replacing alanine) present at amino acid 148 of the PON2 protein, rs12026, exacerbates glycemia in non-insulin dependent diabetes mellitus (NIDDM).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1548]]
+    <blockquote>
+        <p class="text-snippet" data-id="1548">should this be an A/C or a G/T?rs56244447, also known as L82R, is a SNP in the CYP3A5 gene.The rs56244447(C) allele defines the CYP3A5 3D variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3004]]
+    <blockquote>
+        <p class="text-snippet" data-id="3004">Association of polycystic ovary syndrome susceptibility single nucleotide polymorphism rs2479106 and PCOS in Caucasian patients with PCOS or hirsutism as referral diagnosis. Variants in DENND1A Are Associated with Polycystic Ovary Syndrome in Women of European Ancestry.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1122]]
+    <blockquote>
+        <p class="text-snippet" data-id="1122">aka c.403C>T (p.Gln135Ter)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q270]]
+    <blockquote>
+        <p class="text-snippet" data-id="270">Mutational spectrum of the succinate semialdehyde dehydrogenase (ALDH5A1) gene and functional analysis of 27 novel disease-causing mutations in patients with SSADH deficiency. Reduced SSADH activity with T variant (48% of normal).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1128]]
+    <blockquote>
+        <p class="text-snippet" data-id="1128">aka c.1969C>T (p.Gln657Ter)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1129]]
+    <blockquote>
+        <p class="text-snippet" data-id="1129">aka c.1544G>A (p.Trp515Ter)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3853]]
+    <blockquote>
+        <p class="text-snippet" data-id="3853">This SNP may be related to obesity and diabetes.Genomic variants at the PINK1 locus are associated with transcript abundance and plasma nonesterified fatty acid concentrations in European whites. A allele associated with higher PINK1 transcript levels.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4387]]
+    <blockquote>
+        <p class="text-snippet" data-id="4387">rs121918592, aka c.1021G>A, c.1021G>C, p.Gly341Arg or p.G341R, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name for c.1021G>A: i5900460</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3169]]
+    <blockquote>
+        <p class="text-snippet" data-id="3169">rs267608617However, note that the normal genotype as called by 23andMe is (D;D), even though this is actually the pathogenic (rare) mutation is a deletion, c.1235_1260del26 (p.Val412Glyfs).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4173]]
+    <blockquote>
+        <p class="text-snippet" data-id="4173">rs63749885, also known as H163Y or His163Tyr, is a SNP in the presenilin 1 PSEN1 gene.Inherited as an autosomal dominant, the rare rs63749885(T) allele is considered pathogenic for early-onset Alzheimer's disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3258]]
+    <blockquote>
+        <p class="text-snippet" data-id="3258">aka c.270C>G (p.Asp90Glu or D90E) and also c.270C>A (p.Asp90Glu); both are likely to be pathogenic for Charcot-Marie-Tooth disease type 1B, a dominantly inherited disorder, according to ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4013]]
+    <blockquote>
+        <p class="text-snippet" data-id="4013">rs4253623(G) alleles are associated with a slightly higher risk of nonfatal myocardial infarction (odds ratio 1.25, CI: 1.08 - 1.46) in 848 patients composed of both postmenopausal women and hypertensive men/women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4070]]
+    <blockquote>
+        <p class="text-snippet" data-id="4070">rs4790904 is a mutation in the gene encoding PKC&#945; (PRKCA). It has been linked to memory capacity in healthy subjects and to risk for post-traumatic stress disorder Risk allele is A. .</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3418]]
+    <blockquote>
+        <p class="text-snippet" data-id="3418">The rare minor allele of this variant is reported to be pathogenic/likely pathogenic for familial hypertrophic cardiomyopathy (HCM), according to .This mutation is reported to be one of the four most common HCM-associated in Finland.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3213]]
+    <blockquote>
+        <p class="text-snippet" data-id="3213">Homozygous carriers of MGMT rs12268840 with frequent acid reflux had significantly higher risks of adenocarcinoma of the esophagus (OR 15.5, 95% CI 5.8-42) in 263 patients with matched population controls (n = 1,337)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3954]]
+    <blockquote>
+        <p class="text-snippet" data-id="3954">- relevant to a human-specific 'haplotype A' in PLXNB3, along with V598I (rs2266879), and V1596E. HapA carriers showed higher vocabulary performance scores and increased white matter volume, in comparison to non-carriers.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1755]]
+    <blockquote>
+        <p class="text-snippet" data-id="1755">c.214G>A (p.Val72Met); note that while c.214G>A was not observed in ExAC, c.214G>C (p.Val72Leu) was observed once, but it is reported to be a pathogenic mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q883]]
+    <blockquote>
+        <p class="text-snippet" data-id="883">rs281875213, also known as c.425A>G, p.Glu142Gly and E142G, represents a rare mutation in the CARD14 gene on chromosome 17.This SNP is a CARD14 gain-of-function mutation reported in families with autosomal dominantly inherited psoriasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q882]]
+    <blockquote>
+        <p class="text-snippet" data-id="882">rs281875212, also known as c.424G>A, p.Glu142Lys and E142K, represents a rare mutation in the CARD14 gene on chromosome 17.This SNP is a CARD14 gain-of-function mutation reported in families with autosomal dominantly inherited psoriasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5108]]
+    <blockquote>
+        <p class="text-snippet" data-id="5108">After adjusting for age, sex, and their interaction, a strong association between dystonia and two SNPs, rs13283584 and rs1182 was observed. Intragenic Cis and Trans modification of genetic susceptibility in DYT1 torsion dystonia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2420]]
+    <blockquote>
+        <p class="text-snippet" data-id="2420">rs606231220, also known as c.93_96dupCCTG and p.Asp33Profs, represents a very rare mutation in the GRN gene on chromosome 17.The rs606231220(CCTG) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2421]]
+    <blockquote>
+        <p class="text-snippet" data-id="2421">rs606231221, also known as c.835+1G>A, represents a very rare mutation in the GRN gene on chromosome 17.The rs606231221(CCTG) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2424]]
+    <blockquote>
+        <p class="text-snippet" data-id="2424">rs794729669, also known as c.462+1G>C, represents a very rare mutation in the GRN gene on chromosome 17.The rs794729669(C) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2426]]
+    <blockquote>
+        <p class="text-snippet" data-id="2426">rs794729671, also known as c.1246dupT and p.Cys416Leufs, represents a very rare mutation in the GRN gene on chromosome 17.The rs794729671(T) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2427]]
+    <blockquote>
+        <p class="text-snippet" data-id="2427">rs794729672, also known as c.87dupC and p.Cys30Leufs, represents a very rare mutation in the GRN gene on chromosome 17.The rs794729672(C) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4481]]
+    <blockquote>
+        <p class="text-snippet" data-id="4481">rs7151526 is an SNP in the 5'UTR of the SERPINA1 (alpha-1-antritrypsin/AAT) gene, with potential effects on AAT activity. A recent study showed a strong association of the rs7151526(A) allele with anca-associated vasculitides</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2563]]
+    <blockquote>
+        <p class="text-snippet" data-id="2563">rs9268839(G) was the variant most strongly associated in Europeans with risk for rheumatoid arthritis in this GWAS study of ~30,000 patients (OR 2.47, CI: 2.39-2.55, p = 1.5 × 10−e300).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2585]]
+    <blockquote>
+        <p class="text-snippet" data-id="2585">rs11649743 identified as one of three HNF1B gene SNPs associated with decreased risk for prostate cancer in two large prospective studies  prostate cancer rs4430796 and rs11649743 in multiple populations, with P = 1.7 x 10(-9)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q448]]
+    <blockquote>
+        <p class="text-snippet" data-id="448">Replication analysis confirms the association of ARID5B with childhood B-cell acute lymphoblastic leukemia. Variation at 7p12.2 and 10q21.2 influences childhood acute lymphoblastic leukemia risk in the Thai population and may contribute to racial differences in leukemia incidence.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q440]]
+    <blockquote>
+        <p class="text-snippet" data-id="440">dbSNP notes that rs63751263 was deleted on Jan 10, 2013 because its two subsnp_id's were deleted: ss158188427 & ss95215916.The SNP at this same location (with the same alleles) is now known as rs281865161.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2657]]
+    <blockquote>
+        <p class="text-snippet" data-id="2657">rs1176713 is a SNP, also known as g.14396A>G, in the 5-hydroxytryptamine (serotonin) receptor 3A HTR3A gene. rs1176713 may be a useful predictor of therapeutic response to risperidone treatment in Chinese schizophrenia patients</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2663]]
+    <blockquote>
+        <p class="text-snippet" data-id="2663">nature age related macular degeneration is associated with five highly correlated SNPs (rs10490924, rs3750848, rs3793917, rs11200638 and rs932275; r2 < 0.88) showed strongest association with AMD (2.72 < OR < 2.86)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2941]]
+    <blockquote>
+        <p class="text-snippet" data-id="2941">aka c.38G>T (p.Gly13Val)annotated in ClinVar as a somatic mutation, and also for its PGx association (drug response to cetuximab and panitumumab)23andMe name for the c.38G>A variant: i5002724</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2729]]
+    <blockquote>
+        <p class="text-snippet" data-id="2729">Novel IL10 gene family associations with systemic juvenile idiopathic arthritis. Evaluation of IL10, IL19 and IL20 gene polymorphisms and chronic hepatitis B infection outcome. Protective role of interleukin-19 gene polymorphisms in patients with ulcerative colitis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5033]]
+    <blockquote>
+        <p class="text-snippet" data-id="5033">The rs1927911(T) allele was associated with a lower risk of nonfatal myocardial infarction (odds ratio 0.88, CI: 0.77 - 0.99) in 848 patients composed of both postmenopausal women and hypertensive men/women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1210]]
+    <blockquote>
+        <p class="text-snippet" data-id="1210">A study of 391 overweight patients concluded that the haplotype of rs1554483(G) and rs4864548(A) was associated with a 1.8-fold higher risk (CI: 1.31-2.54, p < 0.001) of obesity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5105]]
+    <blockquote>
+        <p class="text-snippet" data-id="5105">After adjusting for age, sex, and their interaction, a strong association between dystonia and two SNPs, rs13283584 and rs1182 was observed. The TOR1A polymorphism rs1182 and the risk of spread in primary blepharospasm.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2906]]
+    <blockquote>
+        <p class="text-snippet" data-id="2906">aka c.31C>T, p.(Arg11Trp) Massive sequencing of 70 genes reveals a myriad of missing genes or mechanisms to be uncovered in hereditary spastic paraplegia; implies the minor allele is a dominant mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4224]]
+    <blockquote>
+        <p class="text-snippet" data-id="4224">A study of 151 Korean families reported that the rs2745557(A) allele of the PTGS2 gene, also known as cyclooxygenase-2 (Cox-2), was overtransmitted (p<0.01) in autism spectrum disorders.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5425]]
+    <blockquote>
+        <p class="text-snippet" data-id="5425">Prevalence in the United States of selected candidate gene variants: Third National Health and Nutrition Examination Survey, 1991-1994. Base excision repair genes and risk of lung cancer among San Francisco Bay Area Latinos and African-Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4238]]
+    <blockquote>
+        <p class="text-snippet" data-id="4238">Associations between a PTPN11 polymorphism and gastric atrophy--opposite in Uzbekistan to that in Japan. Associations of a PTPN11 G/A polymorphism at intron 3 with Helicobactor pylori seropositivity, gastric atrophy and gastric cancer in Japanese.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5418]]
+    <blockquote>
+        <p class="text-snippet" data-id="5418">9,798 subjects show significant association between rs2548861(T) and Low serum HDL-cholesterol, a major risk factor for coronary artery disease. p = 4 x 10(-4) to 2 x 10(-5)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1462]]
+    <blockquote>
+        <p class="text-snippet" data-id="1462">rs72558189, also known as 374G>A, 3552G>A or R125H, is a SNP in the CYP2C9 gene.The rs72558189(A) allele defines the CYP2C9 14 variant, which may have decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1498]]
+    <blockquote>
+        <p class="text-snippet" data-id="1498">rs4646976 is a SNP in the CYP2E1 gene.The rs4646976(G) allele defines the CYP2E1_marker8 variant, as used in the 2008 study determining the 16 most common CYP2E1 haplotypes world-wide.(see CYP2E1 for details)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4799]]
+    <blockquote>
+        <p class="text-snippet" data-id="4799">rs33977706, also known as -820G>T, is a SNP in the promoter region of the suppressor of cytokine signalling 1 SOCS1 gene.This SNP has been reported to be associated with body mass index and obesity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1319]]
+    <blockquote>
+        <p class="text-snippet" data-id="1319">Nominally significant association found for this SNP with late-onset Alzheimer's disease (odds ratio 1.18, p=0.024) in a study of ~1000 Caucasian patients, but it would not have withstood statistical correction for multiple testing.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1458]]
+    <blockquote>
+        <p class="text-snippet" data-id="1458">rs67807361, also known as 55C>A, 55C>A or L19I, is a SNP in the CYP2C9 gene.The rs67807361(A) allele defines the CYP2C9 7 variant, which may have decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3953]]
+    <blockquote>
+        <p class="text-snippet" data-id="3953">- relevant to a human-specific 'haplotype A' in PLXNB3, along with E1156D (rs6643791), and V1596E. HapA carriers showed higher vocabulary performance scores and increased white matter volume, in comparison to non-carriers.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q8]]
+    <blockquote>
+        <p class="text-snippet" data-id="8">Apolipoprotein E levels in cerebrospinal fluid and the effects of ABCA1 polymorphisms. Genetic-epidemiological evidence on genes associated with HDL cholesterol levels: a systematic in-depth review. A survey of ABCA1 sequence variation confirms association with dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1994]]
+    <blockquote>
+        <p class="text-snippet" data-id="1994">This SNP is in a linkage block in the FTO gene with rs1121980; see rs1121980 for the association of this block with early onset obesity since it showed the strongest association. The risk allele is C.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4876]]
+    <blockquote>
+        <p class="text-snippet" data-id="4876">Spontaneous feminization in a 46,XX female patient with congenital lipoid adrenal hyperplasia due to a homozygous frameshift mutation in the steroidogenic acute regulatory protein. Congenital adrenal hyperplasia: molecular genetics and alternative approaches to treatment.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4822]]
+    <blockquote>
+        <p class="text-snippet" data-id="4822">SNP rs2070045, a variant of the SORL1 gene, has been reported to be associated with Alzheimer's disease. However, a subsequent study of over 2,000 patients found a weak (at best) association.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4797]]
+    <blockquote>
+        <p class="text-snippet" data-id="4797">lists a SNP at this position with the T allele OR=.68 having less chance of thinking cilantro tastes like soap, however the SNP is identified as rs114184611 so it is not clear if this is the correct SNP.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2661]]
+    <blockquote>
+        <p class="text-snippet" data-id="2661">rs2293870 showed as strong an association with increased susceptibility to neovascular age related macular degeneration as the haplotypes containing rs10490924 and rs11200638. rs2293870 and rs11200638 are among the most significantly associated HTRA1 SNPs with age related macular degeneration.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4386]]
+    <blockquote>
+        <p class="text-snippet" data-id="4386">aka c.7522C>T (p.Arg2508Cys or R2508C) and also c.7522C>G (p.Arg2508Gly or R2508G), both of which are considered pathogenic in either ClinVar and/or the RYR1-based database23andMe name for c.7522C>T: i6017673</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1547]]
+    <blockquote>
+        <p class="text-snippet" data-id="1547">should this be an A/G or a C/T?rs55817950, also known as 3699C>T, is a SNP in the CYP3A5 gene.The rs55817950(A) allele defines the CYP3A5 8 variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2744]]
+    <blockquote>
+        <p class="text-snippet" data-id="2744">Optimization of candidate-gene SNP-genotyping by flexible oligonucleotide microarrays; analyzing variations in immune regulator genes of hay-fever samples. Cervical and vulvar cancer risk in relation to the joint effects of cigarette smoking and genetic variation in interleukin 2.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q338]]
+    <blockquote>
+        <p class="text-snippet" data-id="338">AMPD1 gene, c.1261C>T (p.Arg421Trp)One report in ClinVar (based on OMIM) of a single individual in which this is reported to be a recessively inherited mutation leading to muscle AMP deaminase deficiency.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2822]]
+    <blockquote>
+        <p class="text-snippet" data-id="2822">Lack of association of interferon regulatory factor 1 with severe malaria in affected child-parental trio studies across three African populations. Association of novel genetic Loci with circulating fibrinogen levels: a genome-wide association study in 6 population-based cohorts.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2614]]
+    <blockquote>
+        <p class="text-snippet" data-id="2614">aka c.317G>C (p.Arg106Pro), but also c.317G>A (p.Arg106His)c.316G>C is a mutation pathogenic (when inherited recessively) for D-bifunctional protein deficiency; c.316G>A is a benign polymorphism</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5243]]
+    <blockquote>
+        <p class="text-snippet" data-id="5243">UGT1A1 28 duplication allele inserts a seventh (TA) pair to six (TA) pairs this reducing the activity to 30% of normal.See the following SNPs, which have been merged to rs3064744 on dbSNP:rs34815109rs35600288</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4657]]
+    <blockquote>
+        <p class="text-snippet" data-id="4657">rs121918239, also known as c.756G>A, is a relatively rare mutation in the SLC34A3 gene on chromosome 9.The rs121918239(A) mutation is considered pathogenic for hypophosphatemic rickets with hypercalciuria, a recessively inherited condition.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4601]]
+    <blockquote>
+        <p class="text-snippet" data-id="4601">rs80338794, also known as c.115C>T, R39C or Arg39Cys, is a rare mutation in the sialin protein SLC17A5 gene leading to Salla disease, a neurodegenerative disease primarily associated with Finland and Sweden.23andMe name: i5012634</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2556]]
+    <blockquote>
+        <p class="text-snippet" data-id="2556">rs3129878 is a SNP in the HLA gene region. It has been associated with slightly (~30%) higher risk for azoospermia (lack of sperm) and thus male infertility in both Chinese and Japanese men.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1173]]
+    <blockquote>
+        <p class="text-snippet" data-id="1173">A significant association between delusions and the rs6494223(T) allele (odds ratio 1.63, CI: 1.22-2.17, p = 0.014, ) was found in a cohort of Alzheimer's disease patients in Northern Ireland.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4973]]
+    <blockquote>
+        <p class="text-snippet" data-id="4973">rs387906745, also known as c.2744G>A, Arg915His and R915H, represents a mutation in the TEK gene on chromosome 9.The rare minor allele for this SNP is reported to cause Multiple cutaneous and mucosal venous malformations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1073]]
+    <blockquote>
+        <p class="text-snippet" data-id="1073">age related macular degeneration  Haplotypes in the complement factor H (CFH) gene: associations with drusen and advanced age-related macular degeneration. Three major loci involved in age-related macular degeneration are also associated with polypoidal choroidal vasculopathy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2263]]
+    <blockquote>
+        <p class="text-snippet" data-id="2263">rs841, also known as C+243T or C59038T, is a SNP in the 3' UTR of the GTP cyclohydrolase 1 GCH1 gene on chromosome 14.For the associations reported for rs841(T;T), see .</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3677]]
+    <blockquote>
+        <p class="text-snippet" data-id="3677">The oxytocin receptor (OXTR) contributes to prosocial fund allocations in the dictator game and the social value orientations task. Alcohol and aggressive behavior in men--moderating effects of oxytocin receptor gene (OXTR) polymorphisms.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4310]]
+    <blockquote>
+        <p class="text-snippet" data-id="4310">This SNP, located in the first intron of the RET gene, has been associated with Hirschsprung disease. The risk allele (in dbSNP orientation) is rs2435357(A), with greater affect in males.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5177]]
+    <blockquote>
+        <p class="text-snippet" data-id="5177">rs387907216, also known as c.490C>T, p.Arg164Trp and R164W, represents a rare mutation in the TRPM4 gene.The minor allele is considered causative in a dominant manner for progressive familial heart block type 1B in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1931]]
+    <blockquote>
+        <p class="text-snippet" data-id="1931">rs28937900, also known as c.826C>A, p.Leu276Ile and L276I, represents a rare variant in the FKRP gene.Inherited recessively, it is considered pathogenic by multiple submitters to ClinVar for a type of Limb-girdle muscular dystrophy-dystroglycanopathy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5142]]
+    <blockquote>
+        <p class="text-snippet" data-id="5142">. This article gave complex data. The heterozygous polymorphism (AC) gave 0.87x lower risk of hypothyroidism among Italians, but 2x increased risk among Spanish. Thyroid cancer risk 0.93 among Italians, 1.7 among Spanish.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4477]]
+    <blockquote>
+        <p class="text-snippet" data-id="4477">rs28931569 is a SNP representing an amino acid change in the SERPINA1 gene, which encodes alpha-1-antitrypsin (AAT).Carriers of two rs28931569(C) alleles, i.e. homozygotes, are at high risk for emphysema .</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4474]]
+    <blockquote>
+        <p class="text-snippet" data-id="4474">c.552delC (p.Tyr184Terfs, Y160X, p.Tyr160Ter); also known as PI null (Granite Falls). OMIM indicates emphysema is associated with homozygosity.Note: a 2018 publication lists this variant as pathogenic for several cancer types.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3558]]
+    <blockquote>
+        <p class="text-snippet" data-id="3558">Note: this SNP should perhaps be best seen as a proxy for rs4496877, a SNP assayed by the Illumina 1M chip. The pairwise r(2) linkage between the two is reported to be 0.96.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5175]]
+    <blockquote>
+        <p class="text-snippet" data-id="5175">rs201907325, also known as c.1294G>A, p.Ala432Thr and A432T, represents a rare mutation in the TRPM4 gene.The minor allele is considered causative in a dominant manner for progressive familial heart block type 1B in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5176]]
+    <blockquote>
+        <p class="text-snippet" data-id="5176">rs267607142, also known as c.19G>A, p.Glu7Lys and E7K, represents a rare mutation in the TRPM4 gene.The minor allele is considered causative in a dominant manner for progressive familial heart block type 1B in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1481]]
+    <blockquote>
+        <p class="text-snippet" data-id="1481">rs28371725, also known as 2988G>A, is a SNP in the CYP2D6 gene.The rs28371725(A) allele defines the CYP2D6 41 variant, which has decreased activity.23andMe also has SNP i4001476 at the same position.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5173]]
+    <blockquote>
+        <p class="text-snippet" data-id="5173">rs172151858, also known as c.2741A>G, p.Lys914Arg and K914R, represents a rare mutation in the TRPM4 gene.The minor allele is considered causative in a dominant manner for progressive familial heart block type 1B in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1455]]
+    <blockquote>
+        <p class="text-snippet" data-id="1455">rs28371686, also known as 1080C>G, 42619C>G or D360E, is a SNP in the CYP2C9 gene.The rs28371686(G) allele defines the CYP2C9 5 variant, which appears to have decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5174]]
+    <blockquote>
+        <p class="text-snippet" data-id="5174">rs200038418, also known as c.2531G>A, p.Gly844Asp and G844D, represents a rare mutation in the TRPM4 gene.The minor allele is considered causative in a dominant manner for progressive familial heart block type 1B in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q35]]
+    <blockquote>
+        <p class="text-snippet" data-id="35">C allele linked to colorectal cancers Identifying candidate causal variants responsible for altered activity of the ABCB1 multidrug resistance gene. Polymorphisms in multidrug resistance 1 (MDR1) gene are associated with refractory Crohn disease and ulcerative colitis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3874]]
+    <blockquote>
+        <p class="text-snippet" data-id="3874">c.12310_12311delGT (p.Val4104Tyrfs)The variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database as well as in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5308]]
+    <blockquote>
+        <p class="text-snippet" data-id="5308">Identification of a novel splice site mutation of the CSPG2 gene in a Japanese family with Wagner syndrome. Erosive vitreoretinopathy and wagner disease are caused by intronic mutations in CSPG2/Versican that result in an imbalance of splice variants.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q231]]
+    <blockquote>
+        <p class="text-snippet" data-id="231">rs5182 (573C/T) is a SNP within the AGTR1 (Angiotensin II receptor type 1). among 4,096 hypertensive subjects, the CT/CC genotypes were associated with reduced risk of heart attack among those treated with ACE inhibitors</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5394]]
+    <blockquote>
+        <p class="text-snippet" data-id="5394">rs7961894, rs12485738 and rs2138852 together accounted for 4%-5% of the variance in mean platelet volume, which is increased in myocardial and cerebral infarction and is an independent and strong predictor for postevent morbidity and mortality</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3151]]
+    <blockquote>
+        <p class="text-snippet" data-id="3151">aka c.105C>A (p.Tyr35Ter)This nonsense mutation in the MC4R gene has been reported by multiple ClinVar submitters as pathogenic for obesity. It is also discussed in OMIM  1555541.0003, apparently as a dominantly inherited mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q404]]
+    <blockquote>
+        <p class="text-snippet" data-id="404">Significant Alzheimer's disease associations with were found for rs449647(A;A) and rs405509(G;G) genotypes (positive), and rs449647(A;T) and rs405509(T;T)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3231]]
+    <blockquote>
+        <p class="text-snippet" data-id="3231">rs1836915 is a SNP in the membrane metalloendopeptidase MME gene, which is also known as CD10, CALLA or neprilysin.rs1836915 showed the strongest association among several MME SNPs to Alzheimer's disease in a study of 298 Caucasian patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3511]]
+    <blockquote>
+        <p class="text-snippet" data-id="3511">Identification of I kappa BL as the second major histocompatibility complex-linked susceptibility locus for rheumatoid arthritis. Common gene variants in the tumor necrosis factor (TNF) and TNF receptor superfamilies and NF-kB transcription factors and non-Hodgkin lymphoma risk.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5285]]
+    <blockquote>
+        <p class="text-snippet" data-id="5285">aka c.2209C>T (p.Arg737Ter or R737X) Novel USH2A mutations in Israeli patients with retinitis pigmentosa and Usher syndrome type 2. Four USH2A founder mutations underlie the majority of Usher syndrome type 2 cases among non-Ashkenazi Jews.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q301]]
+    <blockquote>
+        <p class="text-snippet" data-id="301">i5002771, also known as c.620A>C or p.Q207P, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5291]]
+    <blockquote>
+        <p class="text-snippet" data-id="5291">This SNP also goes under the name  M174. As such, it has been recognized as one of the most reliable indicators of  Y haplogroup D. The mutation from T to C indicates membership of the Asian  haplogroup D.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q135]]
+    <blockquote>
+        <p class="text-snippet" data-id="135">This SNP in the antiotensin I converting enzyme (ACE) gene may  be associated with a higher risk of Alzheimer's disease. The risk allele is reported as A in a table published by the  Alzheimer Research Forum.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q336]]
+    <blockquote>
+        <p class="text-snippet" data-id="336">i6007032, also known as c.809G>A or p.W270X, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q335]]
+    <blockquote>
+        <p class="text-snippet" data-id="335">i6007029, also known as c.542C>T or p.S181L, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q295]]
+    <blockquote>
+        <p class="text-snippet" data-id="295">i5002757, also known as c.535G>A or p.A179T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q334]]
+    <blockquote>
+        <p class="text-snippet" data-id="334">i6007018, also known as c.662G>T or p.G221V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3861]]
+    <blockquote>
+        <p class="text-snippet" data-id="3861">c.1311G>A (p.Trp437Ter, W437X or W437 )Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal recessive, early-onset Parkinson disease (type 6)23andMe calls this i5003752</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q296]]
+    <blockquote>
+        <p class="text-snippet" data-id="296">i5002758, also known as c.746G>T or p.G249V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q333]]
+    <blockquote>
+        <p class="text-snippet" data-id="333">i6007004, also known as c.977G>T or p.G326V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q294]]
+    <blockquote>
+        <p class="text-snippet" data-id="294">i5002756, also known as c.814C>T or p.R272C, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3888]]
+    <blockquote>
+        <p class="text-snippet" data-id="3888">Polycystic Kidney disease; see  OMIM 601313.0015NM_001009944.2:c.12420G>AThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2417]]
+    <blockquote>
+        <p class="text-snippet" data-id="2417">rs193026789, also known as c.1212C>A and p.Cys404Ter, represents a very rare mutation in the GRN gene on chromosome 17.The rs193026789(A) mutation is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3887]]
+    <blockquote>
+        <p class="text-snippet" data-id="3887">Polycystic Kidney disease; see  OMIM 601313.0013NM_001009944.2:c.5764C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1721]]
+    <blockquote>
+        <p class="text-snippet" data-id="1721">A genome-wide association scan in admixed Latin Americans identifies this marker as the one most significantly correlated with beard thickness (density). They found that each (C) allele is associated with ~25% denser beard growth.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3577]]
+    <blockquote>
+        <p class="text-snippet" data-id="3577">A study of ~15,000 Europeans found that increased circulating natriuretic peptide and thus lower blood pressure and hypertension were associated with SNPs rs17376328(A), rs5068, rs198358(C), rs632793(G)/ 23andMe blog</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3880]]
+    <blockquote>
+        <p class="text-snippet" data-id="3880">Polycystic Kidney disease; see  OMIM 601313.0002NM_001009944.2:c.12124C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3881]]
+    <blockquote>
+        <p class="text-snippet" data-id="3881">Polycystic Kidney disease; see  OMIM 601313.0004NM_001009944.2:c.12682C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2988]]
+    <blockquote>
+        <p class="text-snippet" data-id="2988">rs45487699, also known as c.566C>T, p.Ser189Leu and S189L, is a rare mutation in the LDB3 gene on chromosome 10.Inherited as an autosomal dominant, it reportedly leads to a form of left ventricular noncompaction.See OMIM  605906.0005</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q280]]
+    <blockquote>
+        <p class="text-snippet" data-id="280">A Whole-Genome Analysis Framework for Effective Identification of Pathogenic Regulatory Variants in Mendelian Disease. This SNP maps to a position listed in Table S6 as a non-coding variant that their biocurators felt was convincingly associated with a Mendelian disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2038]]
+    <blockquote>
+        <p class="text-snippet" data-id="2038">rs146948377, also known as c.482_+_3 delA or , is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2986]]
+    <blockquote>
+        <p class="text-snippet" data-id="2986">rs121908337, also known as c.617C>T, p.Thr206Ile and T206I, is a rare mutation in the LDB3 gene on chromosome 10.Inherited as an autosomal dominant, it reportedly leads to a form of left ventricular noncompaction.See OMIM  605906.0006</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3882]]
+    <blockquote>
+        <p class="text-snippet" data-id="3882">Polycystic Kidney disease; see  OMIM 601313.0005NM_001009944.2:c.11512C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q569]]
+    <blockquote>
+        <p class="text-snippet" data-id="569">BAK1 gene SNPs rs513349 OR=0.57(0.46-0.72), p=8.57x10(-7) and rs5745582 OR=1.61(1.26-2.04), p=1.08x10(-4) were associated with autoimmune rheumatic diseases (AIRDs) in a study of 719 Colombian women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1252]]
+    <blockquote>
+        <p class="text-snippet" data-id="1252">rs42524 is a SNP in the COL1A2 gene.This SNP has been associated with familial intracranial aneurysms (IA) in both Japanese and Chinese populations; in Chinese patients, the odds ratio is 2.579 (CI: 1.48-4.47).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q507]]
+    <blockquote>
+        <p class="text-snippet" data-id="507">ASPA gene variant, known as c.237-2A>TNote that one source in ClinVar indicates that the minor allele is a pathogenic mutation (for Canavan disease), while another source indicates the minor allele is of uncertain significance.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q106]]
+    <blockquote>
+        <p class="text-snippet" data-id="106">This SNP is a variant in the ABO gene, and is therefore potentially useful in determining ABO blood group, such as through the use of genosets.23andMe reports this as a G/T while decodeme reports it as an A/C.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3883]]
+    <blockquote>
+        <p class="text-snippet" data-id="3883">Polycystic Kidney disease; see  OMIM 601313.0006NM_001009944.2:c.12261T>AThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3884]]
+    <blockquote>
+        <p class="text-snippet" data-id="3884">Polycystic Kidney disease; see  OMIM 601313.0007NM_001009944.2:c.11457C>AThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2425]]
+    <blockquote>
+        <p class="text-snippet" data-id="2425">rs794729670, also known as c.882T>G and p.Tyr294Ter, represents a very rare mutation in the GRN gene on chromosome 17.The rs794729670(G) allele is reported in ClinVar as a dominant mutation pathogenic for frontotemporal dementia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1373]]
+    <blockquote>
+        <p class="text-snippet" data-id="1373">hepatocellular carcinoma in Chinese populations increased risk rs4646421 (OR 1.30, 95% CI 1.05-1.61) increased risk rs2198843 (OR 1.33, 95% CI 1.05-1.69) reduced risk rs4886605 (OR 0.70. 95% CI 0.52-0.94)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q265]]
+    <blockquote>
+        <p class="text-snippet" data-id="265">Aldehyde dehydrogenase variation enhances effect of pesticides associated with Parkinson's disease. 5 tagSNPs in ALDH2 (ie, rs737280, rs968529, rs16941667, rs16941669, and rs9971942) as well as rs671 (ie, ALDH2 2)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3886]]
+    <blockquote>
+        <p class="text-snippet" data-id="3886">Polycystic Kidney disease; see  OMIM 601313.0012NM_001009944.2:c.2534T>CThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q332]]
+    <blockquote>
+        <p class="text-snippet" data-id="332">i6006996, also known as c.1348C>T or p.R450C, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q331]]
+    <blockquote>
+        <p class="text-snippet" data-id="331">i6006991, also known as c.874C>A or p.P292T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4199]]
+    <blockquote>
+        <p class="text-snippet" data-id="4199">rs28936380, also known as T122R or Thr122Arg, is a SNP in the presenilin 2 PSEN2 gene.Inherited as an autosomal dominant, the rare rs28936380(G) allele is considered causative for early-onset Alzheimer's disease.23andMe calls this i5007545</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q329]]
+    <blockquote>
+        <p class="text-snippet" data-id="329">i6006969, also known as c.110T>C or p.L37P, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q316]]
+    <blockquote>
+        <p class="text-snippet" data-id="316">i6006925, also known as c.550C>T or p.R184W, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q315]]
+    <blockquote>
+        <p class="text-snippet" data-id="315">i6006921, also known as c.920C>T or p.P307L, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q330]]
+    <blockquote>
+        <p class="text-snippet" data-id="330">i6006989, also known as c.119C>T or p.A40V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q314]]
+    <blockquote>
+        <p class="text-snippet" data-id="314">i6006912, also known as c.512A>G or p.H171R, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the adult form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2793]]
+    <blockquote>
+        <p class="text-snippet" data-id="2793">Interleukin and interleukin receptor gene polymorphisms and susceptibility to melanoma. Interleukin-6 receptor gene, plasma C-reactive protein, and diabetes risk in women. Inflammation and stress-related candidate genes, plasma interleukin-6 levels, and longevity in older adults.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q313]]
+    <blockquote>
+        <p class="text-snippet" data-id="313">i6006897, also known as c.1184T>C or p.I395T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q312]]
+    <blockquote>
+        <p class="text-snippet" data-id="312">i6006895, also known as c.215T>C or p.I72T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the odonto form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q311]]
+    <blockquote>
+        <p class="text-snippet" data-id="311">i6006890, also known as c.1112C>T or p.T371I, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q921]]
+    <blockquote>
+        <p class="text-snippet" data-id="921">Monocyte chemotactic protein-1 single nucleotide polymorphisms do not confer susceptibility for the development of adult onset polymyositis/dermatomyositis in UK Caucasians. Common variants of inflammatory cytokine genes are associated with risk of nephropathy in type 2 diabetes among Asian Indians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q310]]
+    <blockquote>
+        <p class="text-snippet" data-id="310">i6006889, also known as c.401C>A or p.T134N, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q309]]
+    <blockquote>
+        <p class="text-snippet" data-id="309">i6006888, also known as c.1282C>T or p.R428X, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q308]]
+    <blockquote>
+        <p class="text-snippet" data-id="308">i5900451, also known as c.323C>T or p.P108L, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the odonto form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q299]]
+    <blockquote>
+        <p class="text-snippet" data-id="299">i5002769, also known as c.1306T>C or p.Y436H, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5016]]
+    <blockquote>
+        <p class="text-snippet" data-id="5016">rs6996321 significantly related to spine bone mineral density (p=0.002) and rs10914367 associated with hip BMD (p=0.028). Non-vertebral fracture risk was significantly increased in carriers of 'A' allele of rs9900972 (OR=2.06, p=0.0187)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4164]]
+    <blockquote>
+        <p class="text-snippet" data-id="4164">PSEN1 mutation, c.1307C>A, p.Pro436Gln, P436QListed in ClinVar, OMIM and AlzForum as pathogenic for early-onset Alzheimer's disease. Note that the clinical symptoms are reported to potentially include spastic spastic paraparesis (paraplegia).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q300]]
+    <blockquote>
+        <p class="text-snippet" data-id="300">i5002770, also known as c.98C>T or p.A33V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q305]]
+    <blockquote>
+        <p class="text-snippet" data-id="305">i5012683, also known as c.1133A>T or p.D378V, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2862]]
+    <blockquote>
+        <p class="text-snippet" data-id="2862">Spectrum of pathogenic mutations and associated polymorphisms in a cohort of 44 unrelated patients with long QT syndrome. Spectrum and prevalence of mutations from the first 2,500 consecutive unrelated patients referred for the FAMILION long QT syndrome genetic test.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q304]]
+    <blockquote>
+        <p class="text-snippet" data-id="304">i5002774, also known as c.211C>T or p.R71C, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q303]]
+    <blockquote>
+        <p class="text-snippet" data-id="303">i5002773, also known as c.881A>C or p.D294A, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q302]]
+    <blockquote>
+        <p class="text-snippet" data-id="302">i5002772, also known as c.212G>C or p.R71P, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q317]]
+    <blockquote>
+        <p class="text-snippet" data-id="317">i6006926, also known as c.667C>T or p.R223W, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q318]]
+    <blockquote>
+        <p class="text-snippet" data-id="318">i6006927, also known as c.1171C>T or p.R391C, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2786]]
+    <blockquote>
+        <p class="text-snippet" data-id="2786">stroke rs2069830(T) (frequency = 5%)  protective among non-smokers (OR = 0.30, 95% CI=0.11-.082, p=0.02), but not among smokers (OR = 1.63, 95% CI=0.48-5.58, p=0.43)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q319]]
+    <blockquote>
+        <p class="text-snippet" data-id="319">i6006933, also known as c.931G>A or p.E311K, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q328]]
+    <blockquote>
+        <p class="text-snippet" data-id="328">i6006962, also known as c.1144G>A or p.V382I, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q327]]
+    <blockquote>
+        <p class="text-snippet" data-id="327">i6006956, also known as c.1366G>A or p.G456R, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q297]]
+    <blockquote>
+        <p class="text-snippet" data-id="297">i5002765, also known as c.979T>C or p.F327L, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the infantile form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1624]]
+    <blockquote>
+        <p class="text-snippet" data-id="1624">Women with two rs821616(T) SNPs seem to experience more rapid cognitive decline as they age compared to men.  13 single-nucleotide polymorphisms (SNPs) in 723 members of 179 Finnish Bipolar disorder  families. rs821616 verbal fluency</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q326]]
+    <blockquote>
+        <p class="text-snippet" data-id="326">i6006953, also known as c.1363G>A or p.G455S, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the adult form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q325]]
+    <blockquote>
+        <p class="text-snippet" data-id="325">i6006951, also known as c.668G>A or p.R223Q, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q298]]
+    <blockquote>
+        <p class="text-snippet" data-id="298">i5002766, also known as c.1001G>A or p.G334D, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the perinatal form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q323]]
+    <blockquote>
+        <p class="text-snippet" data-id="323">i6006947, also known as c.526G>A or p.A176T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the childhood form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4570]]
+    <blockquote>
+        <p class="text-snippet" data-id="4570">rs797044936, also known as c.3679dupG or A1227Gfs 69, represents a rare mutation in the SHANK3 gene on chromosome 22.The minor allele of this SNP has been reported as associated with either autism or the closely related Phelan-McDermid syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q324]]
+    <blockquote>
+        <p class="text-snippet" data-id="324">i6006948, also known as c.529G>A or p.A177T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the adult form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1806]]
+    <blockquote>
+        <p class="text-snippet" data-id="1806">rs1047840, also known as K589E, is a SNP in the EXO1 gene.A study of 1,272 breast cancer Taiwanese patients concluded that the rs1047840(A) allele conferred a significantly (p=0.000025) increased risk of breast cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1065]]
+    <blockquote>
+        <p class="text-snippet" data-id="1065">may influence age related macular degeneration (damage to the eye with ageing) when part of the haplotype of rs1061170 rs3753394 rs800292 rs1329428 (TGTC), but does not appear to do so alone. age related macular degeneration</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q321]]
+    <blockquote>
+        <p class="text-snippet" data-id="321">i6006944, also known as c.331G>A or p.A111T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the odonto form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q322]]
+    <blockquote>
+        <p class="text-snippet" data-id="322">i6006946, also known as c.346G>A or p.A116T, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the adult form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1138]]
+    <blockquote>
+        <p class="text-snippet" data-id="1138">Mentioned as a pathogenic/likely pathogenic mutation associated with cancer predisposition in Ancestry v2 data almost always shows the (A;A) genotype for this SNP in their user's data, though, so that's clearly incorrect.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q722]]
+    <blockquote>
+        <p class="text-snippet" data-id="722">rs80357522 represents at least 4 BRCA1 gene mutations, known by a variety of names including c.1961dupA, c.1960_1961delAA, c.787+1171_787+1174delAAAA, c.1961del, 2080delA, c.1961_1961delA and p.Lys654Serfs; all are considered pathogenic variants for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q959]]
+    <blockquote>
+        <p class="text-snippet" data-id="959">rs12044852 has been reported in a large study to be associated with multiple sclerosis.The risk allele (oriented to the dbSNP entry) is (C); the odds ratio associated with this allele is 1.24 (CI 1.12-1.37).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1205]]
+    <blockquote>
+        <p class="text-snippet" data-id="1205">rs6498169 has been reported in a large study to be associated with multiple sclerosis.The risk allele (oriented to the dbSNP entry) is (G); the odds ratio associated with this allele is 1.14 (CI 1.08-1.21).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q755]]
+    <blockquote>
+        <p class="text-snippet" data-id="755">rs80357783, also known as c.68_69delAG (p.Glu23Valfs), is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar. See discussion at rs796856605, since this is another name for this (185delAG) mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q271]]
+    <blockquote>
+        <p class="text-snippet" data-id="271">aka c.1279G>C (p.Glu427Gln or E427Q); also reported as p.Glu399Gln or E399QThis mutation is reported to be among the most common ALDH7A1 gene mutations, which when recessively inherited may lead to pyridoxine-dependent epilepsy. See OMIM  107323.0001</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2267]]
+    <blockquote>
+        <p class="text-snippet" data-id="2267">aka c.556C>T (p.Arg186Ter or R186X)This mutation is a very rare variant strongly associated with late-onset noninsulin-dependent diabetes (odds ratio ~68, CI: 14-328, p = 2x10e-8); see ClinVar and OMIM links.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5104]]
+    <blockquote>
+        <p class="text-snippet" data-id="5104">23andMe tests for one mutation that causes torsion dystonia:i4000446, also known as deltaE302 (the risk genotype is a deletion)The rest of the world knows this SNP as rs80358233; for more information, see rs80358233.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2035]]
+    <blockquote>
+        <p class="text-snippet" data-id="2035">rs145045861, also known as c.317 delT or p.L106X, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5070]]
+    <blockquote>
+        <p class="text-snippet" data-id="5070">Genetic polymorphisms of tumour necrosis factor receptor superfamily 1A and 1B affect responses to infliximab in Japanese patients with Crohn's disease. Comprehensive follow-up of the first genome-wide association study of multiple sclerosis identifies KIF21B and TMEM39A as susceptibility loci.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5126]]
+    <blockquote>
+        <p class="text-snippet" data-id="5126">Only for Hispanics, individuals who have a genoset composed of rs1799913(C;C) and rs4290270(T;T) are reported to be at 9x higher risk for developing heroin addiction (CI:0.83-244.63, p=0.012).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1204]]
+    <blockquote>
+        <p class="text-snippet" data-id="1204">rs2292399 and rs2903692 both significantly associated with type 1 diabetes odds ratio 1.37 and 1.28. A joint analysis revealed that rs3087243, rs2292399, and rs2903692, but not INS rs689, were significant risk factors for the cooccurrence of AITD</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q866]]
+    <blockquote>
+        <p class="text-snippet" data-id="866">A calcium channel mutation causing hypokalemic periodic paralysis. Hypokalaemic periodic paralysis type 2 caused by mutations at codon 672 in the muscle sodium channel gene SCN4A. Novel CACNA1S mutation causes autosomal dominant hypokalemic periodic paralysis in a Chinese family.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2043]]
+    <blockquote>
+        <p class="text-snippet" data-id="2043">rs149284013, also known as c.296_297 insT or p.E100RfsX12, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q885]]
+    <blockquote>
+        <p class="text-snippet" data-id="885">rs281875215, also known as c.349G>A, p.Gly117Ser and G117S, represents a rare mutation in the CARD14 gene on chromosome 17.This SNP is one of three CARD14 gain-of-function mutations found through sequencing families exhibiting autosomal dominantly inherited psoriasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5131]]
+    <blockquote>
+        <p class="text-snippet" data-id="5131">Only for Hispanics, individuals who have a genoset composed of rs1799913(C;C) and rs7963720(T;T) are reported to be at 14x higher risk for developing heroin addiction (CI:0.83-244.63, p=0.012).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2039]]
+    <blockquote>
+        <p class="text-snippet" data-id="2039">rs147211454, also known as c.340_352 del13 or p.A114TfsX15, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5098]]
+    <blockquote>
+        <p class="text-snippet" data-id="5098">aka c.422G>A (p.Arg141Gln)The rare minor allele of this variant is reported to be pathogenic/likely pathogenic for familial hypertrophic cardiomyopathy (HCM), according to .This variant has also been reported in a sudden cardiac death patient</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2045]]
+    <blockquote>
+        <p class="text-snippet" data-id="2045">rs149724959, also known as c.2 delT or p.M1S, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3683]]
+    <blockquote>
+        <p class="text-snippet" data-id="3683">rs11203367 increases susceptibility to Rheumatoid Arthritis 1.26 times for carriers of the T allele rs11203367 increases susceptibility to Rheumatoid Arthritis 1.50 times for carriers of the T allele rs11203367 increases susceptibility to Rheumatoid Arthritis 1.97 times for carriers of the T allele</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q884]]
+    <blockquote>
+        <p class="text-snippet" data-id="884">rs281875214, also known as c.413A>C, p.Glu138Ala and E138A, represents a rare mutation in the CARD14 gene on chromosome 17.This SNP is one of three CARD14 gain-of-function mutations found through sequencing families exhibiting autosomal dominantly inherited psoriasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3770]]
+    <blockquote>
+        <p class="text-snippet" data-id="3770">c.192G>C (p.Glu64Asp or E64D)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal recessive, early-onset Parkinson disease (type 7)See also OMIM  602533.000523andMe names this i5047044</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2027]]
+    <blockquote>
+        <p class="text-snippet" data-id="2027">rs141935559, also known as c.157 insC or p.R53PfsX40, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2880]]
+    <blockquote>
+        <p class="text-snippet" data-id="2880">Compound mutations: a common cause of severe long-QT syndrome. Mutation in the KCNQ1 gene leading to the short QT-interval syndrome. Action potential clamp and mefloquine sensitivity of recombinant 'I KS' channels incorporating the V307L KCNQ1 mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3178]]
+    <blockquote>
+        <p class="text-snippet" data-id="3178">Said to be an "Amerindian-specific variant" in ; specifically, the allele frequency for the minor (T) allele is around 4% in many South American populations but is undetected in Asian, European and African populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1694]]
+    <blockquote>
+        <p class="text-snippet" data-id="1694">Associated with schizophrenia in a study of Croatians. Due to the limited number and diversity of the studied population, more study is needed to confirm any link. The G allele was associated with a decreased risk of schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q320]]
+    <blockquote>
+        <p class="text-snippet" data-id="320">i6006940, also known as c.1349G>A or p.R450H, is a SNP in the ALPL gene on chromosome 1.Based on the  ALPL gene mutations database, the rare/minor allele is considered pathogenic for the odonto. form of hypophosphatasia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1692]]
+    <blockquote>
+        <p class="text-snippet" data-id="1692">Associated with schizophrenia in a study of Croatians. Due to the limited number and diversity of the studied population, more study is needed to confirm any link. The C allele was associated with an decreased risk of schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3855]]
+    <blockquote>
+        <p class="text-snippet" data-id="3855">c.1040T>C (p.Leu347Pro or L347P)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal recessive, early-onset Parkinson disease (type 6)See also OMIM  608309.000523andMe calls this i3003043</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1685]]
+    <blockquote>
+        <p class="text-snippet" data-id="1685">rs4648317, a SNP in the dopamine D2 receptor DRD2 gene, has been linked to higher rates of smoking and higher nicotine dependence scores, based on a study of ~220 adolescents. The risk allele rs4648317(T).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3485]]
+    <blockquote>
+        <p class="text-snippet" data-id="3485">all possible mutations are known at this variant: c.2531T>A, c.2531T>C and c.2531T>G, also known as p.Leu844His, p.Leu844Pro and p.Leu844Arg, respectively, and all are considered pathogenic for neurofibromatosis type 1.see NF1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1569]]
+    <blockquote>
+        <p class="text-snippet" data-id="1569">Associated with schizophrenia in a study of Croatians. Due to the limited number and diversity of the studied population, more study is needed to confirm any link. The T allele was associated with a decreased risk of schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2649]]
+    <blockquote>
+        <p class="text-snippet" data-id="2649">a haplotype consisting of rs16827801(T) and rs10194776(G) associated with increased incidence of migraine without aura among a sample of 528 migraine patients (308 without aura, 220 with aura) and 528 sex-matched migraine-free controls</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1568]]
+    <blockquote>
+        <p class="text-snippet" data-id="1568">Associated with schizophrenia in a study of Croatians. Due to the limited number and diversity of the studied population, more study is needed to confirm any link. The G allele was associated with an increased risk of schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q340]]
+    <blockquote>
+        <p class="text-snippet" data-id="340">This SNP is located within an intron of the ANG gene which produces the Angiogenin protein. The T allele is associated with risk of amyotrophic lateral sclerosis (ALS) in Irish and Swedish populations, but not in Polish populations</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3796]]
+    <blockquote>
+        <p class="text-snippet" data-id="3796">rs1321172 has been reported in a large study to be associated with multiple sclerosis.The risk allele (oriented to the dbSNP entry) is (G); the odds ratio associated with this allele is 1.08 (CI 1.02-1.14).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2030]]
+    <blockquote>
+        <p class="text-snippet" data-id="2030">rs143232208, also known as c.11-12 delTC or p.L4RfsX88, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4643]]
+    <blockquote>
+        <p class="text-snippet" data-id="4643">rs111033220, also known as c.1229C>T, p.Thr410Met and T410M, represents a rare mutation in the SLC26A4 gene.Inherited recessively, this variant is considered pathogenic for Pendred Syndrome, manifest as hearing loss and enlarged vestibular aqueduct syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3091]]
+    <blockquote>
+        <p class="text-snippet" data-id="3091">a haplotype consisting of rs3027400(G) and rs2072743(C) associated with increased incidence of migraine without aura among a sample of 528 migraine patients (308 without aura, 220 with aura) and 528 sex-matched migraine-free controls</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1015]]
+    <blockquote>
+        <p class="text-snippet" data-id="1015">rs3176336 shows an association with breast cancer in a British study involving ~2300 patients. The odds ratio for the (T;T) vs (A;A) homozygotes is 1.25 (CI: 1.11-1.42, p=0.0026).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2018]]
+    <blockquote>
+        <p class="text-snippet" data-id="2018">rs138446138, also known as c.202_205 delGTCAinsTTG or p.V68LfsX8, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2024]]
+    <blockquote>
+        <p class="text-snippet" data-id="2024">rs140510894, also known as c.104 delC or p.P35HfsX41, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q98]]
+    <blockquote>
+        <p class="text-snippet" data-id="98">ABO blood grouprs507666, at the ABO (9q34.2) locus is highly correlated with sICAM-1 concentrations. The novel association at the ABO locus provides evidence for a previously unknown regulatory role of histo-blood group antigens in inflammatory adhesion processes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5387]]
+    <blockquote>
+        <p class="text-snippet" data-id="5387">rs2363337, also known as c.3379+1G>A, is a SNP in the VWF gene on chromosome 12.The rarer rs2363337(T) allele is considered likely to cause Von Willebrand disease, type 1, according to one publication.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3368]]
+    <blockquote>
+        <p class="text-snippet" data-id="3368">Also known as I128T MTP rare allele of the MTP I128T polymorphism may be protective against impaired glucose tolerance, type-2 diabetes Association of polymorphisms in glutamate-cysteine ligase catalytic subunit and microsomal triglyceride transfer protein genes with nonalcoholic fatty liver disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2020]]
+    <blockquote>
+        <p class="text-snippet" data-id="2020">rs138491271, also known as c.118 delC or p.R40VfsX36, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2025]]
+    <blockquote>
+        <p class="text-snippet" data-id="2025">rs140987490, also known as c.384-2_A>G or , is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3766]]
+    <blockquote>
+        <p class="text-snippet" data-id="3766">c.497T>C (p.Leu166Pro or L166P)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal recessive, early-onset Parkinson disease (type 7)See also OMIM  602533.000223andMe calls this i5047042</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1355]]
+    <blockquote>
+        <p class="text-snippet" data-id="1355">increased risk of breast cancer with concurrent proliferative fibrocystic conditions rs1004982(C) 2.19 (1.24-3.85) rs28566535(C) 2.20 (1.27-3.82) rs936306(T) 1.94 (1.13-3.30)  rs4775936(C) 1.95 (1.07-3.58)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3997]]
+    <blockquote>
+        <p class="text-snippet" data-id="3997">Pro-opiomelanocortin gene variation related to alcohol or drug dependence: evidence and replications across family- and population-based studies. Association between variants in the genes for leptin, leptin receptor, and proopiomelanocortin with chronic heart failure in the Czech population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4621]]
+    <blockquote>
+        <p class="text-snippet" data-id="4621">This SNP is one of three from the SLC24A5 gene that can be analyzed to categorize the ancestry of a person as either European, African, or Asian, based on a 2009 study.The 3 SNPs are:  rs1426654  rs2555364  rs16960620</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2021]]
+    <blockquote>
+        <p class="text-snippet" data-id="2021">rs138837292, also known as c.100 delG or p.A34PfsX42, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2026]]
+    <blockquote>
+        <p class="text-snippet" data-id="2026">rs141526971, also known as c.482_+_2 T>G or , is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4035]]
+    <blockquote>
+        <p class="text-snippet" data-id="4035">PPP2R5D gene, aka c.592G>A, p.Glu198Lys and E198KConsidered to be a de novo (dominant) missense variant associated with intellectual disability, macrocephaly, hypotonia, and autism; see ClinVar and  as well as links on PPP2R5D page</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3459]]
+    <blockquote>
+        <p class="text-snippet" data-id="3459">NAT2 slow acetylation, GSTM1 null genotype, and risk of bladder cancer: results from the Spanish Bladder Cancer Study and meta-analyses. Genetic variation in N-acetyltransferase 1 (NAT1) and 2 (NAT2) and risk of non-Hodgkin lymphoma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1022]]
+    <blockquote>
+        <p class="text-snippet" data-id="1022">rs1063192 is a SNP in the cyclin-dependent kinase inhibitor 2B CDKN2B gene.A study of 432 Han Chinese patients with myocardial infarctions concluded that male subjects carrying a rs1063192(C) allele were at 0.71x decreased risk (for MI).Myocardial Infarction</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4033]]
+    <blockquote>
+        <p class="text-snippet" data-id="4033">PPP2R5D gene, aka c.1258G>A, p.Glu420Lys and E420KConsidered to be a de novo (dominant) missense variant associated with intellectual disability, macrocephaly, hypotonia, and autism; see ClinVar and  as well as links on PPP2R5D page</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2023]]
+    <blockquote>
+        <p class="text-snippet" data-id="2023">rs140472905, also known as c.443_A>G or p.Q148R, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1950]]
+    <blockquote>
+        <p class="text-snippet" data-id="1950">/ 23andMe blog  rs1867138(T;T) or rs1867137(G;G) were approximately one inch taller than rs1867138(C;C) rs9834312(G;G) or rs939882(G;G) increased height</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1658]]
+    <blockquote>
+        <p class="text-snippet" data-id="1658">rs3003609 is a SNP in the dynamin 1 DNM1 gene.The (T) allele of rs3003609 is associated with heavier smoking and thus nicotine dependence, at least in Caucasians though perhaps not African-Americans, based on a study of 600+ families.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4032]]
+    <blockquote>
+        <p class="text-snippet" data-id="4032">PPP2R5D gene, aka c.598G>A, p.Glu200Lys and E200KConsidered to be a de novo (dominant) missense variant associated with intellectual disability, macrocephaly, hypotonia, and autism; see ClinVar and  as well as links on PPP2R5D page</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2005]]
+    <blockquote>
+        <p class="text-snippet" data-id="2005">Although based on a relatively small study, there's a strong association (odds ratios above 30) between the very rare (and neighboring) minor alleles of rs8056264 and rs929867 with common variable immunodeficiency (CVID) reported in .</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q26]]
+    <blockquote>
+        <p class="text-snippet" data-id="26">Sequencing of the ABCA7 gene in a Belgian cohort of 700+ patients with Alzheimer's disease led to the association of the rare rs78117248(G) allele with increased risk (odds ratio 2.07, CI: 1.31-3.27, p=0.0016).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1546]]
+    <blockquote>
+        <p class="text-snippet" data-id="1546">rs45593941, also known as L82R, is a SNP in the CYP3A5 gene.The rs45593941(T) allele defines the CYP3A5 3F variant, which is nonfunctional.'''NOTE: this SNP has been merged into''' rs28365085.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2046]]
+    <blockquote>
+        <p class="text-snippet" data-id="2046">rs150676454, also known as c.165_+_5 G>C or , is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4040]]
+    <blockquote>
+        <p class="text-snippet" data-id="4040">aka c. 526_ 529delATCAThe minor (deletion) allele is reported as pathogenic (when inherited recessively) by one source in ClinVar as pathogenic for a neuronal ceroid lipofuscinosis, among the most common types of neurodegenerative disorders seen in children.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1895]]
+    <blockquote>
+        <p class="text-snippet" data-id="1895">rs2272783, also known as IVS3-48T-C, is a mutation in the ferrochelatase FECH gene leading to lowered expression of that enzyme.When coupled in trans with a nonfunctional FECH allele, this is likely to lead to erythropoietic protoporphyria.See also:  OMIM 612386.0015</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5400]]
+    <blockquote>
+        <p class="text-snippet" data-id="5400">rs113993961 is a rare transversion in the WRN gene that results in a frameshift of codons 1078 to 1092 due to a change in a splice donor sequence, leading to the recessive disorder known as Werner Syndrome. See  OMIM 604611.0004.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1441]]
+    <blockquote>
+        <p class="text-snippet" data-id="1441">Impact of genetic polymorphisms in CYP2C8 and rosiglitazone intake on the urinary excretion of dihydroxyeicosatrienoic acids. Role of cytochrome P450 2C8 and 2J2 genotypes in calcineurin inhibitor-induced chronic kidney disease. Cytochrome P450 2C8 pharmacogenetics: a review of clinical studies.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4860]]
+    <blockquote>
+        <p class="text-snippet" data-id="4860">Papillary thyroid carcinoma (PTC) patients were genotyped and sequenced, and a mutation in the SRRM2 gene co-segregated with the disease in some but not all families - rs149019598, also known as c.1037C > T, Ser346Phe and S346F.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1149]]
+    <blockquote>
+        <p class="text-snippet" data-id="1149">Rs2297950 is a single nucleotide polymorphism at position 102 (Gly102Arg) in the chitotriosidase gene which results in chitotriosidase deficiency, implicated in altered defense against chitin containing organisms and in some inflammatory conditions such as inflammatory bowel disease and asthma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1603]]
+    <blockquote>
+        <p class="text-snippet" data-id="1603">aka c.356A>T (p.His119Leu or H119L); note that c.356A>G (p.His119Arg) is also a known variant for rs28938174, however, it's significance is uncertain (whereas c.356A>T is pathogenic for SLO)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3851]]
+    <blockquote>
+        <p class="text-snippet" data-id="3851">Near the PINK1 gene, this SNP may be related to obesity and diabetes.Genomic variants at the PINK1 locus are associated with transcript abundance and plasma nonesterified fatty acid concentrations in European whites. T allele associated with higher PINK1 transcript levels.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2268]]
+    <blockquote>
+        <p class="text-snippet" data-id="2268">A high prevalence of glucokinase mutations in gestational diabetic subjects selected by clinical criteria. From clinicogenetic studies of maturity-onset diabetes of the young to unraveling complex mechanisms of glucokinase regulation. Diagnostic screening of MODY2/GCK mutations in the Norwegian MODY Registry.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q854]]
+    <blockquote>
+        <p class="text-snippet" data-id="854">Loss-of-function mutations in the cardiac calcium channel underlie a new clinical entity characterized by ST-segment elevation, short QT intervals, and sudden cardiac death. Mutations in the cardiac L-type calcium channel associated with inherited J-wave syndromes and sudden cardiac death.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q574]]
+    <blockquote>
+        <p class="text-snippet" data-id="574">/ 23andMe blog Each copy of a G at this SNP increases the odds of aggressive neuroblastoma by 1.68 times.allelic odds ratio of 1.68 (p = 2.74 x 10(-16)) Chromosome 6p22 locus associated with clinically aggressive neuroblastoma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2260]]
+    <blockquote>
+        <p class="text-snippet" data-id="2260">GTP cyclohydrolase and tetrahydrobiopterin regulate pain sensitivity and persistence. T allele associated with higher tolerance to pain.Polymorphisms in the GTP cyclohydrolase gene (GCH1) are associated with ratings of capsaicin pain. T allele associated with higher tolerance to pain.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2740]]
+    <blockquote>
+        <p class="text-snippet" data-id="2740">news linked to asthma Asthma and genes encoding components of the vitamin D pathway. Genetic evidence for a role of IL33 in nasal polyposis. Interleukin-1 receptor-like 1 polymorphisms are associated with serum IL1RL1-a, eosinophils, and asthma in childhood.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q936]]
+    <blockquote>
+        <p class="text-snippet" data-id="936">Translational mini-review series on the immunogenetics of gut disease: immunogenetics of coeliac disease. Shared and distinct genetic variants in type 1 diabetes and celiac disease. Candidate causal regulatory effects by integration of expression QTLs with complex trait genetic associations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3219]]
+    <blockquote>
+        <p class="text-snippet" data-id="3219">shows that the following four SNPs in the  MHC region play a particular important role in the protection of developing AIDS: rs9264942, rs4418214, rs2395029, rs3131018 also including the two variants in CCR5 rs333 (delta32) and C927T.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2258]]
+    <blockquote>
+        <p class="text-snippet" data-id="2258">GTP cyclohydrolase and tetrahydrobiopterin regulate pain sensitivity and persistence. C allele associated with higher tolerance to pain.Polymorphisms in the GTP cyclohydrolase gene (GCH1) are associated with ratings of capsaicin pain. C allele associated with higher tolerance to pain.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5230]]
+    <blockquote>
+        <p class="text-snippet" data-id="5230">Folate metabolism genes, vegetable intake and renal cancer risk in central Europe. No association of single nucleotide polymorphisms in one-carbon metabolism genes with prostate cancer risk. Association of thymidylate synthase gene with endometrial cancer risk in a Chinese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4478]]
+    <blockquote>
+        <p class="text-snippet" data-id="4478">c.1177C>A (p.Pro393Thr) Described as a pathogenic variant by a single lab (HerediLab) in ClinVar; not described elsewhere to our knowledge. If true, this would be considered an SERPINA1 genotype associated with alpha1-antitrypsin deficiency.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q786]]
+    <blockquote>
+        <p class="text-snippet" data-id="786">rs80357971, also known as 2800delAA, c.2681_2682delAA and p.Lys894Thrfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.This BRCA1 mutation is generally considered to be a founder mutation from Scotland and Northern Ireland.23andMe name: i4000456</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q239]]
+    <blockquote>
+        <p class="text-snippet" data-id="239">Yasko Methylation Catalyzes the hydrolysis of AdoHcy to adenosine and homocysteine. AdoHcy hydrolysis serves not only to sustain the flux of methionine sulfur toward cysteine, but is believed also to play a critical role in the regulation of biologic methylations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2646]]
+    <blockquote>
+        <p class="text-snippet" data-id="2646">A 2016 publication based on data from 1115 Caucasian patients with schizophrenia reported that the T/T genotype at rs7330461 is consistently associated with an increased treatment response to 40 mg twice daily pomaglumetad methionil (LY2140023 monohydrate) compared to the A/A genotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2017]]
+    <blockquote>
+        <p class="text-snippet" data-id="2017">rs138034837, also known as c.493 C>T or p.R165C, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3421]]
+    <blockquote>
+        <p class="text-snippet" data-id="3421">Nonmuscle myosin heavy chain IIA mutations define a spectrum of autosomal dominant macrothrombocytopenias: May-Hegglin anomaly and Fechtner, Sebastian, Epstein, and Alport-like syndromes. Epstein syndrome: another renal disorder with mutations in the nonmuscle myosin heavy chain 9 gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2022]]
+    <blockquote>
+        <p class="text-snippet" data-id="2022">rs139616452, also known as c.544 C>T or p.L182F, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2627]]
+    <blockquote>
+        <p class="text-snippet" data-id="2627">aka c.10894C>T, p.Arg3632Ter and R3632XConsidered pathogenic for Schwartz Jampel syndrome type 1 and Lethal Kniest-like syndrome (DDSH) in ClinVar; note however that the first is inherited recessively while the latter is usually considered to be inherited dominantly.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2659]]
+    <blockquote>
+        <p class="text-snippet" data-id="2659">rs6807362 is a SNP in the 5-hydroxytryptamine (serotonin) receptor 3, family member C HTR3C gene.In a study of 97 familes with at least one individual with autism, rs6807362 was significantly associated with the disorder (p = 0.0012).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2019]]
+    <blockquote>
+        <p class="text-snippet" data-id="2019">rs138471431, also known as c.463 T>C or p.W155R, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2028]]
+    <blockquote>
+        <p class="text-snippet" data-id="2028">rs142133355, also known as c.2 T>C or p.M1T, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2658]]
+    <blockquote>
+        <p class="text-snippet" data-id="2658">rs6766410 is a SNP in the 5-hydroxytryptamine (serotonin) receptor 3, family member C HTR3C gene.In a study of 97 familes with at least one individual with autism, rs6766410 was significantly associated with the disorder (p = 0.0012).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4004]]
+    <blockquote>
+        <p class="text-snippet" data-id="4004">According to , variations at rs17876088, now known as rs12704795, located in an intron of the PON2 gene, appear to modulate both susceptibility to, and protection from, the sporadic form of ALS (Lou Gehrig's disease).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2029]]
+    <blockquote>
+        <p class="text-snippet" data-id="2029">rs142157346, also known as c.364 G>T or p.D122Y, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2626]]
+    <blockquote>
+        <p class="text-snippet" data-id="2626">aka c.4595G>A, p.Cys1532Tyr and C1532YOMIM cites a paper stating this mutation as leading to (recessively inherited) Schwartz Jampel syndrome type 1, however, note the mention of a subsequent paper questioning whether there was an additional cause.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2613]]
+    <blockquote>
+        <p class="text-snippet" data-id="2613">aka c.1369A>T (p.Asn457Tyr or N457Y), and also c.1369A>G (p.Asn457Asp or N457D); the former is considered in ClinVar to be pathogenic, the latter likely to be pathogenic23andMe name for c.1369A>T: i5007146</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4076]]
+    <blockquote>
+        <p class="text-snippet" data-id="4076">Also known as c.102G>T transversion that results in an p.Arg34Ser amino acid. Low-frequency protamine 1 gene transversions c.102G->T and c.-107G->C do not correlate with male infertility Mutations in the protamine 1 gene associated with male infertilityMale Infertility</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5039]]
+    <blockquote>
+        <p class="text-snippet" data-id="5039">rs5743815, a SNP in the TLR6 gene also known as V427A, is associated with risk for developing Non-Hodgkin Lymphoma based on a study of 458 patients. The odds ratio is 5.20 (CI: 1.77-15.3, p<0.01).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1503]]
+    <blockquote>
+        <p class="text-snippet" data-id="1503">rs72559710, also known as 1132G>A or R76H according to "cypalleles", but perhaps really 1132G>C or R76P instead, is a SNP in the CYP2E1 gene.The rs72559710(C) allele defines the CYP2E1 2 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3077]]
+    <blockquote>
+        <p class="text-snippet" data-id="3077">Associated with at least one "mortality outcome" in a study of ~10,000 individuals.Separately, a meta-analysis of 10 case-control studies, including over 2,200 Graves' disease cases, concluded that rs1799964(C) carriers were associated with the disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4204]]
+    <blockquote>
+        <p class="text-snippet" data-id="4204">rs61761208, also known as c.421A>T, N141Y or Asn141Tyr, is a mutation in the presenilin 2 PSEN2 gene.The minor allele is reported as pathogenic for early-onset Alzheimer's disease in the  AlzForum database, based on a 2014 publication.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3869]]
+    <blockquote>
+        <p class="text-snippet" data-id="3869">mentioned by gs240 Association of autism with polymorphisms in the paired-like homeodomain transcription factor 1 (PITX1) on chromosome 5q31: a candidate gene analysis. Assessing the impact of a combined analysis of four common low-risk genetic variants on autism risk.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1971]]
+    <blockquote>
+        <p class="text-snippet" data-id="1971">(C;C) greater odds of longevity Replication of an association of variation in the FOXO3A gene with human longevity using both case-control and longitudinal data. Association of the FOXO3A locus with extreme longevity in a southern Italian centenarian study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1308]]
+    <blockquote>
+        <p class="text-snippet" data-id="1308">Cystatin C L68Q founder mutation for Icelandic hereditary cystatin C amyloid angiopathy (HCCAA) is an autosomal dominant disease with high penetrance, manifest by brain hemorrhages in young normotensive adults. This snp has now been studied extensively.full text available from  plos</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3098]]
+    <blockquote>
+        <p class="text-snippet" data-id="3098">Parkinson's disease The risk alleles for each SNP identified from conditional logistic regression, rs1721100 C, rs1721082 T and rs1799836 A, are consistent with previous reports.Significant interaction between this MAOB SNP and a FGF20 SNP, rs1721100 was also noticed.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4134]]
+    <blockquote>
+        <p class="text-snippet" data-id="4134">aka c.649dupC (p.Arg217Profs 8)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant dystonia (type 10), also known as episodic kinesigenic dyskinesia-1 or paroxysmal kinesigenic dyskinesiasee also OMIM  614386.0001</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3121]]
+    <blockquote>
+        <p class="text-snippet" data-id="3121">Haplotypes and gene expression implicate the MAPT region for Parkinson disease: the GenePD Study. The distribution and most recent common ancestor of the 17q21 inversion in humans. Independent and joint effects of the MAPT and SNCA genes in Parkinson disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4461]]
+    <blockquote>
+        <p class="text-snippet" data-id="4461">aka c.149A>G, p.His50Arg or H50RClassified as benign in ClinVar. Somewhat rare (~0.5%) allele frequency, but nowhere near as rare as the 1:100,000 incidence of the rare cancers cited in the OMIM entry for this variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2031]]
+    <blockquote>
+        <p class="text-snippet" data-id="2031">rs143340609, also known as c.467 T>C or p.L156P, is a mutation in the FXN gene on chromosome 9.The minor allele of this SNP is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4569]]
+    <blockquote>
+        <p class="text-snippet" data-id="4569">rs767058690, also known as c.3032G>T, p.Gly1011Val and G1011V, represents a rare mutation in the SHANK3 gene on chromosome 22.The minor allele of this SNP has been reported as associated with either autism or the closely related Phelan-McDermid syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4034]]
+    <blockquote>
+        <p class="text-snippet" data-id="4034">PPP2R5D gene, aka c.589G>A, p.Glu197Lys, and E197KConsidered to be a de novo (dominant) missense variant associated with intellectual disability, macrocephaly, hypotonia, and autism; see ClinVar and  as well as links on PPP2R5D page</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1778]]
+    <blockquote>
+        <p class="text-snippet" data-id="1778">rs2287987 is one of several SNPs in the ERAP1 gene that has been shown in a large (over 1,000 Caucasian patients) study to be associated with ankylosing spondylitis. The odds ratio is 0.71 (p=1.0x10e-8).PMID 17952073, PMID 18037607</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2753]]
+    <blockquote>
+        <p class="text-snippet" data-id="2753">rs11465804 is one of several SNPs in the IL23R gene that has been shown in a large (over 1,000 Caucasian patients) study to be associated with ankylosing spondylitis. The odds ratio is 0.68 (p=0.0002).PMID 17952073, PMID 18037607</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q897]]
+    <blockquote>
+        <p class="text-snippet" data-id="897">rs4645978 is a SNP that has been found to significantly decrease the risk of lung cancer in Koreans. It was also found to have no impact on the risk of multiple myeloma. The paper describing these effects is here: PMID|16687442.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    

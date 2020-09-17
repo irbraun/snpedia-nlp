@@ -1,0 +1,4595 @@
+[[AdvancedFormat]]
+[[Block:Block 9]]
+
+    [[Question:Text]]
+    [[ID:q2582]]
+    <blockquote>
+        <p class="text-snippet" data-id="2582">/ 23andMe blog each rs1183910(T) lowered CRP by 13.8% also associated with higher total cholesterol, LDL choesterol and HDL cholesterol.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q742]]
+    <blockquote>
+        <p class="text-snippet" data-id="742">rs80357641, also known as 4868delAG, c.4749_4750delAG and p.Arg1583_Ala1584SerProfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q983]]
+    <blockquote>
+        <p class="text-snippet" data-id="983">Also known as c.2287G>T or p.Glu763Ter, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2757]]
+    <blockquote>
+        <p class="text-snippet" data-id="2757">Polymorphisms of IL23R and Vogt-Koyanagi-Harada syndrome in a Chinese Han population. Association study of IL10 and IL23R-IL12RB2 in Iranian patients with Behcet's disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q725]]
+    <blockquote>
+        <p class="text-snippet" data-id="725">rs80357558, also known as 5536delC, c.5417_5417delC and p.Pro1806Glnfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5106]]
+    <blockquote>
+        <p class="text-snippet" data-id="5106">After adjusting for age, sex, and their interaction, a strong association between dystonia and two SNPs, rs13283584 and rs1182 was observed.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2868]]
+    <blockquote>
+        <p class="text-snippet" data-id="2868">The association between type-1 diabetes and rs5215 is mentioned as being replicated in ; there is also a 90% correlation between rs5215 and rs5219.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q838]]
+    <blockquote>
+        <p class="text-snippet" data-id="838">A SNP in the C3 gene, rs11569562, has been associated with increased risk for adult bronchial asthma in a study of Japanese patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q782]]
+    <blockquote>
+        <p class="text-snippet" data-id="782">rs80357941, also known as 795delT, c.676_676delT and p.Cys226Valfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q743]]
+    <blockquote>
+        <p class="text-snippet" data-id="743">rs80357654, also known as 2329delCA, c.2210_2211delCA and p.Thr737Serfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4336]]
+    <blockquote>
+        <p class="text-snippet" data-id="4336">This SNP is included in a curated list of mutations useful to include on an Ashkenazi Jews screening panel.aka c.361dupT; Leber congenital amaurosis 2?</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4384]]
+    <blockquote>
+        <p class="text-snippet" data-id="4384">rs118192176, aka p.Val2168Met or p.V2168M, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name: i5000015</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q741]]
+    <blockquote>
+        <p class="text-snippet" data-id="741">rs80357637, also known as 262delT, c.143_143delT and p.Met48Serfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4378]]
+    <blockquote>
+        <p class="text-snippet" data-id="4378">rs118192163, aka p.Arg2163His or p.R2163H, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name: i3002773</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1141]]
+    <blockquote>
+        <p class="text-snippet" data-id="1141">Comprehensive analysis of the ATM, CHEK2 and ERBB2 genes in relation to breast tumour characteristics and survival: a population-based case-control and follow-up study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q759]]
+    <blockquote>
+        <p class="text-snippet" data-id="759">rs80357804, also known as 4235delTG, c.4116_4117delTG and p.Cys1372_Glu1373TerGlufs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q780]]
+    <blockquote>
+        <p class="text-snippet" data-id="780">rs80357916, also known as 4510delC, c.4391_4391delC and p.Pro1464Leufs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q860]]
+    <blockquote>
+        <p class="text-snippet" data-id="860">/ 23andMe blog  each copy of an G at rs12603112 increases the odds of autism in boys by 2.2x, although the G is very common</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3604]]
+    <blockquote>
+        <p class="text-snippet" data-id="3604">gwas among adults residing on Korcula Island in Croatia, fibrinogen, the A allele associated with increased fibrinogen levels<br><br></p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q781]]
+    <blockquote>
+        <p class="text-snippet" data-id="781">rs80357925, also known as 5378delA, c.5259_5259delA and p.Arg1753=fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2779]]
+    <blockquote>
+        <p class="text-snippet" data-id="2779">A haplotype of the IL6 gene appears to be overrepresented in sciatica patients.PMID 15733644, PMID 18321738. The haplotype consists of SNPs rs1800797-rs1800796- rs1800795-rs13306435.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q740]]
+    <blockquote>
+        <p class="text-snippet" data-id="740">rs80357635, also known as 3347delAG, c.3228_3229delAG and p.Arg1076_Gly1077ArgAlafs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q737]]
+    <blockquote>
+        <p class="text-snippet" data-id="737">rs80357618, also known as 1135delA, c.1016_1016delA and p.Lys339Argfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q765]]
+    <blockquote>
+        <p class="text-snippet" data-id="765">rs80357846, also known as 3124delA, c.3005_3005delA and p.Asn1002Thrfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q732]]
+    <blockquote>
+        <p class="text-snippet" data-id="732">rs80357601, also known as 3121delA, c.3002_3002delA and p.Glu1001=fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2825]]
+    <blockquote>
+        <p class="text-snippet" data-id="2825">rs4728142, rs3807306 and a 5 bp insertion-deletion linked multiple sclerosis in three populations Associated with systemic lupus erythematosus (SLE) in African Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q783]]
+    <blockquote>
+        <p class="text-snippet" data-id="783">rs80357945, also known as 3477delGT, c.3358_3359delGT and p.Val1120Terfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q768]]
+    <blockquote>
+        <p class="text-snippet" data-id="768">rs80357854, also known as 4601delAA, c.4482_4483delAA and p.Glu1494_Arg1495GluValfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q970]]
+    <blockquote>
+        <p class="text-snippet" data-id="970">Also known as c.2095C>T or p.Gln699Ter, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q731]]
+    <blockquote>
+        <p class="text-snippet" data-id="731">rs80357600, also known as 1793delA, c.1674_1674delA and p.Lys558=fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3644]]
+    <blockquote>
+        <p class="text-snippet" data-id="3644">middle European ancestry, suggesting a founder effect. fairly common (2%) in the population but apparently was not always expressed.  omim</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q791]]
+    <blockquote>
+        <p class="text-snippet" data-id="791">rs80357993, also known as 3889delAG, c.3770_3771delAG and p.Glu1257Glyfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q790]]
+    <blockquote>
+        <p class="text-snippet" data-id="790">rs80357981, also known as 4362delG, c.4243_4243delG and p.Glu1415Lysfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q734]]
+    <blockquote>
+        <p class="text-snippet" data-id="734">rs80357607, also known as 2634delC, c.2515_2515delC and p.His839Thrfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4396]]
+    <blockquote>
+        <p class="text-snippet" data-id="4396">rs193922753, aka c.488G>T, p.Arg163Leu or p.R163L, is a SNP in the RYR1 gene considered causative for malignant hyperthermia.23andMe name: i6017694</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q753]]
+    <blockquote>
+        <p class="text-snippet" data-id="753">rs80357747, also known as 816delGT, c.697_698delGT and p.Val233Asnfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3621]]
+    <blockquote>
+        <p class="text-snippet" data-id="3621">Adult attention deficit hyperactivity disorder (ADHD) 143 high-risk male subjects . rs6332 showed a trend toward an association between the A-allele and increased scores</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q789]]
+    <blockquote>
+        <p class="text-snippet" data-id="789">rs80357980, also known as 3731delA, c.3612_3612delA and p.Arg1204=fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q747]]
+    <blockquote>
+        <p class="text-snippet" data-id="747">rs80357688, also known as 2190delA, c.2071_2071delA and p.Arg691Aspfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q779]]
+    <blockquote>
+        <p class="text-snippet" data-id="779">rs80357908, also known as 1629delC, c.1510_1510delC and p.Arg504Valfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q788]]
+    <blockquote>
+        <p class="text-snippet" data-id="788">rs80357977, also known as 4370delGT, c.4251_4252delGT and p.Val1417_Leu1418ValArgfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q754]]
+    <blockquote>
+        <p class="text-snippet" data-id="754">rs80357774, also known as 1137delG, c.1018_1018delG and p.Val340Terfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q756]]
+    <blockquote>
+        <p class="text-snippet" data-id="756">rs80357786, also known as 2418delA, c.2299_2299delA and p.Ser767Alafs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q721]]
+    <blockquote>
+        <p class="text-snippet" data-id="721">rs80357520, also known as 3878delTA, c.3759_3760delTA and p.Ser1253_Lys1254SerGlufs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q728]]
+    <blockquote>
+        <p class="text-snippet" data-id="728">rs80357590, also known as 5454delC, c.5335_5335delC and p.Gln1779Asnfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q757]]
+    <blockquote>
+        <p class="text-snippet" data-id="757">rs80357787, also known as 4239delAG, c.4120_4121delAG and p.Ser1374Terfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2189]]
+    <blockquote>
+        <p class="text-snippet" data-id="2189">aka c.1700A>C, p.Tyr567SerIdentified in ClinVar as likely pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4390]]
+    <blockquote>
+        <p class="text-snippet" data-id="4390">rs121918595, aka p.Thr4826Ile or p.T4826I, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name: i6017603</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q784]]
+    <blockquote>
+        <p class="text-snippet" data-id="784">rs80357969, also known as 1479delAG, c.1360_1361delAG and p.Ser454Terfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q723]]
+    <blockquote>
+        <p class="text-snippet" data-id="723">rs80357524, also known as 2552delC, c.2433_2433delC and p.Pro811=fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q727]]
+    <blockquote>
+        <p class="text-snippet" data-id="727">rs80357583, also known as 2388delG, c.2269_2269delG and p.Val757Phefs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2701]]
+    <blockquote>
+        <p class="text-snippet" data-id="2701">rs2222202 (C/T) (p=0.03) and rs1800871 (C/T) (p=0.05) showed significant allelic associations with pediatric onset Crohn's disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q745]]
+    <blockquote>
+        <p class="text-snippet" data-id="745">rs80357664, also known as 2530delAG, c.2411_2412delAG and p.Gln804Leufs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4393]]
+    <blockquote>
+        <p class="text-snippet" data-id="4393">aka c.742G>C (p.Gly248Arg) and also c.742G>A (p.Gly248Arg); both are pathogenic23andMe name for c.742G>A: i3002484</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q764]]
+    <blockquote>
+        <p class="text-snippet" data-id="764">rs80357844, also known as 1048delA, c.929_929delA and p.Gln310Argfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q736]]
+    <blockquote>
+        <p class="text-snippet" data-id="736">rs80357612, also known as 1240delC, c.1121_1121delC and p.Thr374Asnfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5328]]
+    <blockquote>
+        <p class="text-snippet" data-id="5328">Identification of genes and haplotypes that predict rheumatoid arthritis using random forests. Polymorphisms in the VEGF-A in polypoidal choroidal vasculopathy in a Korean population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2956]]
+    <blockquote>
+        <p class="text-snippet" data-id="2956">KRIT1 gene, c.987C>A, p.Cys329Ter, C329X mutationrs267607204(A) is considered a dominantly inherited pathogenic mutation for cerebral cavernous malformation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q171]]
+    <blockquote>
+        <p class="text-snippet" data-id="171">rs44707, a SNP in the ADAM33 gene, has been linked to a predisposition to asthma and bronchial hyperresponsiveness. PMID 12110844, PMID 14564349</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1303]]
+    <blockquote>
+        <p class="text-snippet" data-id="1303">Association study of CSF2RB with schizophrenia in Irish family and case - control samples. Interaction between interleukin 3 and dystrobrevin-binding protein 1 in schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4877]]
+    <blockquote>
+        <p class="text-snippet" data-id="4877">rs28938471 was deleted from dbSNP on Jul 25, 2012 because its subsnp_id was deleted: The snp_id was linked to the following subsnp_id: ss38342135</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4794]]
+    <blockquote>
+        <p class="text-snippet" data-id="4794">SNX10 gene, c.46C>T (p.Arg16Ter)rs587777490(T) is considered a recessively inherited mutation pathogenic for osteopetrosis, type 8.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4793]]
+    <blockquote>
+        <p class="text-snippet" data-id="4793">SNX10 gene, c.152G>A (p.Arg51Gln)rs398123011(A) is considered a recessively inherited mutation pathogenic for osteopetrosis, type 8.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1592]]
+    <blockquote>
+        <p class="text-snippet" data-id="1592">The rs9341301(C;C) mutation is a reliable indicator of Haplogroup I (Y-DNA) and is also referred to as M258+.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1787]]
+    <blockquote>
+        <p class="text-snippet" data-id="1787">Roberts syndrome is caused by mutations in ESCO2, a human homolog of yeast ECO1 that is essential for the establishment of sister chromatid cohesion.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1362]]
+    <blockquote>
+        <p class="text-snippet" data-id="1362">rs2470152 is clearly associated with serum E2 and E1 levels in men, influencing risk of many conditions including prostate cancer, breast cancer and osteoporosis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4735]]
+    <blockquote>
+        <p class="text-snippet" data-id="4735">aka c.1252A>T (p.Thr418Ser or T418S); note ambiguous flip potential, especially given plus/FWD orientation of SNP but minus/REV orientation of cDNA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1961]]
+    <blockquote>
+        <p class="text-snippet" data-id="1961">rs72549330, also known as Glu314Ter, is a SNP in the FMO3 gene. It has been reported in a single patient with trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2805]]
+    <blockquote>
+        <p class="text-snippet" data-id="2805">/ 23andMe blog rs10815149(C) increased risk of myeloproliferative neoplasm due to stem cells over producing too many of one type of cell.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5195]]
+    <blockquote>
+        <p class="text-snippet" data-id="5195">aka c.330_334delGGAGG; MMAF recessive mutation.: Mutations in TTC29, Encoding an Evolutionarily Conserved Axonemal Protein, Result in Asthenozoospermia and Male Infertility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4274]]
+    <blockquote>
+        <p class="text-snippet" data-id="4274">PYGM gene, c.1A>C, p.Met1Leu or M1L23andMe name for A>G variant (not the A>C variant): i5005806</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3074]]
+    <blockquote>
+        <p class="text-snippet" data-id="3074">, AEHA 2008 ppt - rs4404477(A)/rs1676232(A) defines a significant heart disease | left main coronary artery disease risk haplotype</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1389]]
+    <blockquote>
+        <p class="text-snippet" data-id="1389">Also known as 355G>T or A119S, the T allele is associated with gene variants CYP1B1 2, CYP1B1 6 and CYP1B1 7.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5223]]
+    <blockquote>
+        <p class="text-snippet" data-id="5223">The complex global pattern of genetic variation and linkage disequilibrium at catechol-O-methyltransferase. Polymorphisms in estrogen- and androgen-metabolizing genes and the risk of gastric cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1447]]
+    <blockquote>
+        <p class="text-snippet" data-id="1447">rs1057909 is a SNP in the CYP2C9 gene.The rs1057909(G) allele defines the CYP2C9_42612A>G variant, about which little is known.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1411]]
+    <blockquote>
+        <p class="text-snippet" data-id="1411">CYP2B6 (c.516G-->T) and CYP2A6 ( 9B and/or  17) polymorphisms are independent predictors of efavirenz plasma concentrations in HIV-infected patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1443]]
+    <blockquote>
+        <p class="text-snippet" data-id="1443">(T;T) associated with a higher risk of osteonecrosis of the jaw in am small study of multiple myeloma patients under bisphosphonate therapy</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2471]]
+    <blockquote>
+        <p class="text-snippet" data-id="2471">aka c.92+6T>C, a pathogenic variant; note also c.92+6T>A, which is a variant of uncertain significance according to ClinVarBeta Thalassemia/</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1857]]
+    <blockquote>
+        <p class="text-snippet" data-id="1857">One of 42 more SNPs associated with rheumatoid arthritis based on a meta-analysis of 30,000 patients, most with odds ratios of 1.01 - 1.2.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q169]]
+    <blockquote>
+        <p class="text-snippet" data-id="169">rs2853209(A;A) associated with atopic dermatitis in Japanese children. OR=0.55 (95% confidence interval (CI), 0.30-0.997)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3552]]
+    <blockquote>
+        <p class="text-snippet" data-id="3552">chronic lymphocytic leukemia rs2266690 rs17028658 rs4505265 rs1045485 rs2779251 rs3136687 Influence of the inducible nitric oxide synthase gene (NOS2A) on inflammatory bowel disease susceptibility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3984]]
+    <blockquote>
+        <p class="text-snippet" data-id="3984">aka c.1336C>T, p.Arg446TrpHeterozygotes are predicted to have a significantly higher risk of colorectal cancer, based on both patient and theoretical studies.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1907]]
+    <blockquote>
+        <p class="text-snippet" data-id="1907">This SNP is basically a proxy for SNP rs1219648, which represents the SNP in the FGFR2 gene with the strongest association with breast cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q675]]
+    <blockquote>
+        <p class="text-snippet" data-id="675">rs273900730, also known as 4510delCTAinsTT, c.4391_4393delCTAinsTT and p.Pro1464_Ile1465LeuTerfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1233]]
+    <blockquote>
+        <p class="text-snippet" data-id="1233">Allele-specific differences in activity of a novel cannabinoid receptor 1 (CNR1) gene intronic enhancer in hypothalamus, dorsal root ganglia, and hippocampus.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2181]]
+    <blockquote>
+        <p class="text-snippet" data-id="2181">aka c.1796T>G, p.Ile599SerIdentified in ClinVar as likely pathogenic/pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3812]]
+    <blockquote>
+        <p class="text-snippet" data-id="3812">/ rs7221412 is not presently covered by 23andMe, but this SNP appears to sit in a haplotype block and is flanked by rs9914077 and rs2585408</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q157]]
+    <blockquote>
+        <p class="text-snippet" data-id="157">Identification of two new missense mutations (R156C and S291L) in two ADA- SCID patients unusual for response to therapy with partial exchange transfusions.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1986]]
+    <blockquote>
+        <p class="text-snippet" data-id="1986">aka c.947G>A (p.Arg316Gln or R316Q)GDFD is an acronym for growth retardation, developmental delay, coarse facies, and early death</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q166]]
+    <blockquote>
+        <p class="text-snippet" data-id="166">rs2280089, a SNP in the ADAM33 gene, has been linked to a predisposition to asthma and bronchial hyperresponsiveness. PMID 12110844, PMID 14564349</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2186]]
+    <blockquote>
+        <p class="text-snippet" data-id="2186">aka c.1657G>A, p.Gly553ArgIdentified in ClinVar as likely pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q674]]
+    <blockquote>
+        <p class="text-snippet" data-id="674">rs273897659, also known as 1508delAAinsG, c.1389_1390delAAinsG and p.Lys463_Thr464LysProfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3981]]
+    <blockquote>
+        <p class="text-snippet" data-id="3981">aka c.844C>T, p.Pro282SerHeterozygotes are predicted to have a significantly higher risk of colorectal cancer, based on both patient and theoretical studies.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3980]]
+    <blockquote>
+        <p class="text-snippet" data-id="3980">aka c.955G>A, p.Asp319AsnHeterozygotes are predicted to have a significantly higher risk of colorectal cancer, based on both patient and theoretical studies.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4615]]
+    <blockquote>
+        <p class="text-snippet" data-id="4615">rs272893 and rs273900 are associated with Crohn's disease (OR 2.16; 95% CI 1.21-3.59 and OR 2.40; 95% CI 1.43-4.05)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q167]]
+    <blockquote>
+        <p class="text-snippet" data-id="167">rs2280090, a SNP in the ADAM33 gene, has been linked to a predisposition to asthma and bronchial hyperresponsiveness. PMID 12110844, PMID 14564349</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3270]]
+    <blockquote>
+        <p class="text-snippet" data-id="3270">colorectal cancer survival rs863221, located in MSH3 (HR: 0.59, 95% confidence interval (CI) 0.42-0.82, p-value: 0.001)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2187]]
+    <blockquote>
+        <p class="text-snippet" data-id="2187">aka c.1591C>T, p.Arg531CysIdentified in ClinVar as likely pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3983]]
+    <blockquote>
+        <p class="text-snippet" data-id="3983">aka c.839A>G, p.Lys280ArgHeterozygotes are predicted to have a significantly higher risk of colorectal cancer, based on both patient and theoretical studies.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2177]]
+    <blockquote>
+        <p class="text-snippet" data-id="2177">aka c.857G>A, p.Gly286AspIdentified in ClinVar as likely pathogenic/pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5221]]
+    <blockquote>
+        <p class="text-snippet" data-id="5221">rs4630362 is one of several TXNRD1 SNPs significantly associated with familial amyotrophic lateral sclerosis (FALS) but not sporadic amyotrophic lateral sclerosis (ALS).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2973]]
+    <blockquote>
+        <p class="text-snippet" data-id="2973">gwas among adults residing on Korcula Island in Croatia, LDL cholesterol, the A allele associated with lower LDL cholesterol<br><br></p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4731]]
+    <blockquote>
+        <p class="text-snippet" data-id="4731">influences statin response rs72559745 (SLCO1B1 1)AAAA rs56061388 (SLCO1B1 3)TTTT rs4149056 (SLCO1B1 5)TTTT rs55901008 (SLCO1B1 6)TTTT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q513]]
+    <blockquote>
+        <p class="text-snippet" data-id="513">gwas, among 738 schizophrenics genotyped for 492K SNPs, this SNP attained a p-val of 3 x 10^-7 for triglycerides as a result of perphenazine use</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4414]]
+    <blockquote>
+        <p class="text-snippet" data-id="4414">rs63749869, aka p.Arg4861His or p.R4861H, is a SNP in the RYR1 gene associated with central core disease as well as a congenital neuromuscular disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q105]]
+    <blockquote>
+        <p class="text-snippet" data-id="105">This SNP is in the ABO gene, and is therefore potentially useful in determing blood group type, such as through the use of genosets.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3365]]
+    <blockquote>
+        <p class="text-snippet" data-id="3365">rs326118 is reported to represent a risk factor for abdominal aortic aneurysm (AAA), with odds ratio of 0.47 (CI: 0.29-0.77).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q910]]
+    <blockquote>
+        <p class="text-snippet" data-id="910">307S (common in Irish populations) is associated with a more severe form of Homocystinuria and is unresponsive to pyridoxine (vitamin B6) treatment.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4399]]
+    <blockquote>
+        <p class="text-snippet" data-id="4399">aka c.1597C>A (p.Arg533Ser or R533S) and also c.1597C>T (p.Arg533Cys or R533C)23andMe name for c.1597C>T: i6017837</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1495]]
+    <blockquote>
+        <p class="text-snippet" data-id="1495">rs2070676, also known as 9896C>G, is a SNP in the CYP2E1 gene.The rs2070676(G) allele defines the CYP2E1 1B variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3648]]
+    <blockquote>
+        <p class="text-snippet" data-id="3648">Genetic susceptibility to heroin addiction: a candidate gene association study. Effect sizes in experimental pain produced by gender, genetic variants and sensitization procedures.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2972]]
+    <blockquote>
+        <p class="text-snippet" data-id="2972">gwas among adults residing on Korcula Island in Croatia, cholesterol, the C allele associated with decreased total cholesterol levels<br><br></p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2264]]
+    <blockquote>
+        <p class="text-snippet" data-id="2264">aka c.631_632delAT (p.Met211Valfs)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant dopa-responsive dystonia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q93]]
+    <blockquote>
+        <p class="text-snippet" data-id="93">This SNP is in the ABO gene, and is therefore potentially useful in determing ABO blood group, such as through the use of genosets.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5220]]
+    <blockquote>
+        <p class="text-snippet" data-id="5220">rs10861192 is one of several TXNRD1 SNPs significantly associated with familial amyotrophic lateral sclerosis (FALS) but not sporadic amyotrophic lateral sclerosis (ALS).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2432]]
+    <blockquote>
+        <p class="text-snippet" data-id="2432">rs7624540, rs4072520, rs6779828 showed genotypic association with schizophrenia Preliminary evidence of glycogen synthase kinase 3 beta as a genetic determinant of polycystic ovary syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5284]]
+    <blockquote>
+        <p class="text-snippet" data-id="5284">Identification of novel USH2A mutations: implications for the structure of USH2A protein. Evaluation of visual impairment in Usher syndrome 1b and Usher syndrome 2a.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3658]]
+    <blockquote>
+        <p class="text-snippet" data-id="3658">rs7107418 G allele is a proxy for rs72921001 A allele.rs72921001 A allele associated with lower chance of thinking cilantro tastes like soap. OR=.81 per A allele./</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2349]]
+    <blockquote>
+        <p class="text-snippet" data-id="2349">Impaired elastic-fiber assembly by fibroblasts from patients with either Morquio B disease or infantile GM1-gangliosidosis is linked to deficiency in the 67-kD spliced variant of beta-galactosidase.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2827]]
+    <blockquote>
+        <p class="text-snippet" data-id="2827">a 5bp CGGGG indel upstream of IRF5/TNPO3, said to be causative and to explain the previously reported Lupus associations with rs2004640, rs10954213, and rs729302</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3011]]
+    <blockquote>
+        <p class="text-snippet" data-id="3011">rs261332 increases susceptibility to Elevated HDL-Cholesterol for carriers of the A allele A allele is associated with 1.41mg/dl increase in HDL cholesterol (good cholesterol).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3207]]
+    <blockquote>
+        <p class="text-snippet" data-id="3207">MET and autism susceptibility: family and case-control studies. Sickle Cell Disease in the Post Genomic Era: A Monogenic Disease with a Polygenic Phenotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1842]]
+    <blockquote>
+        <p class="text-snippet" data-id="1842">Lack of association of genetic variants in genes of the endocannabinoid system with anorexia nervosa. Eating disorders: the current status of molecular genetic research.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4459]]
+    <blockquote>
+        <p class="text-snippet" data-id="4459">aka c.112delG as well as c.111_112dupGG; both are considered in ClinVar to be pathogenic, either for pheochromocytomas or a hereditary cancer predisposing syndrome, respectively</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4487]]
+    <blockquote>
+        <p class="text-snippet" data-id="4487">aka c.442T>C (p.Ser148Pro or S148P)The Ser148Pro mutation was reported to be relatively prevalent among Korean venous thromboembolism patients screened for thrombophilia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1334]]
+    <blockquote>
+        <p class="text-snippet" data-id="1334">/ 23andMe blog blood pressure Common variants in or near FGF5, CYP17A1 and MTHFR genes are associated with blood pressure and hypertension in Chinese Hans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2583]]
+    <blockquote>
+        <p class="text-snippet" data-id="2583">The type and the position of HNF1A mutation modulate age at diagnosis of diabetes in patients with maturity-onset diabetes of the young (MODY)-3.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1920]]
+    <blockquote>
+        <p class="text-snippet" data-id="1920">'''See: HLA-B27|HLA-B27 Syndromes'''.Not all alleles of HLA-B27 are at risk for B27 Syndromes, please check the HLA-B27 page for details.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4255]]
+    <blockquote>
+        <p class="text-snippet" data-id="4255">The rare allele for this PTPRQ gene variant is reported to be causative for a recessive form of deafness; see PTPRQ for details and sources.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2545]]
+    <blockquote>
+        <p class="text-snippet" data-id="2545">'''Rs1071630''' is a missense variant, F41S, in HLA-DQA1.It has been associated with Steroid-sensitive nephrotic syndrome (SSNS). PMID 25349203</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3344]]
+    <blockquote>
+        <p class="text-snippet" data-id="3344">rs8003379 is reported to represent a risk factor for abdominal aortic aneurysm (AAA), with odds ratio of 0.41 (CI: 0.26-0.65).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q127]]
+    <blockquote>
+        <p class="text-snippet" data-id="127">aka c.848T>C (p.Val283Ala or V283A)See ACADVL; this variant is considered one of the most prevalent mutations associated with VLCAD deficiency.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3945]]
+    <blockquote>
+        <p class="text-snippet" data-id="3945">non sig. gwas, top hit for rapid visual information processing (RVP) hit probability in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1376]]
+    <blockquote>
+        <p class="text-snippet" data-id="1376">rs2069514, also known as -3860G>A, is a SNP in the CYP1A2 gene.The rs2069514(A) allele defines the CYP1A2 1C variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2720]]
+    <blockquote>
+        <p class="text-snippet" data-id="2720">pediatric asthma in a Taiwanese population. Prognostic significance of genetic variants in the IL-23/Th17 pathway for the outcome of T cell-depleted allogeneic stem cell transplantation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1757]]
+    <blockquote>
+        <p class="text-snippet" data-id="1757">Subarachnoid hemorrhage: tests of association with apolipoprotein E and elastin genes. Analysis of exonic elastin variants in severe, early-onset chronic obstructive pulmonary disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3349]]
+    <blockquote>
+        <p class="text-snippet" data-id="3349">Gene-wide association study between the methylenetetrahydrofolate reductase gene (MTHFR) and schizophrenia in the Japanese population, with an updated meta-analysis on currently available data.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2201]]
+    <blockquote>
+        <p class="text-snippet" data-id="2201">c.130G>T (p.Val44Leu) and c.130G>A (p.Val44Met); both are considered pathogenic in ClinVar23andMe name for c.130G>A: i5002980</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1220]]
+    <blockquote>
+        <p class="text-snippet" data-id="1220">Achromatopsia: the CNGB3 p.T383fsX mutation results from a founder effect and is responsible for the visual phenotype in the original report of uniparental disomy 14.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5063]]
+    <blockquote>
+        <p class="text-snippet" data-id="5063">The tumor-necrosis-factor receptor-associated periodic syndrome: new mutations in TNFRSF1A, ancestral origins, genotype-phenotype studies, and evidence for further genetic heterogeneity of periodic fevers.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2912]]
+    <blockquote>
+        <p class="text-snippet" data-id="2912">gwas, among 738 schizophrenics genotyped for 492K SNPs, this SNP attained a p-val of 3 x 10^-6 for triglycerides as a result of clozapine use</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q999]]
+    <blockquote>
+        <p class="text-snippet" data-id="999">gwas, among 738 schizophrenics genotyped for 492K SNPs, this SNP attained a p-val of 1 x 10^-6 for triglycerides as a result of clozapine use</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q548]]
+    <blockquote>
+        <p class="text-snippet" data-id="548">aka c.2333G>T, p.Arg778Leu, R778LThis mutation is commonly considered the most frequent ATP7B gene mutation associated with Wilson's disease in Asian populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5317]]
+    <blockquote>
+        <p class="text-snippet" data-id="5317">VEGF polymorphisms are associated with severity of diabetic retinopathy. Genetics of VEGF serum variation in human isolated populations of cilento: importance of VEGF polymorphisms.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2180]]
+    <blockquote>
+        <p class="text-snippet" data-id="2180">aka c.1630G>A, p.Asp544Asn or D544NIdentified in ClinVar as pathogenic for Krabbe disease (when inherited in two copies or as a compound heterozygote)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1958]]
+    <blockquote>
+        <p class="text-snippet" data-id="1958">rs72549323, also known as Met66Ile, is a SNP in the FMO3 gene. It has been linked in (only) one report to trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q729]]
+    <blockquote>
+        <p class="text-snippet" data-id="729">rs80357596, also known as 2798del4, c.2679_2682delGAAA and p.Lys893_Lys894?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q795]]
+    <blockquote>
+        <p class="text-snippet" data-id="795">rs80359872, also known as 1071del64, c.952_1015del and p.His318_Lys339?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q777]]
+    <blockquote>
+        <p class="text-snippet" data-id="777">rs80357903, also known as 3450del4, c.3331_3334delCAAG and p.Gln1111_Glu1112?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3308]]
+    <blockquote>
+        <p class="text-snippet" data-id="3308">rs10993994 linked to prostate cancer/ cancer-genetics these snps influence genetic risk for prostate cancer the haplotype rs6983267 rs1016343 rs4242384  rs7501939  rs1859962 rs2660753 rs9364554 rs6465657 rs10993994 rs7931342 rs2735839 rs5945619</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q730]]
+    <blockquote>
+        <p class="text-snippet" data-id="730">rs80357597, also known as 1459insG, c.1340_1341insG and p.Val447?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4776]]
+    <blockquote>
+        <p class="text-snippet" data-id="4776">Investigation of variation in SNAP-25 and ADHD and relationship to co-morbid major depressive disorder. Role of SNAP25 explored in eastern Indian attention deficit hyperactivity disorder probands.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4019]]
+    <blockquote>
+        <p class="text-snippet" data-id="4019">Associated with risk of lung cancer in a Chinese population  Effects of the type 2 diabetes-associated PPARG P12A polymorphism on progression to diabetes and response to troglitazone.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q894]]
+    <blockquote>
+        <p class="text-snippet" data-id="894">Polymorphisms and haplotypes in the caspase-3, caspase-7, and caspase-8 genes and risk for endometrial cancer: a population-based, case-control study in a Chinese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1962]]
+    <blockquote>
+        <p class="text-snippet" data-id="1962">rs72549331, also known as Arg387Leu, is a SNP in the FMO3 gene. The homozygous minor genotype has been reported in a patient with trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5329]]
+    <blockquote>
+        <p class="text-snippet" data-id="5329">/ g2b2mh blog rs833070 and rs2146323. Individuals with the CC genotype at rs833070 and rs2146323 displayed smaller hippocampal volumes than T-allele and A-allele carriers, respectively.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1963]]
+    <blockquote>
+        <p class="text-snippet" data-id="1963">rs72549332, also known as Met434Ile, is a SNP in the FMO3 gene. In homozygous minor genotypes, it is reported to result in trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q726]]
+    <blockquote>
+        <p class="text-snippet" data-id="726">rs80357569, also known as 1135insA, c.1016_1017insA and p.Lys339?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1625]]
+    <blockquote>
+        <p class="text-snippet" data-id="1625">Association of variants in DISC1 with psychosis-related traits in a large population cohort. The DISC1 pathway modulates expression of neurodevelopmental, synaptogenic and sensory perception genes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q785]]
+    <blockquote>
+        <p class="text-snippet" data-id="785">rs80357970, also known as c.2475delC, 2594delC, c.2475_2475delC and p.Asp825Glufs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q720]]
+    <blockquote>
+        <p class="text-snippet" data-id="720">rs80357511, also known as 3312insG, c.3193_3194insG and p.Asp1065?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q719]]
+    <blockquote>
+        <p class="text-snippet" data-id="719">rs80357509, also known as c.3485delA, 3604delA, c.3485_3485delA and p.Asp1162Valfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q865]]
+    <blockquote>
+        <p class="text-snippet" data-id="865">(D;D) on the v1 appears to have been recalled as (I;I) on the v2, based on User:Cdwan</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4381]]
+    <blockquote>
+        <p class="text-snippet" data-id="4381">rs118192170, aka p.Ile4898Thr or p.I4898T, is a SNP in the RYR1 gene associated with both malignant hyperthermia and central core disease when heterozygous.23andMe name: i6017636</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q787]]
+    <blockquote>
+        <p class="text-snippet" data-id="787">rs80357975, also known as 5296del4, c.5177_5180delGAAA and p.Arg1726_Lys1727?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q716]]
+    <blockquote>
+        <p class="text-snippet" data-id="716">rs80357443, also known as E29X, c.85G>T and p.Glu29Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q102]]
+    <blockquote>
+        <p class="text-snippet" data-id="102">This SNP is in the ABO gene, and is therefore potentially useful in determing blood group type, such as through the use of genosets.ABO Blood Type</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1960]]
+    <blockquote>
+        <p class="text-snippet" data-id="1960">rs72549326, also known as Pro153Leu, is a SNP in the FMO3 gene. Homozygous minor genotypes for this SNP have been reported to have trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2562]]
+    <blockquote>
+        <p class="text-snippet" data-id="2562">This SNP is associated with a higher risk of liver injury in patients taking the nonsteroidal anti-inflammatory drug lumiracoxib, which has been withdrawn from most markets.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q776]]
+    <blockquote>
+        <p class="text-snippet" data-id="776">rs80357902, also known as 3767insA, c.3648_3649insA and p.Leu1216_Ser1217?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q974]]
+    <blockquote>
+        <p class="text-snippet" data-id="974">Also known as c.1901C>T, p.Ala634Val and A634V, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q715]]
+    <blockquote>
+        <p class="text-snippet" data-id="715">rs80357433, also known as Y1563X, c.4689C>G and p.Tyr1563Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2398]]
+    <blockquote>
+        <p class="text-snippet" data-id="2398">Primary hyperoxaluria type 2Note: 23andMe may have discontinued reporting results for this SNP, as several Promethease users have reported it is not included in their data.rs80356708</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3350]]
+    <blockquote>
+        <p class="text-snippet" data-id="3350">Each G allele is associated with 0.89 x odds of high blood pressure, according to 23andMe. / 23andMe blog blood pressureHigh Blood Pressure (Hypertension)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q704]]
+    <blockquote>
+        <p class="text-snippet" data-id="704">rs80357254, also known as K1290X, c.3868A>T and p.Lys1290Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q758]]
+    <blockquote>
+        <p class="text-snippet" data-id="758">rs80357801, also known as 1563del4, c.1444_1447delATTA and p.Ile482_Ile483?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q702]]
+    <blockquote>
+        <p class="text-snippet" data-id="702">rs80357233, also known as S713X, c.2138C>G and p.Ser713Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q595]]
+    <blockquote>
+        <p class="text-snippet" data-id="595">Altered transmission of HOX and apoptotic SNPs identify a potential common pathway for clubfoot. Prognostic impact of polymorphisms in the MYBL2 interacting genes in breast cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1045]]
+    <blockquote>
+        <p class="text-snippet" data-id="1045">A variant at 9p21.3 functionally implicates CDKN2B in paediatric B-cell precursor acute lymphoblastic leukaemia aetiology (BCP-ALL). Possible causative variant; OR ~1.72, p=3.3x10e-15.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q701]]
+    <blockquote>
+        <p class="text-snippet" data-id="701">rs80357162, also known as L1230X, c.3689T>G and p.Leu1230Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q700]]
+    <blockquote>
+        <p class="text-snippet" data-id="700">rs80357161, also known as E1038X, c.3112G>T and p.Glu1038Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1059]]
+    <blockquote>
+        <p class="text-snippet" data-id="1059">gwas among adults residing on Korcula Island in Croatia, HDL cholesterol, the A allele associated with decreased HDL cholesterol levels<br><br></p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q752]]
+    <blockquote>
+        <p class="text-snippet" data-id="752">rs80357729, also known as 3746insA, c.3627_3628insA and p.Leu1209_Glu1210?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q760]]
+    <blockquote>
+        <p class="text-snippet" data-id="760">rs80357808, also known as c.3442delG, 3561delG, c.3442_3442delG and p.Glu1148Argfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q697]]
+    <blockquote>
+        <p class="text-snippet" data-id="697">rs80357071, also known as S1383X, c.4148C>G and p.Ser1383Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q694]]
+    <blockquote>
+        <p class="text-snippet" data-id="694">rs80357055, also known as S1796X, c.5387C>A and p.Ser1796Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q693]]
+    <blockquote>
+        <p class="text-snippet" data-id="693">rs80357035, also known as E904X, c.2710G>T and p.Glu904Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q692]]
+    <blockquote>
+        <p class="text-snippet" data-id="692">rs80357021, also known as E1339X, c.4015G>T and p.Glu1339Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q656]]
+    <blockquote>
+        <p class="text-snippet" data-id="656">is the name used by 23andMe for rs80357906, also known as 5382insC, a BRCA1 gene mutation influencing your risk for breast cancer and ovarian cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q749]]
+    <blockquote>
+        <p class="text-snippet" data-id="749">rs80357714, also known as 1499insA, c.1380_1381insA and p.Ile460_Phe461?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q691]]
+    <blockquote>
+        <p class="text-snippet" data-id="691">rs80357018, also known as E1134X, c.3400G>T and p.Glu1134Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2161]]
+    <blockquote>
+        <p class="text-snippet" data-id="2161">Identification of significant association and gene-gene interaction of GABA receptor subunit genes in autism. Investigation of autism and GABA receptor subunit genes in multiple ethnic groups.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q689]]
+    <blockquote>
+        <p class="text-snippet" data-id="689">rs80356991, also known as E143X, c.427G>T and p.Glu143Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1254]]
+    <blockquote>
+        <p class="text-snippet" data-id="1254">aka c.811C>T (p.Arg271Ter)Reported in ClinVar as pathogenic for vascular Ehlers-Danlos syndrome, type 4; also observed in a sudden cardiac death patient</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3597]]
+    <blockquote>
+        <p class="text-snippet" data-id="3597">gwas, among 738 schizophrenics genotyped for 492K SNPs, this SNP attained a p-val of 5 x 10^-7 for hemoglobin A1c as a result of risperidone use</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q739]]
+    <blockquote>
+        <p class="text-snippet" data-id="739">rs80357624, also known as 3374insGA, c.3255_3256insGA and p.Arg1085_Leu1086?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q750]]
+    <blockquote>
+        <p class="text-snippet" data-id="750">rs80357717, also known as 2826insAT, c.2707_2708insAT and p.Cys903?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q706]]
+    <blockquote>
+        <p class="text-snippet" data-id="706">rs80357284, also known as W1782X, c.5346G>A and p.Trp1782Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q705]]
+    <blockquote>
+        <p class="text-snippet" data-id="705">rs80357259, also known as E1373X, c.4117G>T and p.Glu1373Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q707]]
+    <blockquote>
+        <p class="text-snippet" data-id="707">rs80357292, also known as W321X, c.962G>A and p.Trp321Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2399]]
+    <blockquote>
+        <p class="text-snippet" data-id="2399">Primary hyperoxaluria type 2Note: 23andMe may have discontinued reporting results for this SNP, as several Promethease users have reported it is not included in their data.rs180177309</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3659]]
+    <blockquote>
+        <p class="text-snippet" data-id="3659">A allele associated with lower chance of thinking cilantro tastes like soap. OR=.81 per A allele. G allele is a proxy for rs72921001 A allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q775]]
+    <blockquote>
+        <p class="text-snippet" data-id="775">rs80357889, also known as 3977del4, c.3858_3861delTGAG and p.Ser1286_Glu1287?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q773]]
+    <blockquote>
+        <p class="text-snippet" data-id="773">rs80357887, also known as c.466_467delCT, 589delCT, c.470_471delCT and p.Ser157Terfs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q772]]
+    <blockquote>
+        <p class="text-snippet" data-id="772">rs80357880, also known as 2224insT, c.2105_2106insT and p.Leu702?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q771]]
+    <blockquote>
+        <p class="text-snippet" data-id="771">rs80357877, also known as 3600del11, c.3481_3491delGAAGATACTAG and p.Glu1161_Ser1164?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3653]]
+    <blockquote>
+        <p class="text-snippet" data-id="3653">Expansion of the human mu-opioid receptor gene architecture: novel functional variants. Association of mu-opioid receptor variants and response to citalopram treatment in major depressive disorder.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q733]]
+    <blockquote>
+        <p class="text-snippet" data-id="733">rs80357604, also known as 448insA, c.329_330insA and p.Lys110?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q973]]
+    <blockquote>
+        <p class="text-snippet" data-id="973">Also known as c.1792C>T, p.Arg598Ter and R598X, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q770]]
+    <blockquote>
+        <p class="text-snippet" data-id="770">rs80357868, also known as 3875del4, c.3756_3759delGTCT and p.Leu1252_Ser1253?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q769]]
+    <blockquote>
+        <p class="text-snippet" data-id="769">rs80357862, also known as 5149del4, c.5030_5033delCTAA and p.Thr1677_Asn1678?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q761]]
+    <blockquote>
+        <p class="text-snippet" data-id="761">rs80357823, also known as 5438insC, c.5319_5320insC and p.Thr1773_Asn1774?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q980]]
+    <blockquote>
+        <p class="text-snippet" data-id="980">Also known as c.1023T>G, p.Tyr341Ter or Y341X, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q796]]
+    <blockquote>
+        <p class="text-snippet" data-id="796">rs80359874, also known as 1294del40, c.1175_1214del and p.Leu392_Ser405?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3780]]
+    <blockquote>
+        <p class="text-snippet" data-id="3780"> rs6232 G allele (in dbSNP orientation) linked to 1.34x increased risk of obesity rs6234/rs6235 (or rs10515237)see also: / spitoonObesity: Preliminary Research</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2917]]
+    <blockquote>
+        <p class="text-snippet" data-id="2917">Located in the KIT ligand gene KITLG p53-binding response element (RE), rs4590952 has been linked to both testicular cancer and protection from sun damage.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q762]]
+    <blockquote>
+        <p class="text-snippet" data-id="762">rs80357829, also known as 3109insAA, c.2990_2991insAA and p.Asn997?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q763]]
+    <blockquote>
+        <p class="text-snippet" data-id="763">rs80357832, also known as 2925del4, c.2806_2809delGATA and p.Asp936_Lys937?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q985]]
+    <blockquote>
+        <p class="text-snippet" data-id="985">Also known as c.187C>T, p.Arg63Ter or R63X, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q68]]
+    <blockquote>
+        <p class="text-snippet" data-id="68">aka c.761C>T (p.Thr254Met) and c.761C>A (p.Thr254Lys), both of which are pathogenic for adrenoleukodystrophy according to the  ALD Mutation Database</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q766]]
+    <blockquote>
+        <p class="text-snippet" data-id="766">rs80357848, also known as 3883insA, c.3764_3765insA and p.Asn1255?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q982]]
+    <blockquote>
+        <p class="text-snippet" data-id="982">Also known as c.1003C>T, p.Arg335Ter or R335X, the minor allele is considered a pathogenic rare mutation for hereditary diffuse gastric cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q455]]
+    <blockquote>
+        <p class="text-snippet" data-id="455">aka c.1283C>T (p.Pro428Leu or P428L)rs28940893 and rs80338815 are considered the two most frequent variants associated with metachromatic leukodystrophy in Caucasians.23andMe name: i5012765</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q767]]
+    <blockquote>
+        <p class="text-snippet" data-id="767">rs80357853, also known as 2080insA, c.1961_1962insA and p.Lys654?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q797]]
+    <blockquote>
+        <p class="text-snippet" data-id="797">rs80359876, also known as 5083del19, c.4964_4982del and p.Ser1655_Glu1661?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2058]]
+    <blockquote>
+        <p class="text-snippet" data-id="2058">Genetic basis of glycogen storage disease type 1a: prevalent mutations at the glucose-6-phosphatase locus. Mutations in the glucose-6-phosphatase gene that cause glycogen storage disease type 1a.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1957]]
+    <blockquote>
+        <p class="text-snippet" data-id="1957">rs72549322, also known as Asn61Ser, is a SNP in the FMO3 gene. In homozygous minor genotypes, it is likely to be lead to trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q65]]
+    <blockquote>
+        <p class="text-snippet" data-id="65">aka c.488G>A (p.Arg163His), c.488G>T (p.Arg163Leu) and c.488G>C (p.Arg163Pro), all of which are reported as pathogenic</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2745]]
+    <blockquote>
+        <p class="text-snippet" data-id="2745">Association analysis of IL19, IL20 and IL24 genes in palmoplantar pustulosis. Evaluation of IL10, IL19 and IL20 gene polymorphisms and chronic hepatitis B infection outcome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q94]]
+    <blockquote>
+        <p class="text-snippet" data-id="94">This SNP is a variant in the ABO gene, and is therefore potentially useful in determining ABO blood group, such as through the use of genosets.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1965]]
+    <blockquote>
+        <p class="text-snippet" data-id="1965">aka c.2918A>G, p.Tyr973Cys and Y973C; autosomal dominant mutation associated with a form of glomerulopathy with fibronectin deposits (type 2); see also  OMIM</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4584]]
+    <blockquote>
+        <p class="text-snippet" data-id="4584">SIRT1 gene is associated with major depressive disorder in the Japanese population. SIRT1 gene, schizophrenia and bipolar disorder in the Japanese population: an association study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q575]]
+    <blockquote>
+        <p class="text-snippet" data-id="575">Each G allele has been associated with an allelic odds ratio of 1.68 (p = 8.65 x 10(-18)) for risk of aggressive neuroblastoma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q800]]
+    <blockquote>
+        <p class="text-snippet" data-id="800">For information about causal/pathogenic BRCA2 mutations and what they imply about the odds of developing breast cancer, please see the BRCA2 page and links from that page.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1500]]
+    <blockquote>
+        <p class="text-snippet" data-id="1500">rs6413419, also known as 4768G>A or V179I, is a SNP in the CYP2E1 gene.The rs6413419(A) allele defines the CYP2E1 4 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1499]]
+    <blockquote>
+        <p class="text-snippet" data-id="1499">rs55897648, also known as 10023G>A or V389I, is a SNP in the CYP2E1 gene.The rs55897648(A) allele defines the CYP2E1 3 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1955]]
+    <blockquote>
+        <p class="text-snippet" data-id="1955">rs72549320, also known as Glu32Lys, is a SNP in the FMO3 gene. In a heterozygous genotype, it was observed in an individual with trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q457]]
+    <blockquote>
+        <p class="text-snippet" data-id="457">aka c.302G>T (p.Gly101Val) and also c.302G>A (p.Gly101Asp); both are pathogenic according to ClinVar23andMe name for c.302G>A: i5004778</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q463]]
+    <blockquote>
+        <p class="text-snippet" data-id="463">and a  bioitworld summary implicate this snp in perfect pitch, the ability to hear musical notes. The study has a website at  surprisingly this is near 8q24</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1436]]
+    <blockquote>
+        <p class="text-snippet" data-id="1436">The rs6413438(T) allele defines the CYP2C19 allele known as CYP2C19 10. This allele may lead to reduced metabolism of S-mephenytoin at least in vitro.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4473]]
+    <blockquote>
+        <p class="text-snippet" data-id="4473">Alpha 1-antitrypsin deficiency, emphysema, and liver disease. Genetic basis and strategies for therapy. Molecular analysis of the heterogeneity among the P-family of alpha-1-antitrypsin alleles.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1386]]
+    <blockquote>
+        <p class="text-snippet" data-id="1386">rs72547516, also known as 2499A>T or I386F, is a SNP in the CYP1A2 gene.The rs72547516(T) allele defines the CYP1A2 4 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1523]]
+    <blockquote>
+        <p class="text-snippet" data-id="1523">rs4646438, also known as 830_831insA, 17661_176622insA or 277Frameshift, is a SNP in the CYP3A4 gene.The rs4646438(A) allele defines the CYP3A4 6 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1381]]
+    <blockquote>
+        <p class="text-snippet" data-id="1381">rs55889066, also known as 3497G>A or C406Y, is a SNP in the CYP1A2 gene.The rs55889066(A) allele defines the CYP1A2 5 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1052]]
+    <blockquote>
+        <p class="text-snippet" data-id="1052">rs1799864(G), rs3025058(A) and rs662 were associated with increased risk, and rs1800775(A) with reduced risk of recurrent venous thromboembolism</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5178]]
+    <blockquote>
+        <p class="text-snippet" data-id="5178">4.9x risk of type-2 diabetes among women carriers of both the rare alleles at rs3750425 and rs2274924 when their magnesium intake was lower than 250 mg per day.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q665]]
+    <blockquote>
+        <p class="text-snippet" data-id="665">For information about causal/pathogenic BRCA1 mutations and what they imply about the odds of developing breast cancer, please see the BRCA1 page and links from that page.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4441]]
+    <blockquote>
+        <p class="text-snippet" data-id="4441">aka c.2045C>G (p.Ser682Trp) Possible association of minor allele of this SCN4A gene variant with predisposition to Sudden Infant Death Syndrome, based on exome analysis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5153]]
+    <blockquote>
+        <p class="text-snippet" data-id="5153">reports rs33980500, with risk/non-risk alleles T/C, has an odds ratio of 1.6 (p=2.65e−16) for psoriatic arthritis based on a case/control study of ~2,000 patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4442]]
+    <blockquote>
+        <p class="text-snippet" data-id="4442">aka c.4324G>A (p.Val1442Met) Possible association of minor allele of this SCN4A gene variant with predisposition to Sudden Infant Death Syndrome, based on exome analysis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4443]]
+    <blockquote>
+        <p class="text-snippet" data-id="4443">aka c.4387C>A (p.Arg1463Ser) Possible association of minor allele of this SCN4A gene variant with predisposition to Sudden Infant Death Syndrome, based on exome analysis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3595]]
+    <blockquote>
+        <p class="text-snippet" data-id="3595">rs10482605(C) and rs6198 form a haplotype responsible for both regulation of glucocorticoid expression and mRNA stability and therefore theorized to be associated with major depression.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q592]]
+    <blockquote>
+        <p class="text-snippet" data-id="592">This SNP is included in a curated list of mutations useful to include on an Ashkenazi Jews screening panel.Note: rs150084361 has been merged by dbSNP into rs386834233.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5058]]
+    <blockquote>
+        <p class="text-snippet" data-id="5058">An association was found between Systemic lupus erythematosus (SLE) and rs5029939 (meta-analysis p = 2.89 x 10(-12), odds ratio 2.29).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q416]]
+    <blockquote>
+        <p class="text-snippet" data-id="416">C allele of rs805297 was significantly associated with T2D duration of longer than 10 years (OR?=?1.245, p?=?0.015).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3840]]
+    <blockquote>
+        <p class="text-snippet" data-id="3840">Part of a haplotype Gs286, standalone effect for endometrial cancer is ambiguous. Clarifying the PROGINS allele association in ovarian and breast cancer risk: a haplotype-based analysis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q843]]
+    <blockquote>
+        <p class="text-snippet" data-id="843">rs10985112 increases susceptibility to Rheumatoid Arthritis 1.57 times for carriers of the A allele  Genome-wide association study of rheumatoid arthritis by a score test based on wavelet transformation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2346]]
+    <blockquote>
+        <p class="text-snippet" data-id="2346">Prevalence of fabry disease in a cohort of 508 unrelated patients with hypertrophic cardiomyopathy. A systematic, large-scale resequencing screen of X-chromosome coding exons in mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4012]]
+    <blockquote>
+        <p class="text-snippet" data-id="4012">667 cases and 862 controls (OR=0.87, P=0.046, 95% CI=0.72-0.99 for rs135551; OR=0.80, P=0.034, 95%  myocardial infarction in a European population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3422]]
+    <blockquote>
+        <p class="text-snippet" data-id="3422">A five-generation family with late-onset progressive hereditary hearing impairment due to cochleosaccular degeneration. Human nonsyndromic hereditary deafness DFNA17 is due to a mutation in nonmuscle myosin MYH9.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1866]]
+    <blockquote>
+        <p class="text-snippet" data-id="1866">Identification of a stop mutation in five Finnish patients suffering from hereditary tyrosinemia type I. Simple detection of a (Finnish) hereditary tyrosinemia type 1 mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2819]]
+    <blockquote>
+        <p class="text-snippet" data-id="2819">The C->T (Ser532Leu, rs1059703) polymorphism of the IRAK1 gene was significantly associated with atherothrombotic cerebral infarction in a study of 3,400+ Japanese adults.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1617]]
+    <blockquote>
+        <p class="text-snippet" data-id="1617">schizophrenia and bipolar disorder rs1538979 (P=0.016; odds ratio=2.73+/-95% confidence interval (CI) 1.42-5.27) and rs821577 (P=0.040; odds ratio=1.64+/-95% CI 1.23-2.19)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5148]]
+    <blockquote>
+        <p class="text-snippet" data-id="5148">rs1930780 is in linkage disequilibrium with a polymorphism that increases susceptibility to Rheumatoid Arthritis 1.36 times for heterozygotes (CG) and 1.52 times for homozygotes (CC)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1952]]
+    <blockquote>
+        <p class="text-snippet" data-id="1952">rs1736557, also known as Val257Met, is a SNP in the FMO3 gene. It has been linked to trimethylaminuria; see variant .0002,  OMIM 136132.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q263]]
+    <blockquote>
+        <p class="text-snippet" data-id="263">Hormone binding to natural mutants of human serum albumin. Point substitutions in Japanese alloalbumins. The molecular abnormality of albumin Niigata: 269 Asp----Gly.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1540]]
+    <blockquote>
+        <p class="text-snippet" data-id="1540">rs45593941, also known as L82R, is a SNP in the CYP3A5 gene.The rs45593941(T) allele defines the CYP3A5 3F variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4653]]
+    <blockquote>
+        <p class="text-snippet" data-id="4653">gout association, based on note that due to the possibility of ambiguous flipping between the C/G alleles of this SNP, care should be taken in interpreting alleles</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q686]]
+    <blockquote>
+        <p class="text-snippet" data-id="686">rs80356875, also known as E720X, c.2158G>T and p.Glu720Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010223</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q687]]
+    <blockquote>
+        <p class="text-snippet" data-id="687">rs80356898, also known as Q563X, c.1687C>T and p.Gln563Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i6051897</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q611]]
+    <blockquote>
+        <p class="text-snippet" data-id="611">Alzheimer's disease risk for non ApoE4 carriers is affected by the heterozygous form of rs6265, as well as the diplotypes  of rs6265, rs11030104, and rs2049045.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q688]]
+    <blockquote>
+        <p class="text-snippet" data-id="688">rs80356925, also known as S868X, c.2603C>G and p.Ser868Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i6008289</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q690]]
+    <blockquote>
+        <p class="text-snippet" data-id="690">rs80357010, also known as Q494X, c.1480C>T and p.Gln494Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010261</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q735]]
+    <blockquote>
+        <p class="text-snippet" data-id="735">rs80357609, also known as c.3695_3699GTAAA, 3819del5, c.3700_3704delGTAAA and p.Val1234_Asn1235?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5429]]
+    <blockquote>
+        <p class="text-snippet" data-id="5429">18067C>T possibly related to non-Hodgkin lymphoma  rs2040639-AG, contribute to oral cancer risk. pseudo-haplotype with AG-CC genotypes in  2.45x risk rs2040639-rs861539 5.03x risk rs2040639-rs861539-rs2075685 10.10x risk rs2040639-rs861539-rs2075685-rs1799782</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q698]]
+    <blockquote>
+        <p class="text-snippet" data-id="698">rs80357115, also known as Y978X, c.2934T>G and p.Tyr978Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010190</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q699]]
+    <blockquote>
+        <p class="text-snippet" data-id="699">rs80357131, also known as Q855X, c.2563C>T and p.Gln855Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010209</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q192]]
+    <blockquote>
+        <p class="text-snippet" data-id="192">Genetic variation in GSNOR and childhood asthma. The name GSNOR is usually used in mice, for the human gene ADH1C but the paper provides the human snp rs28730619</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q590]]
+    <blockquote>
+        <p class="text-snippet" data-id="590">also known as rs79761867 (and formerly as rs28934895) but both share the (G;G) as normal plus strand orientationMaple Syrup Urine Disease, Type 1B</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q703]]
+    <blockquote>
+        <p class="text-snippet" data-id="703">rs80357251, also known as E879X, c.2635G>T and p.Glu879X, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010203</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q74]]
+    <blockquote>
+        <p class="text-snippet" data-id="74">aka c.1660C>A (p.Arg554Ser)Reported in ClinVar as pathogenic for adrenoleukodystrophy (ALD); however, this variant is not listed in the  ALD Mutation Database</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q711]]
+    <blockquote>
+        <p class="text-snippet" data-id="711">rs80357355, also known as K654X, c.1960A>T and p.Lys654Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010233</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q710]]
+    <blockquote>
+        <p class="text-snippet" data-id="710">rs80357347, also known as K1727X, c.5179A>T and p.Lys1727Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i6008219</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q258]]
+    <blockquote>
+        <p class="text-snippet" data-id="258">Amino acid substitutions in inherited albumin variants from Amerindian and Japanese populations. Structural characterization of three genetic variants of human serum albumin modified in subdomains IIB and IIIA.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q408]]
+    <blockquote>
+        <p class="text-snippet" data-id="408">The ancestral allele is C. Association of ApoE genetic variants with obstructive sleep apnea in children. Subarachnoid hemorrhage: tests of association with apolipoprotein E and elastin genes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q709]]
+    <blockquote>
+        <p class="text-snippet" data-id="709">rs80357321, also known as Y261X, c.783T>G and p.Tyr261Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010292</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3891]]
+    <blockquote>
+        <p class="text-snippet" data-id="3891">This SNP, also known as Ala3512Val, is in the PKD1 gene. It is likely to be a neutral change without known medical consequences according to ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    

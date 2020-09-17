@@ -1,0 +1,4595 @@
+[[AdvancedFormat]]
+[[Block:Block 10]]
+
+    [[Question:Text]]
+    [[ID:q718]]
+    <blockquote>
+        <p class="text-snippet" data-id="718">rs80357508, also known as 4184del4, c.4065_4068delTCAA and p.Asn1355_Gln1356?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i4000453</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q69]]
+    <blockquote>
+        <p class="text-snippet" data-id="69">aka c.1592T>C (p.Leu531Pro)Reported in ClinVar as pathogenic for adrenoleukodystrophy (ALD); however, this mutation is not listed in the  ALD Mutation Database</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q464]]
+    <blockquote>
+        <p class="text-snippet" data-id="464">This SNP is a proxy for the in/del variants discussed on the ASGR1 page; these variants are associated with lowered risk for myocardial infarction and coronary artery disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q708]]
+    <blockquote>
+        <p class="text-snippet" data-id="708">rs80357318, also known as Q1313X, c.3937C>T and p.Gln1313Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5010136</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4281]]
+    <blockquote>
+        <p class="text-snippet" data-id="4281">Characterization of the linkage disequilibrium structure and identification of tagging-SNPs in five DNA repair genes. Double-strand break damage and associated DNA repair genes predispose smokers to gene methylation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q724]]
+    <blockquote>
+        <p class="text-snippet" data-id="724">rs80357526, also known as 2072del4, c.1953_1956delGAAA and p.Lys651_Lys652?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5009905</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4257]]
+    <blockquote>
+        <p class="text-snippet" data-id="4257">The rare (deletion) allele for this PTPRQ gene variant is reported to be causative for a recessive form of deafness; see PTPRQ for details and sources.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q714]]
+    <blockquote>
+        <p class="text-snippet" data-id="714">rs80357405, also known as S1130X, c.3389C>G and p.Ser1130Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i6008291</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4256]]
+    <blockquote>
+        <p class="text-snippet" data-id="4256">The rare (T) allele for this PTPRQ gene variant is reported to be causative for a recessive form of deafness; see PTPRQ for details and sources.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q685]]
+    <blockquote>
+        <p class="text-snippet" data-id="685">rs62625308, also known as R1203X, c.3607C>T and p.Arg1203Ter, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5005571</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2645]]
+    <blockquote>
+        <p class="text-snippet" data-id="2645">Exploration of 19 serotoninergic candidate genes in adults and children with attention-deficit/hyperactivity disorder identifies association for 5HT2A, DDC and MAOB. A allele associated with ADHD in children.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4385]]
+    <blockquote>
+        <p class="text-snippet" data-id="4385">rs118192177, aka p.Thr2206Met or p.T2206M, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name for c.6617C>T: i6017606</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1404]]
+    <blockquote>
+        <p class="text-snippet" data-id="1404">aka c.844G>T, p.Val282Leu and V282L; also known in older literature as Val281Leu or V281Lassociated with non-classic 21-OH CAH; see / GeneReviews as well as  OMIM</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2679]]
+    <blockquote>
+        <p class="text-snippet" data-id="2679">Genetic polymorphisms in CYP17, CYP3A4, CYP19A1, SRD5A2, IGF-1, and IGFBP-3 and prostate cancer risk in African-American men: the Flint Men's Health Study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3360]]
+    <blockquote>
+        <p class="text-snippet" data-id="3360">No association of single nucleotide polymorphisms in one-carbon metabolism genes with prostate cancer risk. Lack of association of polymorphisms in homocysteine metabolism genes with pseudoexfoliation syndrome and glaucoma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1438]]
+    <blockquote>
+        <p class="text-snippet" data-id="1438">The rs72558185(G) SNP is an insertion variant in the CYP2C19 gene; it is also known as hCV34328665, and is in the Affymetrix DMET panel.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1514]]
+    <blockquote>
+        <p class="text-snippet" data-id="1514">rs12721634, also known as 44 T>C or L15P, is a SNP in the CYP3A4 gene.The rs12721634(C) allele defines the CYP3A4 14 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3512]]
+    <blockquote>
+        <p class="text-snippet" data-id="3512">Genomic NGFB variation and multiple sclerosis in a case control study. Linkage and association study of neurotrophins and their receptors as novel susceptibility genes for childhood IgA nephropathy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1964]]
+    <blockquote>
+        <p class="text-snippet" data-id="1964">rs72549334, also known as Arg492Trp, is a SNP in the FMO3 gene. In the homozygous minor genotype, it has been reported to lead to trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q904]]
+    <blockquote>
+        <p class="text-snippet" data-id="904">A CAV3 microdeletion differentially affects skeletal muscle and myocardium. A CAV3 microdeletion differentially affects skeletal muscle and myocardium. A CAV3 microdeletion differentially affects skeletal muscle and myocardium.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5010]]
+    <blockquote>
+        <p class="text-snippet" data-id="5010">association with essential hypertension . Functional analysis showed that the C allele of rs2070762 functioned as an enhancer in the absence of binding by unidentified transcriptional repressor(s)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4517]]
+    <blockquote>
+        <p class="text-snippet" data-id="4517">NM_000062.2(SERPING1):c.1397G>C (p.Arg466Pro)andNM_000062.2(SERPING1):c.1397G>A (p.Arg466His)23andMe name for c.1397G>A: i5000468</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1074]]
+    <blockquote>
+        <p class="text-snippet" data-id="1074">linked to blindness in old agers3753394, rs800292, rs1061147, rs1061170, rs380390, and rs1329428CFH variations appear to contribute to ARMD in Caucasians, but not in Japanese</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q774]]
+    <blockquote>
+        <p class="text-snippet" data-id="774">rs80357888, also known as 1623del5, c.1504_1508delTTAAA and p.Leu502_Lys503?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.23andMe name: i5009929</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3509]]
+    <blockquote>
+        <p class="text-snippet" data-id="3509">Non-Hodgkin's lymphoma rs4648022) was associated with NHL risk overall (ordinal OR, 0.59; 95% CI, 0.41-0.84; P(trend) = 0.0037)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1075]]
+    <blockquote>
+        <p class="text-snippet" data-id="1075">rs572515 was the most significantly associated of a group of SNPs in the chromosome 1q32-33 region with risk for neovascular age related macular degeneration (p < 10-6).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q738]]
+    <blockquote>
+        <p class="text-snippet" data-id="738">rs80357623, also known as c.5030_5034delCTAAT, 5154del5, c.5035_5039delCTAAT and p.Leu1679_Ile1680?fs, is a variant in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1970]]
+    <blockquote>
+        <p class="text-snippet" data-id="1970">rs1935949 is an intronic SNP in the FOXO3 gene.rs1935949 demonstrated a significant association with longevity but only among women (odds ratio 1.35, CI:1.15-1.57, adjusted p=0.0093).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3215]]
+    <blockquote>
+        <p class="text-snippet" data-id="3215">strongly associated with MGMT methylation (multivariate odds ratio 18.0; 95% confidence interval, 6.2-52.1, P < 0.0001) and loss of MGMT expression in colorectal cancer tumors</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q632]]
+    <blockquote>
+        <p class="text-snippet" data-id="632">rs3178250(C;C)protected against otosclerosis (combined populations: p = 2.2 x 10(-4); OR = 2.027; 95% CI = 1.380-2.979</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1764]]
+    <blockquote>
+        <p class="text-snippet" data-id="1764">rs3819102 associated with risk of endometrial cancer. The odds ratio (95% confidence interval) for the CC genotype was 1.5 (1.0-2.2) compared with the TT genotype</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4819]]
+    <blockquote>
+        <p class="text-snippet" data-id="4819">rs1699103 is among several SNPs in the SORL1 gene that show some association with increased (or decreased) risk for Alzheimer's disease in a study of 1,400 Caucasians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3099]]
+    <blockquote>
+        <p class="text-snippet" data-id="3099">Exploration of 19 serotoninergic candidate genes in adults and children with attention-deficit/hyperactivity disorder identifies association for 5HT2A, DDC and MAOB.  C allele associated with adult ADHD inattentive type.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4818]]
+    <blockquote>
+        <p class="text-snippet" data-id="4818">rs11218350 is among several SNPs in the SORL1 gene that show some association with increased (or decreased) risk for Alzheimer's disease in a study of 1,400 Caucasians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1542]]
+    <blockquote>
+        <p class="text-snippet" data-id="1542">rs28383479, also known as 19386G>A, is a SNP in the CYP3A5 gene.The rs28383479(A) allele defines the CYP3A5 9 variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1287]]
+    <blockquote>
+        <p class="text-snippet" data-id="1287">Organization of the human liver carnitine palmitoyltransferase 1 gene ( CPT1A) and identification of novel mutations in hypoketotic hypoglycaemia. Functional and structural basis of carnitine palmitoyltransferase 1A deficiency.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1743]]
+    <blockquote>
+        <p class="text-snippet" data-id="1743">Subunits of the translation initiation factor eIF2B are mutant in leukoencephalopathy with vanishing white matter. Leukoencephalopathy with vanishing white matter: from magnetic resonance imaging pattern to five genes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3799]]
+    <blockquote>
+        <p class="text-snippet" data-id="3799">In both a multi-site study including 2,500+ Swedish patients and a meta-analysis of 10,000+ patients in 17 publications, no association between rs12188950 and risk for ischemic stroke was found.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1729]]
+    <blockquote>
+        <p class="text-snippet" data-id="1729">exercise heart rate, rs6847149 (NOLA1, p = 2.74 10(-6)); A genome-wide association study for blood lipid phenotypes in the Framingham Heart Study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1379]]
+    <blockquote>
+        <p class="text-snippet" data-id="1379">rs28399424, also known as 5090C>T or R431W, is a SNP in the CYP1A2 gene.The rs28399424(T) allele defines the CYP1A2 6 decreased activity variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3542]]
+    <blockquote>
+        <p class="text-snippet" data-id="3542">Genetic association analysis of functional polymorphisms in neuronal nitric oxide synthase 1 gene (NOS1) and mood disorders and fluvoxamine response in major depressive disorder in the Japanese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q348]]
+    <blockquote>
+        <p class="text-snippet" data-id="348">/ 23andMe blog () rs10994336 or (rs4948418) Each T at this SNP increased the odds of developing bipolar disorder by 1.45 times compared to the CC genotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3015]]
+    <blockquote>
+        <p class="text-snippet" data-id="3015">Association of an intronic haplotype of the LIPC gene with hyperalphalipoproteinemia in two independent populations. Genetic-epidemiological evidence on genes associated with HDL cholesterol levels: a systematic in-depth review.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2911]]
+    <blockquote>
+        <p class="text-snippet" data-id="2911">total Insulin-like growth factor (IGF-1, IGF1) protein levels Autosomal recessive ichthyosis with hypotrichosis caused by a mutation in ST14, encoding type II transmembrane serine protease matriptase.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4820]]
+    <blockquote>
+        <p class="text-snippet" data-id="4820">rs1784931 is among several SNPs in the SORL1 gene that show some association with increased (or decreased) risk for Alzheimer's disease in a study of 1,400 Caucasians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4644]]
+    <blockquote>
+        <p class="text-snippet" data-id="4644">rs111033244, also known as c.1151A>G, p.Glu384Gly and E384G, is a SNP in the SLC26A4 gene associated with the hearing loss condition known as Pendred Syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4277]]
+    <blockquote>
+        <p class="text-snippet" data-id="4277">aka c.259G>C (p.Ala87Pro)Reported in ClinVar as potentially pathogenic for Griscelli syndrome, while a 2016 publication finds heterozygotes associated with familial hemophagocytic lymphohistiocytosis.23andMe name: i5003825</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1483]]
+    <blockquote>
+        <p class="text-snippet" data-id="1483">rs35742686, which is also known as 2549delA, is a SNP in the CYP2D6 gene.The rs35742686(-) allele defines the CYP2D6 3 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4825]]
+    <blockquote>
+        <p class="text-snippet" data-id="4825">rs726601 is among several SNPs in the SORL1 gene that show some association with increased (or decreased) risk for Alzheimer's disease in a study of 1,400 Caucasians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2217]]
+    <blockquote>
+        <p class="text-snippet" data-id="2217">i4000417, also known as 84GG (risk genotype GG)Associated with Gaucher's disease. Outside of 23andMe, the rest of the world calls this SNP rs387906315.Gaucher Diseasers387906315</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3337]]
+    <blockquote>
+        <p class="text-snippet" data-id="3337">non sig. gwas, hit (p = 8 x 10^-7) for spatial working memory (SWM) strategy in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2752]]
+    <blockquote>
+        <p class="text-snippet" data-id="2752">Contribution of rs11465788 in IL23R gene to Crohn's disease susceptibility and phenotype in Chinese population.  Found that T allele may be protective against Crohn's disease in Chinese.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4217]]
+    <blockquote>
+        <p class="text-snippet" data-id="4217">PTEN gene, c.675T>G (p.Tyr225Ter); pathogenic in ClinVar for PTEN hamartoma tumor syndromenote c.675T>C is likely to be a benign variant according to ClinVar</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2222]]
+    <blockquote>
+        <p class="text-snippet" data-id="2222">Note: this SNP has been retired and replaced by rs421016, representing the exact same nucleotide position yet on the other strand, possibly with more specific flanking sequence.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q793]]
+    <blockquote>
+        <p class="text-snippet" data-id="793">rs80358158, also known as c.135-1G>T and c.135-1G>C, represents a variant in the BRCA1 gene.Both minor alleles are considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2984]]
+    <blockquote>
+        <p class="text-snippet" data-id="2984">A 2009 study of 11,163 Dutch participants found no evidence to support previous data indicating a role for SNPs in this gene (LARS2) in type 2 diabetes susceptibility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3340]]
+    <blockquote>
+        <p class="text-snippet" data-id="3340">non sig. gwas, hit (p = 5 x 10^-6) for spatial working memory (SWM) strategy in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1497]]
+    <blockquote>
+        <p class="text-snippet" data-id="1497">Also known as CYP2E1_-1295G>C, this SNP is reported to mark the c2 allele of CYP2E1.The rs3813867(C) allele defines the CYP2E1_-1295G>C variant allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2891]]
+    <blockquote>
+        <p class="text-snippet" data-id="2891">Per site "dna-forums.org/index.php?showtopic=5557&view=findpost&p=77261" (now defunct) rs2032634 (M73) was known to be wrong for most of the 23andMe v1 results</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2725]]
+    <blockquote>
+        <p class="text-snippet" data-id="2725">associations with schizophrenia and herpesrs11465702 with schizophrenia(P = 0.005).rs11465702 was also associated with herpes simplex virus 1 (HSV1) seropositivity in cases (0.006).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1461]]
+    <blockquote>
+        <p class="text-snippet" data-id="1461">rs72558188, also known as 353_362delAGAAATGGAA or 118Frameshift, is a SNP in the CYP2C9 gene.The rs72558188(-) allele defines the CYP2C9 25 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1488]]
+    <blockquote>
+        <p class="text-snippet" data-id="1488">rs5030863, also known as 883G>C, is a SNP in the CYP2D6 gene.The rs5030863(C) allele defines the CYP2D6 11 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4821]]
+    <blockquote>
+        <p class="text-snippet" data-id="4821">rs1792113 is among several SNPs in the SORL1 gene that show some association with increased (or decreased) risk for Alzheimer's disease in a study of 1,400 Caucasians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3384]]
+    <blockquote>
+        <p class="text-snippet" data-id="3384">Pathogenic variant is also known as c.284C>G (p.Pro95Arg); note that c.284C>T (p.Pro95Leu) is a variant of uncertain significance according to ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3520]]
+    <blockquote>
+        <p class="text-snippet" data-id="3520">linked to generalized vitiligo Individuals carrying high-risk alleles of both rs6502867 and rs2670660 had an odds ratio of 4.20 compared with individuals carrying a high-risk allele from only one signal.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2438]]
+    <blockquote>
+        <p class="text-snippet" data-id="2438">asthma rs6591255 variant allele is associated with increased risk of new-onset asthma upon exercise based on a study of 1,610 American children (hazard ratio 1.4, CI: 1.1-1.9)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q136]]
+    <blockquote>
+        <p class="text-snippet" data-id="136">A haplotype of rs4311, rs4343, rs699 increases risk of diabetic nephropathy 4x. The risk allele T may be associated with about 1.2x increased risk of diabetic nephropathy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q165]]
+    <blockquote>
+        <p class="text-snippet" data-id="165">Meta-analyses of genome-wide association studies identify multiple loci associated with pulmonary function. Individual and cumulative effects of GWAS susceptibility loci in lung cancer: associations after sub-phenotyping for COPD.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q248]]
+    <blockquote>
+        <p class="text-snippet" data-id="248">aka c.834G>A (p.Trp278Ter or W278X)This recessively inherited mutation is considered the most common AIPL1 variant leading to Leber congenital amaurosis type 4 (LCA4).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q610]]
+    <blockquote>
+        <p class="text-snippet" data-id="610">located in promoter region of BDKRB2 - associated with panic disorder, bipolar disorder, and drug abuse|substance abuse Identification of functional SNPs in the 5-prime flanking sequences of human genes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1281]]
+    <blockquote>
+        <p class="text-snippet" data-id="1281">The complex global pattern of genetic variation and linkage disequilibrium at catechol-O-methyltransferase. Influence and interaction of genetic polymorphisms in catecholamine neurotransmitter systems and early life stress on antidepressant drug response.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1258]]
+    <blockquote>
+        <p class="text-snippet" data-id="1258">Variants within the COL5A1 gene are associated with Achilles tendinopathy in two populations. Variants within the MMP3 gene are associated with Achilles tendinopathy: possible interaction with the COL5A1 gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1316]]
+    <blockquote>
+        <p class="text-snippet" data-id="1316">having minor alleles at all 3 of rs1446109-rs1007371-rs723524 may affect left-right asymmetrical brain function, such as handedness, and much of human cognition, behavior and emotion.  pdf full paper</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5261]]
+    <blockquote>
+        <p class="text-snippet" data-id="5261">non sig. gwas, hit (p = 1 x 10^-6) for pattern recognition memory (PRM) percent correct in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1358]]
+    <blockquote>
+        <p class="text-snippet" data-id="1358">rs1062033 increases susceptibility to Osteoporosis, postmenopausal for carriers of the G allele  Common variations in estrogen-related genes are associated with severe large-joint osteoarthritis: a multicenter genetic and functional study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1382]]
+    <blockquote>
+        <p class="text-snippet" data-id="1382">rs56276455, also known as 2385G>A, 5347T>C or D348N is a SNP in the CYP1A2 gene.The rs56276455(A) allele defines the CYP1A2 3 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3801]]
+    <blockquote>
+        <p class="text-snippet" data-id="3801">Phosphodiesterase 4D and 5-lipoxygenase activating protein in ischemic stroke. Phosphodiesterase 4D polymorphisms and the risk of cerebral infarction in a biracial population: the Stroke Prevention in Young Women Study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5197]]
+    <blockquote>
+        <p class="text-snippet" data-id="5197">aka c.94816C>T (p.Arg31606Ter)This mutation is considered in ClinVar to be a dominantly inherited mutation leading to either dilated cardiomyopathy or very early-onset atrial fibrillation; see also</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q385]]
+    <blockquote>
+        <p class="text-snippet" data-id="385">This SNP may be related to longevity. One study found that Ashkenazi who lived to age 95 or older are more likely to have two copies of the C allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4839]]
+    <blockquote>
+        <p class="text-snippet" data-id="4839">gwas, among 738 schizophrenics genotyped for 492K SNPs, this SNP attained a p-val of 1 x 10^-7 for high density lipoprotein (HDL) as a result of perphenazine use</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5251]]
+    <blockquote>
+        <p class="text-snippet" data-id="5251">Xenobiotic metabolizing gene variants, dietary heterocyclic amine intake, and risk of prostate cancer. Serum bilirubin levels on ICU admission are associated with ARDS development and mortality in sepsis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1486]]
+    <blockquote>
+        <p class="text-snippet" data-id="1486">rs5030656, also known as 2615_2617delAAG or K281del, is a SNP in the CYP2D6 gene.The rs5030656(-) allele defines the CYP2D6 9 variant, which has decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5237]]
+    <blockquote>
+        <p class="text-snippet" data-id="5237">Influences appearance  gnxp A genomewide association study of skin pigmentation in a South Asian population. Complex signatures of selection for the melanogenic loci TYR, TYRP1 and DCT in humans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2892]]
+    <blockquote>
+        <p class="text-snippet" data-id="2892">Polymorphisms in the VEGFA and VEGFR-2 genes and neovascular age-related macular degeneration. The IFNG (IFN-gamma) genotype predicts cytogenetic and molecular response to imatinib therapy in chronic myeloid leukemia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2402]]
+    <blockquote>
+        <p class="text-snippet" data-id="2402">rs726002(C) SNP had an elevated breast cancer risk (odds ratio (OR), 2.09; 95% confidence interval (95% CI), 1.17-3.73)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q460]]
+    <blockquote>
+        <p class="text-snippet" data-id="460">The i4000178(A;A) mutation is a reliable indicator of Haplogroup I1 (Y-DNA) subclade of Haplogroup I (Y-DNA) and is also referred to as P30+.rs112707890</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4787]]
+    <blockquote>
+        <p class="text-snippet" data-id="4787">c.88G>C (p.Ala30Pro or A30P)Considered "probably pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disease23andMe calls this i6018768</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4307]]
+    <blockquote>
+        <p class="text-snippet" data-id="4307">A complex pattern of mutations involving rs17158558(T) and other mutations simultaneously occurring may - or with greater odds, actually, may not - lead to Hirschsprung disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q197]]
+    <blockquote>
+        <p class="text-snippet" data-id="197">This 2008 article found that the minor C allele of rs17366743 had a hazard ratio of "1.94 for incident diabetes (95% CI 1.16–3.25; Pn = 0.01)"</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q943]]
+    <blockquote>
+        <p class="text-snippet" data-id="943">rs1295685 and rs20541 were significantly associated with elevated IgE levels in pooled analyses. rs2569190(T;T) and rs2569191(C;C) genotypes associated with lower IgE</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3638]]
+    <blockquote>
+        <p class="text-snippet" data-id="3638">A three-single-nucleotide polymorphism haplotype in intron 1 of OCA2 explains most human eye-color variation. Three genome-wide association studies and a linkage analysis identify HERC2 as a human iris color gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5340]]
+    <blockquote>
+        <p class="text-snippet" data-id="5340">aka c.263G>A (p.Trp88Ter or W88X) and also c.263G>C (p.Trp88Ser or W88S), both of which are pathogenic23andMe name for c.263G>C: i5006371</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5350]]
+    <blockquote>
+        <p class="text-snippet" data-id="5350">c.1463A>G (p.Gln488Arg)Reported as a disease causing mutation in ClinVar, however, only as an unspecified "inborn genetic disease", with autosomal dominant inheritance.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1703]]
+    <blockquote>
+        <p class="text-snippet" data-id="1703">aka c.4180C>T (p.Gln1394Ter)Reported in ClinVar as pathogenic for dilated cardiomyopathy and likely pathogenic for arrhythmogenic right ventricular dysplasia; also reported in a sudden cardiac death patient</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q900]]
+    <blockquote>
+        <p class="text-snippet" data-id="900">Novel missense mutation in the caveolin-3 gene in a Belgian family with rippling muscle disease. Novel missense mutation in the caveolin-3 gene in a Belgian family with rippling muscle disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1589]]
+    <blockquote>
+        <p class="text-snippet" data-id="1589">Exploration of 19 serotoninergic candidate genes in adults and children with attention-deficit/hyperactivity disorder identifies association for 5HT2A, DDC and MAOB.  A allele associated with ADHD in adults and children.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1956]]
+    <blockquote>
+        <p class="text-snippet" data-id="1956">rs72549321, also known as Ala52Thr, is a SNP in the FMO3 gene. The homozygous minor genotype for this SNP has been reported in a single patient with trimethylaminuria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2636]]
+    <blockquote>
+        <p class="text-snippet" data-id="2636">Polymorphisms in the serotonin receptor gene HTR2A are associated with quantitative traits in panic disorder. Association of genetic, psychological and behavioral factors with sleep bruxism in a Japanese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4791]]
+    <blockquote>
+        <p class="text-snippet" data-id="4791">c.152G>A (p.Gly51Asp or G51D)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson diseaseSee also OMIM  163890.0006</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q207]]
+    <blockquote>
+        <p class="text-snippet" data-id="207">Association between ADORA2A and DRD2 polymorphisms and caffeine-induced anxiety. Adenosine A(2A) receptor gene (ADORA2A) variants may increase autistic symptoms and anxiety in autism spectrum disorder.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1077]]
+    <blockquote>
+        <p class="text-snippet" data-id="1077">Plasma complement components and activation fragments: associations with age-related macular degeneration genotypes and phenotypes. Genetic analysis of typical wet-type age-related macular degeneration and polypoidal choroidal vasculopathy in Japanese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1471]]
+    <blockquote>
+        <p class="text-snippet" data-id="1471">The 1661G>C variation in CYP2D6. Involved in a number of decreased and non-functioning CYP2D6 variants. This SNP does not yet appear to be common in consumer tests.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q282]]
+    <blockquote>
+        <p class="text-snippet" data-id="282">aka c.524C>A (p.Ala175Asp or A175D; sometimes Ala174Asp in older literature); usually considered the second most common ALDOB gene mutation after the most common one, rs1800546</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3378]]
+    <blockquote>
+        <p class="text-snippet" data-id="3378">aka c.2150G>T, p.Gly717Val, G717V; p.Gly717Val is reported to be observed in 41% of affected African Americans and Nigerians associated with a mut- phenotype.23andMe name: i5000070</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2164]]
+    <blockquote>
+        <p class="text-snippet" data-id="2164">non sig. gwas, hit (p = 2 x 10^-6) for spatial recognition memory (SRM) percent correct in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3361]]
+    <blockquote>
+        <p class="text-snippet" data-id="3361">Pancreatic cancer  702 cases and 785 controls rs162049 p = .024, OR 1.33, CI: 1.11-1.60  rs10380 (His595Tyr) p = .023, OR 1.45, CI: 1.11-1.88</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4617]]
+    <blockquote>
+        <p class="text-snippet" data-id="4617">Also known as IBD5-IGR2230, the G>A mutation is associated with an increased risk of Crohn's Disease.  MAST3: a novel IBD risk factor that modulates TLR4 signaling.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3952]]
+    <blockquote>
+        <p class="text-snippet" data-id="3952">The (T) allele of rs3843763 was associated with risk for lower high-density lipoprotein (HDL) cholesterol plasma levels in 3 independent population samples, including both Caucasians and African-Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2224]]
+    <blockquote>
+        <p class="text-snippet" data-id="2224">rs387906315, also known as c.84dupG, p.Leu29Alafs 18 or 84GG, is a causal mutation for Gaucher's disease.23andMe chooses to use their own name, i4000417, for this SNP.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1803]]
+    <blockquote>
+        <p class="text-snippet" data-id="1803">rs2881766 is a SNP in the promoter region of the estrogen receptor alpha ESR1 gene.Carriers of rs2881766(T) alleles are at somewhat (slightly) higher risk for pregnancy-induced hypertension.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3073]]
+    <blockquote>
+        <p class="text-snippet" data-id="3073">c.4309A>C (p.Asn1437His or N1437H)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disease (type 8)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3069]]
+    <blockquote>
+        <p class="text-snippet" data-id="3069">c.5096A>G (p.Tyr1699Cys or Y1699C)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disorder (type 8)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1490]]
+    <blockquote>
+        <p class="text-snippet" data-id="1490">rs5030867, also known as 2935A>C or H324P, is a SNP in the CYP2D6 gene.The rs5030867(C) allele defines the CYP2D6 7 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4670]]
+    <blockquote>
+        <p class="text-snippet" data-id="4670">aka c.283C>T (p.Arg95Cys)Note that dbSNP reports the existence of an alternate alternate allele, c.283C>A (p.Arg95Ser), but the pathogenicity is not reported.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2803]]
+    <blockquote>
+        <p class="text-snippet" data-id="2803">non sig. gwas, hit (p = 6 x 10^-6) for intra-extra dimensional set shift (IED) EDS errors in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4108]]
+    <blockquote>
+        <p class="text-snippet" data-id="4108">aka c.565C>T, p.Arg189Trp, R189WThe rs146922325(T) mutation may be the most frequent pathogenic variant associated with venous thromboembolism in East Asian (including Chinese) populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1487]]
+    <blockquote>
+        <p class="text-snippet" data-id="1487">rs5030862, also known as 124G>A or G42R, is a SNP in the CYP2D6 gene.The rs5030862(A) allele defines the CYP2D6 12 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1533]]
+    <blockquote>
+        <p class="text-snippet" data-id="1533">rs56324128, also known as 167G>A, 6004G>A or G56D, is a SNP in the CYP3A4 gene.The rs56324128(T) allele defines the CYP3A4 7 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1730]]
+    <blockquote>
+        <p class="text-snippet" data-id="1730">Common genetic variability in ESR1 and EGF in relation to endometrial cancer risk and survival. Development of predictive models of proliferative vitreoretinopathy based on genetic variables: the Retina 4 project.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1744]]
+    <blockquote>
+        <p class="text-snippet" data-id="1744">Common variants in P2RY11 are associated with narcolepsy.  Found that rs2305795 G allele appears to lower the risk of narcolepsy.This SNP is also in the intronal area of the EIF3G gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1531]]
+    <blockquote>
+        <p class="text-snippet" data-id="1531">rs55901263, also known as 653C>G, 15702C>G or P218R, is a SNP in the CYP3A4 gene.The rs55901263(C) allele defines the CYP3A4 5 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1535]]
+    <blockquote>
+        <p class="text-snippet" data-id="1535">rs67784355, also known as 1088C>T, 21867C>T or T363M, is a SNP in the CYP3A4 gene.The rs67784355(A) allele defines the CYP3A4 11 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1530]]
+    <blockquote>
+        <p class="text-snippet" data-id="1530">rs55785340, also known as 664T>C, 15713T>C or S222P, is a SNP in the CYP3A4 gene.The rs55785340(G) allele defines the CYP3A4 2 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1529]]
+    <blockquote>
+        <p class="text-snippet" data-id="1529">rs4987161, also known as 566T>C, 15615T>C or F189S, is a SNP in the CYP3A4 gene.The rs4987161(C) allele defines the CYP3A4 17 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1536]]
+    <blockquote>
+        <p class="text-snippet" data-id="1536">rs72552799, also known as 1389G>A, 13908G>A or R130Q, is a SNP in the CYP3A4 gene.The rs72552799(T) allele defines the CYP3A4 8 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1541]]
+    <blockquote>
+        <p class="text-snippet" data-id="1541">rs28383468, also known as 3705C>T or H30Y, is a SNP in the CYP3A5 gene.The rs28383468(T) allele defines the CYP3A5 H30Y variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1528]]
+    <blockquote>
+        <p class="text-snippet" data-id="1528">rs4986913, also known as 1399C>T, 23237C>T or P467S, is a SNP in the CYP3A4 gene.The rs4986913(T) allele defines the CYP3A4 19 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1543]]
+    <blockquote>
+        <p class="text-snippet" data-id="1543">rs41279854, also known as 29748T>C or F446S, is a SNP in the CYP3A5 gene.The rs41279854(G) allele defines the CYP3A5 10 variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1550]]
+    <blockquote>
+        <p class="text-snippet" data-id="1550">rs72552791, also known as 3775A>G or Y53C, is a SNP in the CYP3A5 gene.The rs72552791(G) allele defines the CYP3A5 11 variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q245]]
+    <blockquote>
+        <p class="text-snippet" data-id="245">Category:is a snp Homozygosity for the rs2593813:G-rs4917:Met-rs4918:Ser haplotype conferred an increased risk for leanness AHSG gene variant is associated with leanness among Swedish men.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1527]]
+    <blockquote>
+        <p class="text-snippet" data-id="1527">rs4986910, also known as 1334T>C, 23171T>C or M445T, is a SNP in the CYP3A4 gene.The rs4986910(C) allele defines the CYP3A4 3 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1526]]
+    <blockquote>
+        <p class="text-snippet" data-id="1526">rs4986909, also known as 1247C>T, 22026C>T or P416L, is a SNP in the CYP3A4 gene.The rs4986909(T) allele defines the CYP3A4 13 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1607]]
+    <blockquote>
+        <p class="text-snippet" data-id="1607">The frequency of remission from rheumatoid arthritis upon leflunomide treatment was increased in rs3213422(C) allele carriers compared with patients with the A allele in a study of 147 patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2410]]
+    <blockquote>
+        <p class="text-snippet" data-id="2410">non sig. gwas, hit (p = 2 x 10^-6) for intra-extra dimensional set shift (IED) EDS errors in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1524]]
+    <blockquote>
+        <p class="text-snippet" data-id="1524">rs4986907, also known as 485G>A, 14269G>A or R162Q, is a SNP in the CYP3A4 gene.The rs4986907(A) allele defines the CYP3A4 15A variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1517]]
+    <blockquote>
+        <p class="text-snippet" data-id="1517">rs28371759, also known as 878T>C, 20070T>C or L293P, is a SNP in the CYP3A4 gene.The rs28371759(C) allele defines the CYP3A4 18 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2344]]
+    <blockquote>
+        <p class="text-snippet" data-id="2344">aka c.644A>G (p.Asn215Ser or N215S)The rare minor allele of this variant is reported to be pathogenic/likely pathogenic for familial hypertrophic cardiomyopathy (HCM), according to .</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1512]]
+    <blockquote>
+        <p class="text-snippet" data-id="1512">rs12721627, also known as 554C>G, 15603C>G or T185S, is a SNP in the CYP3A4 gene.The rs12721627(G) allele defines the CYP3A4 16 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1532]]
+    <blockquote>
+        <p class="text-snippet" data-id="1532">rs55951658, also known as 352A>G, 13871A>G or I118V, is a SNP in the CYP3A4 gene.The rs55951658(C) allele defines the CYP3A4 4 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3038]]
+    <blockquote>
+        <p class="text-snippet" data-id="3038">The (A) allele of rs326 was associated with risk for lower high-density lipoprotein (HDL) cholesterol plasma levels in 3 independent population samples, including both Caucasians and African-Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1544]]
+    <blockquote>
+        <p class="text-snippet" data-id="1544">rs41279857, also known as 7298C>A or S100Y, is a SNP in the CYP3A5 gene.The rs41279857(T) allele defines the CYP3A5 S100Y variant, which is nonfunctional.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2802]]
+    <blockquote>
+        <p class="text-snippet" data-id="2802">non sig. gwas, hit (p = 3 x 10^-6) for intra-extra dimensional set shift (IED) EDS errors in the CANTAB (Cambridge Neuropsychological Test Automated Battery)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3247]]
+    <blockquote>
+        <p class="text-snippet" data-id="3247">Chinese breast cancerrs11568818(G;G) significantly worse prognosis (OS HR: 6.7, 95% CI: 2.4-18.6) than patients homozygous for the common allele (A)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q836]]
+    <blockquote>
+        <p class="text-snippet" data-id="836">Polymorphisms within the C3 gene are associated with specific IgE levels to common allergens and super-antigens among atopic dermatitis patients. Association of the C3 gene polymorphisms with susceptibility to adult asthma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1453]]
+    <blockquote>
+        <p class="text-snippet" data-id="1453">rs2256871, also known as 752A>G, 10535A>G or H251R, is a SNP in the CYP2C9 gene.The rs2256871(C) allele defines the CYP2C9 9 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2817]]
+    <blockquote>
+        <p class="text-snippet" data-id="2817">A combined study totaling 1,000+ patients with migraine susceptibility concluded that even larger numbers of individuals are required to exclude or confirm the most likely small effect of rs2860174 on migraine susceptibility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4855]]
+    <blockquote>
+        <p class="text-snippet" data-id="4855">"After evaluating over 6,000 cases and 6,000 controls, there is little evidence of a role for the SRD5A2 A49T (i.e. rs9282858) variant in prostate cancer risk."</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3630]]
+    <blockquote>
+        <p class="text-snippet" data-id="3630">The rare minor allele of this OBSCN SNP is reported in  to be a variant leading to left ventricular noncompaction, acting in a dominant manner (i.e. in heterozygotes).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1463]]
+    <blockquote>
+        <p class="text-snippet" data-id="1463">rs72558190, also known as 485C>A or S162X, is a SNP in the CYP2C9 gene.The rs72558190(A) allele defines the CYP2C9 15 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1383]]
+    <blockquote>
+        <p class="text-snippet" data-id="1383">rs72547511, also known as 125C>G, 5347T>C or P42R, is a SNP in the CYP1A2 gene.The rs72547511(G) allele defines the CYP1A2 15 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1049]]
+    <blockquote>
+        <p class="text-snippet" data-id="1049">aka c.5813_5817delCTTTA (p.Thr1938Asnfs)Listed in ClinVar but without known significance; listed in the  CEP290 database as a truncating deletion, presumably leading to a CEP290-gene related recessively inherited disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q482]]
+    <blockquote>
+        <p class="text-snippet" data-id="482">c.280C>T, p.Arg94Cys and R94C; note that ClinVar shows conflicting interpretation of pathogenicity, but from the same source, with the more recent evaluation designating this mutation as pathogenic</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1465]]
+    <blockquote>
+        <p class="text-snippet" data-id="1465">rs9332130, also known as 815A>G, 10598A>G or E272G, is a SNP in the CYP2C9 gene.The rs9332130(G) allele defines the CYP2C9 10 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1053]]
+    <blockquote>
+        <p class="text-snippet" data-id="1053">The (C) allele of rs183130 was associated with risk for lower high-density lipoprotein (HDL) cholesterol plasma levels in 3 independent population samples, including both Caucasians and African-Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1387]]
+    <blockquote>
+        <p class="text-snippet" data-id="1387">rs72547517, also known as 5166G>A, 5347T>C or R456H, is a SNP in the CYP1A2 gene.The rs72547517(A) allele defines the CYP1A2 8 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1385]]
+    <blockquote>
+        <p class="text-snippet" data-id="1385">rs72547515, also known as 2473G>A, 5347T>C or R377Q, is a SNP in the CYP1A2 gene.The rs72547515(T) allele defines the CYP1A2 16 variant.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5229]]
+    <blockquote>
+        <p class="text-snippet" data-id="5229">response to chemotherapy ) more favorable therapeutic response in advanced colorectal cancer and toxicity  (G) allele of this SNP is associated with grade 3 to 4 neutropenia and diarrhea 5-fluorouracil  Neutropenia</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2768]]
+    <blockquote>
+        <p class="text-snippet" data-id="2768">Genomewide linkage scan of 409 European-ancestry and African American families with schizophrenia: suggestive evidence of linkage at 8p23.3-p21.2 and 11p13.1-q14.1 in the combined sample. Overview of the Rapid Response data.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2413]]
+    <blockquote>
+        <p class="text-snippet" data-id="2413">non sig. gwas, hit (p = 3 x 10^-6) for paired associates learning (PAL) total errors at 6 patterns in the CANTAB (Cambridge Neuropsychological Test Automated Battery</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5193]]
+    <blockquote>
+        <p class="text-snippet" data-id="5193">aka c.1107C>G (p.Tyr369 ); MMAF recessive mutation. note: cDNA is on reverse strand: Bi-allelic Mutations in TTC29 Cause Male Subfertility with Asthenoteratospermia in Humans and Mice.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q578]]
+    <blockquote>
+        <p class="text-snippet" data-id="578">aka c.711C>A (p.Cys237Ter); note a benign, synonymous variant, c.711C>T, is also knownLutheran Null blood group mutation23andMe name for c.711C>A variant: i5000663</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5279]]
+    <blockquote>
+        <p class="text-snippet" data-id="5279">aka c.217T>C, p.Cys73Arg and C73RThis recessively inherited mutation in the UROS gene, found in about one-third of all cases of congenital erythropoietic porphyria, is considered the most frequent.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q351]]
+    <blockquote>
+        <p class="text-snippet" data-id="351">Recessive mutations in the putative calcium-activated chloride channel Anoctamin 5 cause proximal LGMD2L and distal MMD3 muscular dystrophies. A founder mutation in Anoctamin 5 is a major cause of limb-girdle muscular dystrophy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q816]]
+    <blockquote>
+        <p class="text-snippet" data-id="816">the rare allele of rs2191249 is associated with a poorer prognosis (hazard ratio per minor allele, 1.20; 95% CI, 1.07-1.36; P trend = 0.002) for breast cancer</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4802]]
+    <blockquote>
+        <p class="text-snippet" data-id="4802">A study of ~2800 Japanese adults concluded that rs1041740(T;T) was associated with cardiovascular mortality (adjusted HR, 2.07, CI: 1.10–3.91, p = 0.0244).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1942]]
+    <blockquote>
+        <p class="text-snippet" data-id="1942">aka c.9740C>A (p.Ser3247Ter or S3247X)Dominantly inherited variant pathogenic for ichthyosis vulgaris in ClinVar, and also associated with higher odds of eczema (OR 1.66, CI:1.4-1.98).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1267]]
+    <blockquote>
+        <p class="text-snippet" data-id="1267">COL7A1 gene, c.4783G>C (p.Gly1595Arg)23andMe name: i5004274 Toenail dystrophy with COL7A1 glycine substitution mutations segregates as an autosomal dominant trait in 2 families with dystrophic epidermolysis bullosa.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3568]]
+    <blockquote>
+        <p class="text-snippet" data-id="3568">nature The inheritance of the AC haplotype of rs1861972 &#8211; rs1861973, the C allele of rs1811399, and the C allele of rs1234747 may contribute to autism by affecting microRNA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q50]]
+    <blockquote>
+        <p class="text-snippet" data-id="50">The human multidrug resistance protein 4 (MRP4, ABCC4): functional analysis of a highly polymorphic gene. Analysis of 17,576 potentially functional SNPs in three case-control studies of myocardial infarction.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3599]]
+    <blockquote>
+        <p class="text-snippet" data-id="3599">Associated with insulin resistance in men Associated with bone mineral density and thus osteoporosis in a Chinese population. A comparison of classification methods for predicting Chronic Fatigue Syndrome based on genetic data.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q890]]
+    <blockquote>
+        <p class="text-snippet" data-id="890">Genetic variants in caspase genes and susceptibility to non-Hodgkin lymphoma. Caspase polymorphisms and genetic susceptibility to multiple myeloma. CASP3 polymorphisms and risk of squamous cell carcinoma of the head and neck.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2896]]
+    <blockquote>
+        <p class="text-snippet" data-id="2896">The rs369569464(T) allele is reported to be an allele leading to the Kell null phenotype (when inherited in two copies or with another null allele).23andMe name: i6025264</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4011]]
+    <blockquote>
+        <p class="text-snippet" data-id="4011">rs758673417, also known as c.1851_1852delTA or p.Asp617GlufsTer9, represents a rare mutation in the POT1 gene on chromosome 7.Inherited dominantly, the minor allele is reported to increase risk for colorectal cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3071]]
+    <blockquote>
+        <p class="text-snippet" data-id="3071">c.6059T>C (p.Ile2020Thr or I2020T)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disease (type 8).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2141]]
+    <blockquote>
+        <p class="text-snippet" data-id="2141">aka c.944G>A (p.Arg315His, R315H)Annotated in ClinVar as benign; described in OMIM as having "nearly normal properties"23andMe name: i5053909FTDNA & MyHeritage name: VGXS34738</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2926]]
+    <blockquote>
+        <p class="text-snippet" data-id="2926">rs10508266 and rs3750861 shows significant association with lung cancer risk rs3750861 affects expression of KLF6 splicing variants in prostate cancer and we found that its rare allele is associated with reduced lung cancer risk</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1937]]
+    <blockquote>
+        <p class="text-snippet" data-id="1937">aka c.7339C>T (p.Arg2447Ter or R2447X)Dominantly inherited variant pathogenic for ichthyosis vulgaris in ClinVar, and also associated with higher odds of eczema (OR 1.96, CI:1.69-2.27).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1466]]
+    <blockquote>
+        <p class="text-snippet" data-id="1466">rs9332131, also known as 818delA, 10601delA or 273Frame shift, is a SNP in the CYP2C9 gene.The rs9332131(-) allele defines the CYP2C9 6 variant, which is inactive.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5351]]
+    <blockquote>
+        <p class="text-snippet" data-id="5351">non sig. gwas, hit (p = 6 x 10^-6) for paired associates learning (PAL) total errors at 8 patterns in the CANTAB (Cambridge Neuropsychological Test Automated Battery</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5030]]
+    <blockquote>
+        <p class="text-snippet" data-id="5030">Genetic variation and haplotype structures of innate immunity genes in eastern India. STAT2 C related genotypes and allele but not TLR4 and CD40 gene polymorphisms are associated with higher susceptibility for asthma.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q751]]
+    <blockquote>
+        <p class="text-snippet" data-id="751">rs80357724, also known as c.787+12del, c.787+10dup, c.798_799del, 917delTT, c.798_799delTT and p.Val266_Ser267ValLysfs, all of which are variants in the BRCA1 gene considered pathogenic for breast cancer in ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1810]]
+    <blockquote>
+        <p class="text-snippet" data-id="1810">Potentially functional polymorphisms of EXO1 and risk of lung cancer in a Chinese population: A case-control analysis. Association of genetic polymorphisms of EXO1 gene with risk of breast cancer in Taiwan.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5320]]
+    <blockquote>
+        <p class="text-snippet" data-id="5320">origins blog rs833070 and rs2146323. Individuals with the CC genotype at rs833070 and rs2146323 displayed smaller hippocampal volumes than T-allele and A-allele carriers, respectively. bdmh2 blog coverage of rs833070 and rs2146323</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5015]]
+    <blockquote>
+        <p class="text-snippet" data-id="5015">Polymorphisms in tissue inhibitors of metalloproteinases-2 and -3 and breast cancer susceptibility and survival. A promoter polymorphism of tissue inhibitor of metalloproteinase-2 gene is associated with severity of thoracic adolescent idiopathic scoliosis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q22]]
+    <blockquote>
+        <p class="text-snippet" data-id="22">Alzheimer's disease associated, based on large 2011 study "The minor allele of Rs3764650 in ABCA7 was associated with a later age at onset and shorter disease course" according to /</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1423]]
+    <blockquote>
+        <p class="text-snippet" data-id="1423">The rs17884712(A) allele defines the CYP2C19 variant known as CYP2C19 9, which is associated with a slight decrease in the metabolism of S-mephenytoin (at least in vitro).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2952]]
+    <blockquote>
+        <p class="text-snippet" data-id="2952">aka c.1959_1960delTA (p.His653Glnfs); note that dbSNP indicates "refSNP cluster id(rs): rs1064793348 is an invalid snp_id value" even though it is listed in ClinVar and Ensembl</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5349]]
+    <blockquote>
+        <p class="text-snippet" data-id="5349">aka c.1858G>A, p.Asp620Asn, D620NLengthy discussion on OMIM at  601501.0001Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2253]]
+    <blockquote>
+        <p class="text-snippet" data-id="2253">Polymorphic Variation of the COMT and GCH1 Genes In Patients Undergoing Surgical Treatment For Lumbar Degenerative Disc Disease Lack of influence of GTP cyclohydrolase gene (GCH1) variations on pain sensitivity in humans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3878]]
+    <blockquote>
+        <p class="text-snippet" data-id="3878">NM_001009944.2:c.7300C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4328]]
+    <blockquote>
+        <p class="text-snippet" data-id="4328">Variant in the RIPK2 gene associated with a reduced risk of leprosy in Asians, according to the / 23andMe blog. The protective allele is A, and the odds ratio is 0.76.Leprosy Susceptibility</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3879]]
+    <blockquote>
+        <p class="text-snippet" data-id="3879">NM_001009944.2:c.2180T>CThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3890]]
+    <blockquote>
+        <p class="text-snippet" data-id="3890">NM_001009944.2:c.7288C>TThe variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1972]]
+    <blockquote>
+        <p class="text-snippet" data-id="1972">/ 23andMe blog longevity rs2802288(A) increased the odds of living to 100 by 1.5x. rs2802288 is located very close to rs2802292 which was previously reported to have a similar effect.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2278]]
+    <blockquote>
+        <p class="text-snippet" data-id="2278">Epigenetic regulation of human gamma-glutamyl hydrolase activity in acute lymphoblastic leukemia cells. Associations between single nucleotide polymorphisms in folate uptake and metabolizing genes with blood folate, homocysteine, and DNA uracil concentrations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3126]]
+    <blockquote>
+        <p class="text-snippet" data-id="3126">blog  rs1864325 is a predictor for the two sequences. A C at the SNP corresponds to the typical African haplotype, while a T at the SNP corresponds to the mysterious European haplotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3014]]
+    <blockquote>
+        <p class="text-snippet" data-id="3014">Genome-wide association of echocardiographic dimensions, brachial artery endothelial function and treadmill exercise responses in the Framingham Heart Study. Genetic-epidemiological evidence on genes associated with HDL cholesterol levels: a systematic in-depth review.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5013]]
+    <blockquote>
+        <p class="text-snippet" data-id="5013">This SNP represents a rare variant in the THSD1 gene on chromosome 13.The minor allele has been reported (in heterozygotes) in a 2016 study to be potentially strongly associated with intracranial Aneurysm.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4785]]
+    <blockquote>
+        <p class="text-snippet" data-id="4785">c.136G>A (p.Glu46Lys or E46K)Considered "probably pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant Parkinson disease.See also OMIM  163890.000423andMe calls this i5002552</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3656]]
+    <blockquote>
+        <p class="text-snippet" data-id="3656">Association between single nucleotide polymorphisms in the mu opioid receptor gene (OPRM1) and self-reported responses to alcohol in American Indians. Do genetic predictors of pain sensitivity associate with persistent widespread pain?</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2057]]
+    <blockquote>
+        <p class="text-snippet" data-id="2057">Genetic basis of glycogen storage disease type 1a: prevalent mutations at the glucose-6-phosphatase locus. Identification of mutations in the gene for glucose-6-phosphatase, the enzyme deficient in glycogen storage disease type 1a.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3212]]
+    <blockquote>
+        <p class="text-snippet" data-id="3212">aka c.720C>G (p.Phe240Leu) and also c.720C>A (p.Phe240Leu); both are considered pathogenic in ClinVar for Charcot-Marie-Tooth disease, type 223andMe name for c.720C>A: i723120</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4817]]
+    <blockquote>
+        <p class="text-snippet" data-id="4817">Meta-analysis of 74,046 individuals identifies 11 new susceptibility loci for Alzheimer’s disease.(PMCID: PMC3896259 NIHMSID: NIHMS540798), see /table/T2/ TABLE 2 for reference to rs11218343 T/C alleles.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1378]]
+    <blockquote>
+        <p class="text-snippet" data-id="1378">rs2470890 is a SNP in the CYP1A2 gene.The rs2470890(C) allele defines the CYP1A2_1545T>C variant. Low-penetrance alleles predisposing to sporadic colorectal cancers: a French case-controlled genetic association study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1371]]
+    <blockquote>
+        <p class="text-snippet" data-id="1371">rs4410790 and rs2470893 influence habitual caffeine consumption Paternal smoking, genetic polymorphisms in CYP1A1 and childhood leukemia risk. Phase I metabolic genes and risk of lung cancer: multiple polymorphisms and mRNA expression.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4455]]
+    <blockquote>
+        <p class="text-snippet" data-id="4455">rs6746030 is a SNP in the sodium channel Nav1.7 SCN9A gene.In five cohorts tested, totaling 1,277 individuals, the rarer rs6746030(A) allele was associated with increased pain (p=0.0001).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5194]]
+    <blockquote>
+        <p class="text-snippet" data-id="5194">aka c.750C>A; MMAF recessive mutation. note: cDNA is on reverse strand: Mutations in TTC29, Encoding an Evolutionarily Conserved Axonemal Protein, Result in Asthenozoospermia and Male Infertility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1459]]
+    <blockquote>
+        <p class="text-snippet" data-id="1459">associations with higher warfarin dose, namely, VKORC1-8191 (rs61162043, P = 0.0041) and 18786 in CYP2C9 (rs7089580, P = 0.035) independent of the previous associations with these genes</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4180]]
+    <blockquote>
+        <p class="text-snippet" data-id="4180">rs63750218, also known as L392P or Leu392Pro, is a SNP in the presenilin 1 PSEN1 gene.The rare rs63750218(C) allele is reported as a pathogenic mutation for Alzheimer's disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q444]]
+    <blockquote>
+        <p class="text-snippet" data-id="444">associated with bronchodilator response among a sample of 209 children and their parents participating in the Childhood Asthma Management Program, the minor allele was associated with lower BDR compared to the homozygous major allele</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3842]]
+    <blockquote>
+        <p class="text-snippet" data-id="3842">Part of a haplotype Gs286, standalone effect for endometrial cancer is ambiguous. Tightly linked with PROGINS allele. Clarifying the PROGINS allele association in ovarian and breast cancer risk: a haplotype-based analysis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5238]]
+    <blockquote>
+        <p class="text-snippet" data-id="5238">aka c.277C>T (p.Arg93Cys or R93C)Inherited recessively, the rare minor allele of this SNP is reported to cause blond hair in (dark-skinned) Melanesians from the Solomon Islands.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3232]]
+    <blockquote>
+        <p class="text-snippet" data-id="3232">The G allele is associated with 1.3 times higher odds of primary biliary cirrhosis.  Meta-analysis of genome-wide association studies in celiac disease and rheumatoid arthritis identifies fourteen non-HLA shared loci.Primary Biliary Cirrhosis: Preliminary Research</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2651]]
+    <blockquote>
+        <p class="text-snippet" data-id="2651">rs1414334(C) associated with the metabolic syndrome in patients using  clozapine (OR, 9.20; 95% CI, 1.95-43.45) risperidone (OR, 5.35; 95% CI, 1.26-22.83)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2168]]
+    <blockquote>
+        <p class="text-snippet" data-id="2168">Associations of glutamate decarboxylase genes with initial sensitivity and age-at-onset of alcohol dependence in the Irish Affected Sib Pair Study of Alcohol Dependence. Polymorphisms in the glutamate decarboxylase 1 gene associated with heroin dependence.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3095]]
+    <blockquote>
+        <p class="text-snippet" data-id="3095">mentioned as potentially affecting white matter volume, sample size tiny Sexually dimorphic effects of four genes (COMT, SLC6A2, MAOA, SLC6A4) in genetic associations of ADHD: a preliminary study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1432]]
+    <blockquote>
+        <p class="text-snippet" data-id="1432">The rs56337013(T) allele defines the CYP2C19 variant known as CYP2C19 5.This variant is quite rare (< 1% of Caucasians or Chinese), and leads to a poor metabolizer phenotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4485]]
+    <blockquote>
+        <p class="text-snippet" data-id="4485">aka c.235C>T (p.Arg79Cys or R79C); also c.235C>A (p.Arg79Ser or R79S)The Arg79Cys mutation was reported to be relatively prevalent among Korean venous thromboembolism patients screened for thrombophilia</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2761]]
+    <blockquote>
+        <p class="text-snippet" data-id="2761">Genome-wide association study for Crohn's disease in the Quebec Founder Population identifies multiple validated disease loci. Association of polymorphisms in the Interleukin 23 receptor gene with osteonecrosis of femoral head in Korean population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2858]]
+    <blockquote>
+        <p class="text-snippet" data-id="2858">Mutations in the hminK gene cause long QT syndrome and suppress IKs function. Compound mutations: a common cause of severe long-QT syndrome. Mechanisms of disease pathogenesis in long QT syndrome type 5.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5061]]
+    <blockquote>
+        <p class="text-snippet" data-id="5061">Carriers of an 228Ala allele for rs20576 who have prostate cancer and are treated by radiation therapy have a higher risk (odds ratio 2.47, CI: 1.10-5.54, p=0.028) for subsequent metastasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2909]]
+    <blockquote>
+        <p class="text-snippet" data-id="2909">aka Pro986Leu~1.4x increased risk for ALS, also known as Lou Gehrig's disease, is associated with the minor allele of this SNP located in the 3' terminal area of the KIF5A gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1130]]
+    <blockquote>
+        <p class="text-snippet" data-id="1130">aka c.1044delG (p.Trp348Terfs)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1131]]
+    <blockquote>
+        <p class="text-snippet" data-id="1131">aka c.542_543delCT (p.Ser181Cysfs)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3802]]
+    <blockquote>
+        <p class="text-snippet" data-id="3802">A study of 639 Chinese stroke patients concluded that the rs966221(C) allele is associated with increased risk for atherothrombotic strokes (odds ratio 1.51, CI: 1.09-2.10) in this population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2013]]
+    <blockquote>
+        <p class="text-snippet" data-id="2013">rs104894105 is a mutation in the FXN gene on chromosome 9 associated with Friedreich's ataxia. It has 2 known minor alleles c.317 T>C or p.L106S,  c.317 T>G or p.L106X</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1134]]
+    <blockquote>
+        <p class="text-snippet" data-id="1134">aka c.1850dup (p.Lys618Glufs)Considered pathogenic in ClinVar; condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4010]]
+    <blockquote>
+        <p class="text-snippet" data-id="4010">rs756198077, also known as c.1087C>T and p.Arg363Ter, represents a rare mutation in the POT1 gene on chromosome 7.Inherited dominantly, the minor allele is reported to increase risk for colorectal cancer.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1283]]
+    <blockquote>
+        <p class="text-snippet" data-id="1283">Found a statistically non-significant increased risk with rs9332377 (OR per variant allele of 1.24, 95% CI: 0.93–1.67).  / 23andMe blog hearing loss linked to a chemotherapy drug named Cisplatin.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1808]]
+    <blockquote>
+        <p class="text-snippet" data-id="1808">Based on a study of ~400 German centenarians (and matched controls), the more common rs1776180(C) allele is significantly enriched in female centenarians and may therefore be associated with longevity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1572]]
+    <blockquote>
+        <p class="text-snippet" data-id="1572">aka c.1645C>T, p.Arg549Cys and R549C An in vitro functional study concluded that rs6271 (R549C) exhibited both decreased homospecific activity and differential secretion compared to a wild-type (normal) control.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3982]]
+    <blockquote>
+        <p class="text-snippet" data-id="3982">aka c.861T>A, p.Asp287GluAs of 2018, the minor allele for this SNP is considered to be either likely to be benign or of uncertain significance by the majority of submitters to ClinVar.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4427]]
+    <blockquote>
+        <p class="text-snippet" data-id="4427">Genetic-epidemiological evidence on genes associated with HDL cholesterol levels: a systematic in-depth review. Scavenger receptor class B type I protein as an independent predictor of high-density lipoprotein cholesterol levels in subjects with hyperalphalipoproteinemia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q112]]
+    <blockquote>
+        <p class="text-snippet" data-id="112">PMID 21488903 Association of single nucleotide polymorphisms in the diamine oxidase gene with diamine oxidase serum activities. Found reduced DAO activity for the minor allele and lower DAO mRNA expression for the homozygous minor allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q820]]
+    <blockquote>
+        <p class="text-snippet" data-id="820">aka c.2400C>G (p.Tyr800Ter or Y800X), and also c.2400C>T (p.Tyr800=); the former is considered in ClinVar to be pathogenic for ovarian cancer, while the latter is benign</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5348]]
+    <blockquote>
+        <p class="text-snippet" data-id="5348">ORC6 gene, c.2T>C (p.Met1Thr)The minor allele is reported in ClinVar as pathogenic for Meier-Gorlin syndrome 3, apparently based on a single report; the condition is normally recessively inherited.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q66]]
+    <blockquote>
+        <p class="text-snippet" data-id="66">aka c.107C>A (p.Ser36Ter)Reported in ClinVar as associated with Chromosome Xq28 deletion syndrome; hemizygous mutation in the BCAP31 gene can lead to deafness, dystonia, and cerebral hypomyelination (DDCH)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q916]]
+    <blockquote>
+        <p class="text-snippet" data-id="916">Variant in the CCDC122 region associated with increased susceptibility to leprosy in Asians, according to the 23andMe blog / 23andMe's blog. The risk allele is A, and the odds ratio is 1.52.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4675]]
+    <blockquote>
+        <p class="text-snippet" data-id="4675">A genome-wide association scan in admixed Latin Americans identified loci influencing facial and scalp hair features, finding that the rs183671(C) allele was associated with hair graying in these mixed Latin American populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q184]]
+    <blockquote>
+        <p class="text-snippet" data-id="184">aka c.1252C>T (p.Arg418Trp or R418W)considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal dominant familial dyskinesia, with facial myokymiasee also OMIM  600293.0002</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q792]]
+    <blockquote>
+        <p class="text-snippet" data-id="792">rs80358047, also known as c.547+2T>A, is a mutation in the BRCA1 gene reported by multiple sources to be clinically significant (in terms of pathogenicity) for breast cancer./ ClinVar23andMe name: i5009552</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q44]]
+    <blockquote>
+        <p class="text-snippet" data-id="44">aka c.523A>G (p.Thr175Ala)Based on a 2015 study of <100 patients, individuals carrying a rs58238559(C) allele have a 3.75-fold increase in the probability of developing atrial fibrillation/flutter.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4389]]
+    <blockquote>
+        <p class="text-snippet" data-id="4389">rs121918594, aka p.Arg2458His or p.R2458H, is a SNP in the RYR1 gene leading to increased susceptibility to malignant hyperthermia when heterozygous.23andMe name: i5000020 Mutations in RYR1 in malignant hyperthermia and central core disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q920]]
+    <blockquote>
+        <p class="text-snippet" data-id="920">MCP-1 promoter variant -362C associated with protection from pulmonary tuberculosis in Ghana, West Africa. Joint effect of MCP-1 genotype GG and MMP-1 genotype 2G/2G increases the likelihood of developing pulmonary tuberculosis in BCG-vaccinated individuals.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4574]]
+    <blockquote>
+        <p class="text-snippet" data-id="4574">testosterone levels in men. / 23andMe blog See also rs12150660 Polymorphisms in estrogen- and androgen-metabolizing genes and the risk of gastric cancer. Genetic risk factors for hepatopulmonary syndrome in patients with advanced liver disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2205]]
+    <blockquote>
+        <p class="text-snippet" data-id="2205">rs55776826, also known as c.459+71G>A, is a SNP in the fourth intron of the guanidinoacetate N-methyltransferase GAMT gene on chromosome 19.rs55776826 been reported as most likely to be a clinically benign polymorphism.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4826]]
+    <blockquote>
+        <p class="text-snippet" data-id="4826">Minor Allele (G) associated with reduced risk (OR 0.6x, CI: 0.4-0.8) for Alzheimer's Disease; it is possible that the reported association could be restricted to a Swedish/Scandinavian population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5252]]
+    <blockquote>
+        <p class="text-snippet" data-id="5252">aka c.989A>G (p.Gln330Arg or Q331R)This variant defines the UGT1A1 9 allele, reported to be associated with Crigler-Najjar syndrome type II, a recessively inherited condition.See also OMIM  191740.000523andMe name: i5048984</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1425]]
+    <blockquote>
+        <p class="text-snippet" data-id="1425">The rs3758581(A) SNP defines a CYP2C19 allele known as V331I. Analysis of 50 SNPs in CYP2D6, CYP2C19, CYP2C9, CYP3A4 and CYP1A2 by MALDI-TOF mass spectrometry in Chinese Han population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2876]]
+    <blockquote>
+        <p class="text-snippet" data-id="2876">aka c.1766G>A (p.Gly589Asp), G589DThis mutation in the KCNQ1 gene is considered one of four founder mutations among people from Finland associated with Long QT syndrome (LQTS).23andMe name: i5004485</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1231]]
+    <blockquote>
+        <p class="text-snippet" data-id="1231"><br> This SNP was associated with a poorer treatment response to CBT for childhood anxiety disorders. Within the fear-based subset, the effect of rs806365 survived multiple testing corrections (P < 0.0016)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3889]]
+    <blockquote>
+        <p class="text-snippet" data-id="3889">c.8905C>T (p.Gln2969Ter)The variant allele of this SNP is considered either "definitely pathogenic" or "highly likely pathogenic" for autosomal dominant polycystic kidney disease in the PKD Foundation database.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5196]]
+    <blockquote>
+        <p class="text-snippet" data-id="5196">aka c.176+1G>A; MMAF male infertility recessive mutation. note: cDNA is on reverse strand: Mutations in TTC29, Encoding an Evolutionarily Conserved Axonemal Protein, Result in Asthenozoospermia and Male Infertility.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q252]]
+    <blockquote>
+        <p class="text-snippet" data-id="252">Albumin Rugby Park: a truncated albumin variant caused by a G-->C splice-site mutation in intron 13. Effect of genetic variation on the fatty acid-binding properties of human serum albumin and proalbumin.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4971]]
+    <blockquote>
+        <p class="text-snippet" data-id="4971">The more common allele of rs3212236 has been linked to increased risk for developmental dyslexia in a study of ~300 British families. While odds ratios were not reported, the significance was reported as p=0.02.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1564]]
+    <blockquote>
+        <p class="text-snippet" data-id="1564">showed that rs947267 was significantly associated with schizophrenia rs778294 and rs947267 associated with the risk of schizophrenia, however rs947267, showed an opposite direction of genetic effect on schizophrenia risk here than in a previous study</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q227]]
+    <blockquote>
+        <p class="text-snippet" data-id="227">An association analysis of Alzheimer disease candidate genes detects an ancestral risk haplotype clade in ACE and putative multilocus association between ACE, A2M, and LRRTM3. Disease-associated mutations that alter the RNA structural ensemble.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2996]]
+    <blockquote>
+        <p class="text-snippet" data-id="2996">A Bayesian hierarchical model for analysis of SNP diversity in multilocus, multipopulation samples. Phenotypic and genetic variation in leptin as determinants of weight regain. Genetic polymorphisms in obesity-related genes and endometrial cancer risk.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1761]]
+    <blockquote>
+        <p class="text-snippet" data-id="1761">rs986527 is a SNP in the elongator protein complex 4 ELP4 gene.  Associated with rolandic epilepsy, as part of a relatively tightly linked cluster of 3 SNPs (rs964112, rs11031434, and rs986527.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1770]]
+    <blockquote>
+        <p class="text-snippet" data-id="1770">rs997509 increases the risk of Type-2 diabetes for the obese. rs997509 we found a new SNP, rs997509, in intron 1 that is strongly associated with risk of type 2 diabetes in obese individuals.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q516]]
+    <blockquote>
+        <p class="text-snippet" data-id="516">rs2241879 has been associated with Crohn's disease; the minor allele is somewhat protective in that it lessens the odds of acquiring the disease (odds ratio 0.74, CI: 0.65-0.84, p=3.6x10e-6).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1760]]
+    <blockquote>
+        <p class="text-snippet" data-id="1760">rs964112 is a SNP in the elongator protein complex 4 ELP4 gene.  Associated with rolandic epilepsy, as part of a relatively tightly linked cluster of 3 SNPs (rs964112, rs11031434, and rs986527.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3768]]
+    <blockquote>
+        <p class="text-snippet" data-id="3768">c.78G>A (p.Met26Ile or M26I)Considered "definitely pathogenic" in the Movement Disorder Society Genetic mutation database (MDSGene) for autosomal recessive, early-onset Parkinson disease.See also OMIM  602533.000323andMe names this i5047037</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3359]]
+    <blockquote>
+        <p class="text-snippet" data-id="3359">pancreatic cancer  702 cases and 785 controls rs162049 P = .0018; OR, 1.33; 95% CI: 1.11-1.60  rs10380 (His595Tyr) P = .0063; OR, 1.45; 95% CI: 1.11-1.88</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2047]]
+    <blockquote>
+        <p class="text-snippet" data-id="2047">rs151206121, also known as c.381_384 delTGGG_+_c.384_+_1__+_9 delGTACCTCTT or , is a mutation in the FXN gene on chromosome 9.The deletion is associated with Friedreich's ataxia when inherited in two copies or as a compound heterozygote.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3974]]
+    <blockquote>
+        <p class="text-snippet" data-id="3974">nature rs6006460(T) (S453I)  lower hepatic fat content; by an average of 18% compared to the common (G;G) genotypes, at least as measured in African-Americans sampled.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4582]]
+    <blockquote>
+        <p class="text-snippet" data-id="4582">news breast cancer  rs3741378(C) associated with increased breast cancer incidence. rs931127  and rs746429 did not show significant associations with breast cancer incidence, yet were associated with lymph node metastasis in the previous study</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1253]]
+    <blockquote>
+        <p class="text-snippet" data-id="1253">aka c.1510G>A (p.Gly504Ser or G504S), also c.1510G>T (p.Gly504Cys or G504C); both are considered in ClinVar as dominantly inherited mutations pathogenic for Spondylometaphyseal dysplasia and/or Stickler syndrome type I</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1505]]
+    <blockquote>
+        <p class="text-snippet" data-id="1505">A study of 858 cases concluded that SNPs in the intron of the CYP2J2 gene were associated with increased risk for myocardial infarction. rs10889160 had an odds ratio of 1.24, CI: 1.07-1.43, p=0.004.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2163]]
+    <blockquote>
+        <p class="text-snippet" data-id="2163">Whole genome amplification of plasma-circulating DNA enables expanded screening for allelic imbalance in plasma. An autosomal recessive syndrome of severe mental retardation, cataract, coloboma and kyphosis maps to the pericentromeric region of chromosome 4.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q347]]
+    <blockquote>
+        <p class="text-snippet" data-id="347">/ 23andMe blog rs10994336 or (rs4948418) Each T at this SNP increased the odds of developing bipolar disorder by 1.45 times compared to the CC genotype.This is one of the SNPs reported by NutraHacker SNPs|NutraHacker.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4333]]
+    <blockquote>
+        <p class="text-snippet" data-id="4333">A scan of chromosome 10 identifies a novel locus showing strong association with late-onset Alzheimer disease. Renalase gene is a novel susceptibility gene for essential hypertension: a two-stage association study in northern Han Chinese population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1460]]
+    <blockquote>
+        <p class="text-snippet" data-id="1460">rs72558187, also known as 269T>C, 3276T>C or L90P, is a SNP in the CYP2C9 gene.The rs72558187(C) allele defines the CYP2C9 13 variant, which has decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1457]]
+    <blockquote>
+        <p class="text-snippet" data-id="1457">rs56165452, also known as 1076T>C, 42615T>C or I359T, is a SNP in the CYP2C9 gene.The rs56165452(C) allele defines the CYP2C9 4 variant, which has decreased activity.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1506]]
+    <blockquote>
+        <p class="text-snippet" data-id="1506">A study of 858 cases concluded that SNPs in the intron of the CYP2J2 gene were associated with increased risk for myocardial infarction. rs11572325 had an odds ratio of 1.27, CI: 1.08-1.51, p=0.006.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2765]]
+    <blockquote>
+        <p class="text-snippet" data-id="2765">A scan of chromosome 10 identifies a novel locus showing strong association with late-onset Alzheimer disease. Associations between cytokine/cytokine receptor single nucleotide polymorphisms and humoral immunity to measles, mumps and rubella in a Somali population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q346]]
+    <blockquote>
+        <p class="text-snippet" data-id="346">Ankyrin-B mutation causes type 4 long-QT cardiac arrhythmia and sudden cardiac death. A cardiac arrhythmia syndrome caused by loss of ankyrin-B function. Dysfunction in ankyrin-B-dependent ion channel and transporter targeting causes human sinus node disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q951]]
+    <blockquote>
+        <p class="text-snippet" data-id="951">Women with the TT genotype in rs1883832 had increased risk of osteopenia or osteoporosis. rs1883832(T;T) influence lymphoma odds ratio (OR)=1.6, 95% confidence interval (CI)=1.1-2.4</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q887]]
+    <blockquote>
+        <p class="text-snippet" data-id="887">rs587777763, also known as c.349+5G>A, represents a rare mutation in the CARD14 gene on chromosome 17.This SNP is one of three CARD14 gain-of-function mutations found through sequencing families exhibiting autosomal dominantly inherited psoriasis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3676]]
+    <blockquote>
+        <p class="text-snippet" data-id="3676">The oxytocin receptor (OXTR) contributes to prosocial fund allocations in the dictator game and the social value orientations task. No association between oxytocin receptor (OXTR) gene polymorphisms and experimentally elicited social preferences.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1762]]
+    <blockquote>
+        <p class="text-snippet" data-id="1762">rs1800956 (G/C transversion with D366H substitution) of endoglin may play an important role in the pathogenesis of intracranial aneurysms in the Korean population. Sequencing of TGF-beta pathway genes in familial cases of intracranial aneurysm.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5038]]
+    <blockquote>
+        <p class="text-snippet" data-id="5038">rs5743809, also known as p.Leu194Pro, represents an infrequent variant in the TLR6 gene.It is reported as likely to be causative, when inherited recessively (or as a compound heterozygote), for Kawasaki disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2676]]
+    <blockquote>
+        <p class="text-snippet" data-id="2676">aka c.-14C>TThis IFITM5 gene mutation, c.-14C>T, is located in the 5' UTR region of the gene and appears to account for most cases of dominantly inherited osteogenesis imperfecta, type V..</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5037]]
+    <blockquote>
+        <p class="text-snippet" data-id="5037">rs35220466, also known as p.Arg247Lys, represents an infrequent variant in the TLR6 gene.It is reported as likely to be causative, when inherited recessively (or as a compound heterozygote), for Kawasaki disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1707]]
+    <blockquote>
+        <p class="text-snippet" data-id="1707">rs104894654, also known as c.362C>T, p.Pro121Leu and P121L, is a rare mutation in the DTNA gene on chromosome 18.Inherited as an autosomal dominant, it reportedly leads to left ventricular noncompaction.See OMIM  601239.0001</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2830]]
+    <blockquote>
+        <p class="text-snippet" data-id="2830">Genetic variation in insulin-like growth factor signaling genes and breast cancer risk among BRCA1 and BRCA2 carriers. No association of the IRS1 and PAX4 genes with type I diabetes. Overview of the Rapid Response data.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4984]]
+    <blockquote>
+        <p class="text-snippet" data-id="4984">The A allele of rs1799899, also known as the human transferrin G277S mutation, is associated with iron deficiency anemia , lower total iron binding capacity (TIBC), and anemia in menstruating white women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
