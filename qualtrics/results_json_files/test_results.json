@@ -1,0 +1,805 @@
+[
+   {
+      "response_id": "R_ylqfW7N5mTbCAdr",
+      "recorded_datetime": "2020-09-18 08:51:41",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 57,
+      "hilights": [
+         {
+            "qid": 5379,
+            "selection": "Von Willebrand disease",
+            "selection_index": 10
+         },
+         {
+            "qid": 1088,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1087,
+            "selection": "ystic Fibrosi",
+            "selection_index": 1
+         },
+         {
+            "qid": 4307,
+            "selection": "Hirschsprung disease",
+            "selection_index": 156
+         }
+      ]
+   },
+   {
+      "response_id": "R_cNnkm3qGUXV4il3",
+      "recorded_datetime": "2020-09-18 08:52:30",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 40,
+      "hilights": []
+   },
+   {
+      "response_id": "R_2ZPwp88WejcgblC",
+      "recorded_datetime": "2020-09-18 08:58:38",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 132,
+      "hilights": []
+   },
+   {
+      "response_id": "R_2EFfqG0VkHP6Eef",
+      "recorded_datetime": "2020-09-18 09:01:08",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 143,
+      "hilights": [
+         {
+            "qid": 1883,
+            "selection": "Marfan syndrome",
+            "selection_index": 0
+         }
+      ]
+   },
+   {
+      "response_id": "R_2DTe1LE1eho59rQ",
+      "recorded_datetime": "2020-09-18 09:05:58",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 46,
+      "hilights": []
+   },
+   {
+      "response_id": "R_cHBI2Cg42MmRZSN",
+      "recorded_datetime": "2020-09-18 09:06:27",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 211,
+      "hilights": [
+         {
+            "qid": 2164,
+            "selection": "gwas",
+            "selection_index": 9
+         },
+         {
+            "qid": 2164,
+            "selection": "spatial recognition",
+            "selection_index": 39
+         },
+         {
+            "qid": 916,
+            "selection": "leprosy",
+            "selection_index": 74
+         }
+      ]
+   },
+   {
+      "response_id": "R_pN3Kc5bjVbkY4j7",
+      "recorded_datetime": "2020-09-18 09:13:59",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 388,
+      "hilights": [
+         {
+            "qid": 1100,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1080,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 3706,
+            "selection": "nylketonur",
+            "selection_index": 3
+         },
+         {
+            "qid": 879,
+            "selection": "pathogenic",
+            "selection_index": 5
+         },
+         {
+            "qid": 5193,
+            "selection": "Mutations",
+            "selection_index": 96
+         },
+         {
+            "qid": 5193,
+            "selection": "Asthenoteratospermia",
+            "selection_index": 144
+         },
+         {
+            "qid": 1385,
+            "selection": "allele",
+            "selection_index": 99
+         }
+      ]
+   },
+   {
+      "response_id": "R_Ov7rH78Q4gGMZP3",
+      "recorded_datetime": "2020-09-18 09:14:26",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 27,
+      "hilights": []
+   },
+   {
+      "response_id": "R_XnOPVmddh1rciGd",
+      "recorded_datetime": "2020-09-18 09:17:19",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 185,
+      "hilights": []
+   },
+   {
+      "response_id": "R_1GZJCoftfNV96Jn",
+      "recorded_datetime": "2020-09-18 11:27:59",
+      "status": "Survey Preview",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 155,
+      "hilights": [
+         {
+            "qid": 3936,
+            "selection": "PKHD1",
+            "selection_index": 15
+         },
+         {
+            "qid": 1111,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1106,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1093,
+            "selection": "Cystic Fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1964,
+            "selection": "lead to trimethylaminuria",
+            "selection_index": 122
+         },
+         {
+            "qid": 2996,
+            "selection": "weight regain",
+            "selection_index": 162
+         },
+         {
+            "qid": 2996,
+            "selection": "obesity-related genes and endometrial cancer risk",
+            "selection_index": 202
+         },
+         {
+            "qid": 3069,
+            "selection": "autosomal dominant Parkinson disorder",
+            "selection_index": 142
+         },
+         {
+            "qid": 22,
+            "selection": "later age at onset and shorter disease course",
+            "selection_index": 120
+         },
+         {
+            "qid": 22,
+            "selection": "Alzheimer's disease",
+            "selection_index": 0
+         },
+         {
+            "qid": 900,
+            "selection": "rippling muscle disease",
+            "selection_index": 72
+         },
+         {
+            "qid": 900,
+            "selection": "Novel missense mutation in the caveolin-3 gene in a Belgian family with rippling mu",
+            "selection_index": 97
+         },
+         {
+            "qid": 900,
+            "selection": "cle disease.",
+            "selection_index": 181
+         },
+         {
+            "qid": 3065,
+            "selection": "25% chance of Parkinson's disease",
+            "selection_index": 5316
+         },
+         {
+            "qid": 3065,
+            "selection": " in their lifetime",
+            "selection_index": 5349
+         }
+      ]
+   },
+   {
+      "response_id": "R_1meFBGiOv6vrML9",
+      "recorded_datetime": "2020-09-18 11:30:23",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 8152,
+      "hilights": [
+         {
+            "qid": 3937,
+            "selection": "PKHD",
+            "selection_index": 15
+         }
+      ]
+   },
+   {
+      "response_id": "R_2U5EdZFh1JIUPyI",
+      "recorded_datetime": "2020-09-18 11:34:10",
+      "status": "Survey Preview",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 71,
+      "hilights": [
+         {
+            "qid": 1100,
+            "selection": "isrs12190",
+            "selection_index": 13
+         },
+         {
+            "qid": 385,
+            "selection": "y be related to longevity. One study found that Ashkenazi who lived to ",
+            "selection_index": 11
+         },
+         {
+            "qid": 248,
+            "selection": " or W278X)This recessively inherited mutation is considered the most com",
+            "selection_index": 25
+         },
+         {
+            "qid": 4820,
+            "selection": "reased (or decreased) risk for Alzheimer's disease in a study of 1",
+            "selection_index": 85
+         },
+         {
+            "qid": 2168,
+            "selection": "endence. Polymorphisms in the glutamate decarboxylase 1 gene associated with",
+            "selection_index": 161
+         },
+         {
+            "qid": 1104,
+            "selection": "Cystic fibrosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 1104,
+            "selection": "(CF)",
+            "selection_index": 16
+         }
+      ]
+   },
+   {
+      "response_id": "R_Qc4g2cQmkN34J3j",
+      "recorded_datetime": "2020-09-18 11:36:10",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 27,
+      "hilights": []
+   },
+   {
+      "response_id": "R_3kMpGim0E5HkEaq",
+      "recorded_datetime": "2020-09-18 11:45:08",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 881,
+      "hilights": []
+   },
+   {
+      "response_id": "R_1Qhc1M7zHVs3uBm",
+      "recorded_datetime": "2020-09-18 11:45:10",
+      "status": "Survey Preview",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 218,
+      "hilights": [
+         {
+            "qid": 3215,
+            "selection": "methylation",
+            "selection_index": 30
+         },
+         {
+            "qid": 3215,
+            "selection": "colorectal cancer",
+            "selection_index": 151
+         },
+         {
+            "qid": 2047,
+            "selection": "Friedreich's ataxia",
+            "selection_index": 158
+         },
+         {
+            "qid": 2725,
+            "selection": "herpes",
+            "selection_index": 36
+         },
+         {
+            "qid": 2725,
+            "selection": "schizophrenia",
+            "selection_index": 18
+         },
+         {
+            "qid": 2725,
+            "selection": "herpes simplex virus 1",
+            "selection_index": 119
+         },
+         {
+            "qid": 2725,
+            "selection": "schizophrenia",
+            "selection_index": 58
+         },
+         {
+            "qid": 4247,
+            "selection": "==Other diseases==",
+            "selection_index": 7794
+         }
+      ]
+   },
+   {
+      "response_id": "R_3nDf3Fl9mgsPaJu",
+      "recorded_datetime": "2020-09-21 09:18:03",
+      "status": "IP Address",
+      "progress": 100,
+      "is_finished": "True",
+      "duration": 1487,
+      "hilights": [
+         {
+            "qid": 276,
+            "selection": "hereditary fructosuria",
+            "selection_index": 9
+         },
+         {
+            "qid": 1814,
+            "selection": "Factor XI Deficiency",
+            "selection_index": 0
+         },
+         {
+            "qid": 4837,
+            "selection": "associated with non-obstructive azoospermia",
+            "selection_index": 11
+         },
+         {
+            "qid": 5363,
+            "selection": "Von Willebrand disease",
+            "selection_index": 10
+         },
+         {
+            "qid": 3819,
+            "selection": "Rhizomelic Chondrodysplasia Punctata Type 1",
+            "selection_index": 0
+         },
+         {
+            "qid": 5079,
+            "selection": "familial hypertrophic cardiomyopathy",
+            "selection_index": 11
+         },
+         {
+            "qid": 2979,
+            "selection": "epidermolysis bullosa, junctional,",
+            "selection_index": 0
+         },
+         {
+            "qid": 2979,
+            "selection": "Herlitz type",
+            "selection_index": 35
+         },
+         {
+            "qid": 2310,
+            "selection": "gene variant associated with deafness",
+            "selection_index": 25
+         },
+         {
+            "qid": 1809,
+            "selection": "breast cancer",
+            "selection_index": 0
+         },
+         {
+            "qid": 948,
+            "selection": "Alzheimer's disease associated",
+            "selection_index": 0
+         },
+         {
+            "qid": 1723,
+            "selection": "susceptibility to vitiligo in a Korean population",
+            "selection_index": 60
+         },
+         {
+            "qid": 2705,
+            "selection": "Primary biliary cirrhosis",
+            "selection_index": 0
+         },
+         {
+            "qid": 4321,
+            "selection": "multiple sclerosis",
+            "selection_index": 71
+         },
+         {
+            "qid": 2743,
+            "selection": "severity of knee osteoarthritis",
+            "selection_index": 13
+         },
+         {
+            "qid": 3873,
+            "selection": "autosomal dominant polycystic kidney disease",
+            "selection_index": 64
+         },
+         {
+            "qid": 3596,
+            "selection": "multiple measures of blood pressure",
+            "selection_index": 86
+         },
+         {
+            "qid": 5352,
+            "selection": "Pontocerebellar hypoplasia type 2E",
+            "selection_index": 61
+         },
+         {
+            "qid": 568,
+            "selection": " testicular cance",
+            "selection_index": 65
+         },
+         {
+            "qid": 3049,
+            "selection": "OMIM pathogenic",
+            "selection_index": 48
+         },
+         {
+            "qid": 986,
+            "selection": "pathogenic rare mutation for hereditary diffuse gastric cancer",
+            "selection_index": 59
+         },
+         {
+            "qid": 5266,
+            "selection": "pathogenic for familial hemophagocytic lymphohistiocytosis (HLH)",
+            "selection_index": 38
+         },
+         {
+            "qid": 990,
+            "selection": "pathogenic rare mutation for hereditary diffuse gastric cancer",
+            "selection_index": 59
+         },
+         {
+            "qid": 4841,
+            "selection": "1.46 times higher odds of primary biliary cirrhosis",
+            "selection_index": 62
+         },
+         {
+            "qid": 4776,
+            "selection": "eastern Indian attention deficit hyperactivity disorder",
+            "selection_index": 131
+         },
+         {
+            "qid": 741,
+            "selection": "pathogenic for breast cancer",
+            "selection_index": 109
+         },
+         {
+            "qid": 5284,
+            "selection": "visual impairment in Usher syndrome 1b and Usher syndrome 2a",
+            "selection_index": 104
+         },
+         {
+            "qid": 772,
+            "selection": "pathogenic for breast cancer",
+            "selection_index": 111
+         },
+         {
+            "qid": 112,
+            "selection": "diamine oxidase serum activities",
+            "selection_index": 94
+         },
+         {
+            "qid": 112,
+            "selection": "lower DAO mRNA expressio",
+            "selection_index": 180
+         },
+         {
+            "qid": 112,
+            "selection": "reduced DAO activity",
+            "selection_index": 134
+         },
+         {
+            "qid": 5320,
+            "selection": "smaller hippocampal volumes",
+            "selection_index": 106
+         },
+         {
+            "qid": 1131,
+            "selection": "condition not specified, but based on similar mutations also in the CHAMP1 gene, likely to be a form of autosomal dominant mental retardation",
+            "selection_index": 68
+         },
+         {
+            "qid": 1808,
+            "selection": "associated with longevity",
+            "selection_index": 175
+         },
+         {
+            "qid": 4011,
+            "selection": "increase risk for colorectal cancer",
+            "selection_index": 180
+         },
+         {
+            "qid": 2556,
+            "selection": "associated with slightly (~30%) higher risk for azoospermia (lack of sperm) and thus male infertility in both Chinese and Japanese men",
+            "selection_index": 55
+         },
+         {
+            "qid": 3577,
+            "selection": "increased circulating natriuretic peptide and thus lower blood pressure",
+            "selection_index": 40
+         },
+         {
+            "qid": 304,
+            "selection": "pathogenic for the infantile form of hypophosphatasia",
+            "selection_index": 166
+         },
+         {
+            "qid": 4797,
+            "selection": "thinking cilantro tastes like soap",
+            "selection_index": 76
+         },
+         {
+            "qid": 2267,
+            "selection": "late-onset noninsulin-dependent diabetes",
+            "selection_index": 97
+         },
+         {
+            "qid": 2627,
+            "selection": "Schwartz Jampel syndrome type 1 and Lethal Kniest-like syndrome",
+            "selection_index": 65
+         },
+         {
+            "qid": 3116,
+            "selection": "lower frequency of restless legs syndrome",
+            "selection_index": 77
+         },
+         {
+            "qid": 3116,
+            "selection": "ommon sleep disorder",
+            "selection_index": 123
+         },
+         {
+            "qid": 3239,
+            "selection": "lumbar disc disease",
+            "selection_index": 148
+         },
+         {
+            "qid": 3017,
+            "selection": "lipoyltransferase 1 deficiency",
+            "selection_index": 199
+         },
+         {
+            "qid": 5311,
+            "selection": "prostate cancer",
+            "selection_index": 126
+         },
+         {
+            "qid": 1145,
+            "selection": "risk of coronary heart disease",
+            "selection_index": 353
+         },
+         {
+            "qid": 1145,
+            "selection": "plasma concentration",
+            "selection_index": 328
+         },
+         {
+            "qid": 1145,
+            "selection": "circulating YKL-40 levels",
+            "selection_index": 181
+         },
+         {
+            "qid": 1145,
+            "selection": "not with angiographic coronary artery disease",
+            "selection_index": 212
+         },
+         {
+            "qid": 4250,
+            "selection": "rheumatoid arthritis",
+            "selection_index": 227
+         },
+         {
+            "qid": 4250,
+            "selection": "rheumatoid arthritis",
+            "selection_index": 274
+         },
+         {
+            "qid": 567,
+            "selection": "slightly lower (0.8-0.87x) risk for adult ADHD",
+            "selection_index": 334
+         },
+         {
+            "qid": 2919,
+            "selection": "sickle cell anemia",
+            "selection_index": 95
+         },
+         {
+            "qid": 2919,
+            "selection": "risk for priapism",
+            "selection_index": 151
+         },
+         {
+            "qid": 748,
+            "selection": "breast cancer",
+            "selection_index": 147
+         },
+         {
+            "qid": 2872,
+            "selection": "cardiac arrhythmias",
+            "selection_index": 77
+         },
+         {
+            "qid": 4854,
+            "selection": "ovarian cancer",
+            "selection_index": 353
+         },
+         {
+            "qid": 3236,
+            "selection": "smoking",
+            "selection_index": 174
+         },
+         {
+            "qid": 3143,
+            "selection": "red hair",
+            "selection_index": 98
+         },
+         {
+            "qid": 3143,
+            "selection": "low tanning",
+            "selection_index": 122
+         },
+         {
+            "qid": 4484,
+            "selection": "chronic obstructive pulmonary disease",
+            "selection_index": 339
+         },
+         {
+            "qid": 1232,
+            "selection": "cannabis dependence",
+            "selection_index": 96
+         },
+         {
+            "qid": 1232,
+            "selection": "longest gaze duration for happy faces",
+            "selection_index": 468
+         },
+         {
+            "qid": 1232,
+            "selection": "gaze duration for happy faces",
+            "selection_index": 403
+         },
+         {
+            "qid": 713,
+            "selection": "breast cancer",
+            "selection_index": 179
+         },
+         {
+            "qid": 2467,
+            "selection": "haematological characterization of beta-thalassaemia major",
+            "selection_index": 444
+         },
+         {
+            "qid": 3948,
+            "selection": "greater risk for gastric cancer",
+            "selection_index": 329
+         },
+         {
+            "qid": 3948,
+            "selection": "stomach cancer",
+            "selection_index": 366
+         },
+         {
+            "qid": 2200,
+            "selection": "Duarte galactosemia",
+            "selection_index": 316
+         },
+         {
+            "qid": 935,
+            "selection": "recurrent venous thromboembolism",
+            "selection_index": 530
+         },
+         {
+            "qid": 1612,
+            "selection": "neonatal hyperbilirubinemia",
+            "selection_index": 780
+         },
+         {
+            "qid": 1612,
+            "selection": "endometrial cancer risk",
+            "selection_index": 435
+         },
+         {
+            "qid": 3245,
+            "selection": "increased risk for Achilles tendinopathy",
+            "selection_index": 738
+         },
+         {
+            "qid": 2640,
+            "selection": "modest effect on depression severity",
+            "selection_index": 389
+         },
+         {
+            "qid": 2640,
+            "selection": "risk for rheumatoid arthritis",
+            "selection_index": 1007
+         },
+         {
+            "qid": 2640,
+            "selection": "quantitative traits in panic disorder",
+            "selection_index": 1484
+         },
+         {
+            "qid": 3975,
+            "selection": "alcoholic liver disease",
+            "selection_index": 652
+         },
+         {
+            "qid": 3975,
+            "selection": "alcoholic cirrhosis",
+            "selection_index": 699
+         },
+         {
+            "qid": 3010,
+            "selection": "coronary artery disease",
+            "selection_index": 401
+         },
+         {
+            "qid": 2750,
+            "selection": "ulcerative colitis",
+            "selection_index": 1506
+         },
+         {
+            "qid": 2750,
+            "selection": "ulcerative colitis",
+            "selection_index": 1660
+         },
+         {
+            "qid": 5035,
+            "selection": "asthma",
+            "selection_index": 1784
+         },
+         {
+            "qid": 450,
+            "selection": "polypoidal choroidal vasculopathy",
+            "selection_index": 3805
+         }
+      ]
+   }
+]
