@@ -1,0 +1,1573 @@
+response_id,recorded_datetime,status,progress,is_finished,duration,id,snippet,text_match,idx_match
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4769,Disease ,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5162,Focal segmental glomerulosclerosis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2451, Alpha Thalassemia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3964,Congenital Disorder of Glycosylation,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5448,schizophrenia.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3027,glaucoma,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2287,Nonsyndromic Sensorineural,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2287,Connexin,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1783,schizophrenia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,628,cholesterol,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,628,cholesterol,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,628,LDL ,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2515,hemochromatosis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3684,Rheumatoid Arthritis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4613,rheumatoid arthritis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2261,cyclohydrolase,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2261,tetrahydrobiopterin,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2215,Gaucher's disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2255,Vasoocclusive Pain,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2255,Impaired Vascular Function in Sickle Cell Anemia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3271,allopurinol.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3271,allele,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1380,allele,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1840,Hemophilia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4559,Lymphoproliferative syndrome,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2620,chromosome 1,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,838,bronchial asthma,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2187,Krabbe disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,762,breast cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3780,spitoonObesity,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,730,breast cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4644,Pendred Syndrome,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,22,Alzheimer's disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5194,Asthenozoospermia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5015,Polymorphisms,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5015, breast cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5015,polymorphism,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5015,thoracic adolescent idiopathic scoliosis.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2023,Friedreich's ataxia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2260,capsaicin pain,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2260,Polymorphisms,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2039,Friedreich's ataxia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,569,rheumatic diseases,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1355,breast cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2793,diabetes,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2568,intermittent porphyria.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3797, type-2 diabetes,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3965,Congenital disorder,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2512,Tay Sachs,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5107,torsion dystonia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2919,priapism,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3533,Crohn disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3367,abetalipoproteinemia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3979,endometrial cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3979,colorectal cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,858,hypertension,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,289,breast cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3836,endometrial cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3836,breast cancer risk,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5430,epithelial ovarian cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2853,cardiac arrhythmias,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2375,stuttering,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4594,Andermann syndrome,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3078, Raynaud's phenomenon,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1276,Schizophrenia Susceptibility Genetic,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3985,cumulative risk of developing CRC,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4718,"Association of serotonin transporter gene variation with smoking, chronic obstructive pulmonary disease, and its depressive symptoms",True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3551,lung cancer.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3551,rinary bladder cancer pathogenesis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3551,diabetes-associated combination of SNPs,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3551,synthase gene polymorphisms and prostate cancer risk.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,3551,Parkinson's disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5031,leukemia,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,5031,prostate cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,83,heterozygotes,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,83,Atherosclerosis Risk,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4475,chronic liver disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4475,Granulomatosis with Polyangiitis,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,4475,emphysema and liver disease.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2840,Bipolar Disorder,True,False
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2840,Autism-spectrum disorders,True,False
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2840,depressive disorder.,True,False
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2840,major depressive disorder,True,False
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2840,"psychiatric illness,",True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2759,Crohn's disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2759,Crohn's Disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1158,lung cancer,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,1158,Artery Disease,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2475,argely unexplained difference is the level of circulating virus in the plasma during the non-symptomatic phase preceding progression to AIDS.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2475,This SNP is thought to be involved in determining the HIV viral load set point during the asymptomatic period of infection.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,2475,"This HLA allele, in turn, has been associated with several conditions",True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,28,Polymorphisms in genes that regulate cyclosporine metabolism affect cyclosporine blood levels and clinical outcomes in patients who receive allogeneic hematopoietic stem cell transplantation.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,28,esophageal cancer.,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,28, Pharmacogenetics of antidepressant response. Correlation between genetic polymorphisms,True,True
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,28,"rs1045642, also known as C3435T, is a SNP located in the ABCB1 gene. It is often studied in conjunction with rs2032582. C3435T has been mentioned by: A ""Silent"" Polymorphism in the MDR1 Gene Changes Substrate Specificity (for example, to verapamil) (R)-lansoprazole (Prevacid) concentrations are significantly increased in CYP2C19 extensive metabolizers with ABCB1 C3435T C allele. In a Korean population, plasma concentrations of fexofenadine (Allegra) were 17% lower in 2677AA/3435CC subjects and 47% higher in the 2677TT/3435TT subjects compared to 2677GG/3435CC subjects. In contrast, in this study no association was observed between the C3435T polymorphism and fexofenadine plasma or urine concentrations in a German Caucasian population. A meta-analysis including 9 case-control studies (totaling ~2,500 patients) found no association between rs1045642 and epilepsy riskA study of 98 methadone-maintaining patients concluded that the higher (>150 mg/day) and lower (< or =150 mg/day) methadone dose groups differed significantly in their rs1128503 status (experiment-wise p = 0.0325). Furthermore, individuals with the 3-locus genotype pattern (T;T)-(T;T)-(T;T) for SNPs rs1045642, rs2032582 and rs1128503, respectively, had an approximately 5-fold chance of requiring the 'higher' methadone dose, while individuals heterozygous for these three SNPs have an approximately 3-fold chance of stabilizing at the 'lower' methadone dose (point-wise p-value = 0.026). Identifying candidate causal variants responsible for altered activity of the ABCB1 multidrug resistance gene. Genetic predictors of the maximum doses patients receive during clinical use of the anti-epileptic drugs carbamazepine and phenytoin. ABCB1 genotypes and haplotypes in patients with dementia and age-matched non-demented control patients. Association of MDR1 genotypes with susceptibility to colorectal cancer in older non-smokers. Genetic studies of a cluster of acute lymphoblastic leukemia cases in Churchill County, Nevada. MDR1 gene variants, indoor insecticide exposure, and the risk of childhood acute lymphoblastic leukemia. No association between MDR1 (ABCB1) 2677G>T and 3435C>T polymorphism and sporadic colorectal cancer among Bulgarian patients. ABCB1 (MDR1) gene polymorphisms are associated with the clinical response to paroxetine in patients with major depressive disorder. Pharmacogenetics of minimal residual disease response in children with B-precursor acute lymphoblastic leukemia: a report from the Children's Oncology Group. Multiplexed genotyping of ABC transporter polymorphisms with the Bioplex suspension array. A PAI-1 (SERPINE1) polymorphism predicts osteonecrosis in children with acute lymphoblastic leukemia: a report from the Children's Oncology Group. Association of ABCB1 genetic variants with renal function in Africans and in Caucasians. Genotyping panel for assessing response to cancer chemotherapy. Polymorphisms affecting gene transcription and mRNA processing in pharmacogenetic candidate genes: detection through allelic expression imbalance in human target tissues. Bidirectional translational research: Progress in understanding addictive diseases. The pharmacokinetics and pharmacogenomics of efavirenz and lopinavir/ritonavir in HIV-infected persons requiring hemodialysis. No association of ABCB1 polymorphisms with drug-refractory epilepsy in a north Indian population. Germline genetic variations in drug action pathways predict clinical outcomes in advanced lung cancer treated with platinum-based chemotherapy. Prevalence in the United States of selected candidate gene variants: Third National Health and Nutrition Examination Survey, 1991-1994. Opiate and cocaine addiction: from bench to clinic and back to the bench. Investigation of candidate polymorphisms and disease activity in rheumatoid arthritis patients on methotrexate. Steroid biosynthesis and renal excretion in human essential hypertension: association with blood pressure and endogenous ouabain. Genetic determinants of target and novelty-related event-related potentials in the auditory oddball response. ABCB1 (MDR1) rs1045642 is associated with increased overall survival in plasma cell myeloma. No significant effect of ABCB1 haplotypes on the pharmacok",False,False
+R_eOSosrnczqYqE9P,2020-09-22 10:37:23,IP Address,100,True,1252,28,arthritis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4622,Skin color,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5199,cardiac amyloidosis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,162,Alzheimer's disease assocation,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5160,Focal segmental glomerulosclerosis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5083,dilated cardiomyopathy,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2151,Alzheimer's risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4923,Leigh syndrome,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5133,dilated cardiomyopathy.,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1766,arterial calcification,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1766,hypophosphatemic rickets,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,75,adrenoleukodystrophy,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3536,inflammatory bowel disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4558,Lymphoproliferative syndrome,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,15,congenital Lamellar ichthyosis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,15,skin condition,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4534,schizophrenia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4534,developmental disorders,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2685,obesity,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2685,insulin sensitivity,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3011,Elevated HDL-Cholesterol,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,983,pathogenic rare mutation,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,983,hereditary diffuse gastric cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2346,fabry disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2346,hypertrophic cardiomyopathy,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2346,mental retardation,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1965,glomerulopathy with fibronectin deposits,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5223,gastric cancer.,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5223,Polymorphisms,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,385,longevity,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1283,hearing loss,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1283,Cisplatin,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1762,intracranial aneurysms,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3360,single nucleotide polymorphisms,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3360,prostate cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3360,pseudoexfoliation syndrome,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3360,glaucoma,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1505,myocardial infarction,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5174,progressive familial heart block,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2753,ankylosing spondylitis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3874,utosomal dominant polycystic kidney disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3868,talipes equinovarus,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2568,acute intermittent porphyria,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1917,achondroplasia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2048,Friedreich's ataxia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1735,pulmonary hypertension,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1735,pulmonary capillary hemangiomatosis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1735,pulmonary venoocclusive disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2920,priapism,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5107,developing torsion dystonia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4655,type-2 diabetes,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3002,familial male precocious puberty,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3838,colorectal cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1828,deficiency-causing mutations,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2718,Graves' disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2718,nasopharyngeal carcinoma,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2718,adiation-induced toxicity,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2718,risk of coronary artery disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2718,gene polymorphism,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5449,Pancreatic cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4573,potential breast cancer variant,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4573,Ovarian cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4852,autosomal recessive spherocytosis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,819,familial breast cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,819,prostate cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4294,congenital myasthenic syndrome,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1732,non-small cell lung cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,622,patient's attention levels.,True,False
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2773,Visceral leishmaniasis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2773,Leishmania chagasi,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4857,Parkinson's disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3003,mutations of the LH receptor gene,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,565,increased risk for late-onset Alzheimer's disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3041,altered risk for celiac disease,True,False
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3161,undergo menopause early,True,False
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,196,increased risk of insulin resistance,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2845,rheumatoid arthritis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,2158,Alcoholism,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4166,Alzheimer's disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5424,squamous cell cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5424,oral cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5424,gastric cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1403,congenital adrenal hyperplasia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4209,Alzheimer's disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4209,dilated cardiomyopathy,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4209,incomplete penetrance,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3010,higher HDL levels,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3010,coronary artery disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3010,risk for carotid artery disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3010,coronary heart disease,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3010,colorectal cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,increased risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,macular degeneration,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,bladder cancer risk,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,non-small-cell lung cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,gastric cancer,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,peptic ulcer diseases,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,neovascular age-related macular degeneration,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,multiple myeloma,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,5324,heumatoid arthritis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3205,schizophrenia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3205,ability to recognize facial emotion,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3205,chronic rhinosinusitis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,3205,neurocognition,True,False
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4882,rheumatoid arthritis,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4882,type 1 diabetes,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4882,systemic lupus erythematosus,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,4882,Inflammatory Bowel Diseases,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,schizophrenia,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,"decreased attentional capacity,",True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,worse performance on memory tasks,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,alterations in schizotypal beliefs and experiences,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,major depressive disorder,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,neuroticism,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,anxiety,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1711,depression,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1278,higher dopamine levels;,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1278,lower COMT enzymatic activity,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1278,lower pain threshold,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1278,enhanced vulnerability to stress,True,True
+R_2XjJU6SMJAlU4I2,2020-09-22 10:40:27,IP Address,100,True,1074,1278,schizophrenia,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1115,Cystic Fibrosisrs,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1100,Cystic Fibrosisrs,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3042,Celiac Disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,278,Hereditary fructose intolerancers,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1117,Cystic Fibrosisrs,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4658,Glycogen Storage Disease Type 1brs,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,113,Dehydrogenase Deficiency,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1597,Bipolar disorder,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,852,Clinical spectrum of episodic ataxia type 2.,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4805,A polymorphism on the SOD1 gene known as A4V.,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2901,developmental dyslexia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1140,silent polymorphism,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3824,Rhizomelic chondrodysplasia punctata type 1,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3020,cardiomyopathy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3646,carriers of the G allele,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5211,Human Oocyte Meiotic Arrest,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5211,R2K Mutations in TUBB8 ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,712,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2218,Gaucher's disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2218,Gaucher Disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4314,Hirschsprung's disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,857,arrhythmia disorder,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,857,arrhythmia disorder,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,857,cardiac L-type calcium channel mutations,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,990,gastric cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2972,decreased total cholesterol levels,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,766,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,697,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2956,cerebral cavernous malformation,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,263,abnormality of albumin,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3015,hyperalphalipoproteinemia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4785,Parkinson disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,351,limb-girdle muscular dystrophy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1762,intracranial aneurysms,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1762,intracranial aneurysm,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2556,azoospermia (lack of sperm),True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3770,Parkinson disease ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,326,hypophosphatasia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3219,AIDS,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,303,hypophosphatasia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1674,autism,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,606,depression,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3785,coronary events.,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2232,Asthma,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2232,prostate cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3877,end-stage renal disease (ESRD) ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3877, autosomal dominant polycystic kidney disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3877,ADPKD,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3877,few cysts,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5023, diabetes ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5023,allergic asthma,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2703,allergy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2703,asthma,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4763,type 2 or 3 spinal muscular atrophy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3188,familial Mediterranean fever,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,414,lung cancer ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,414,lung cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3407,familial hypertrophic cardiomyopathy (HCM,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3407,Hypertrophic cardiomyopathy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1748,Parkinson's disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3236,lung cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3236, lung cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,225,pre-eclampsia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,225,"pre-eclampsia,",True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2591,ADHD,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2755,ankylosing spondylitis,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2755,rheumatoid arthriti,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2755,Crohn's Disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5200,TTR-related familial amyloid polyneuropathy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5200,heart-related symptoms,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4294,congenital myasthenic syndrome,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3837,preterm birth,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3837,preterm birth,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4073,ubcortical silent brain infarction,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4073,stroke,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4462,cancers,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4462,paragangliomas,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4462,pheochromocytomas,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4887,rheumatoid arthritis ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4887,systemic lupus erythematosu,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4887,lupus erythematosus,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4887,ystemic lupus erythematosus ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,655,ovarian cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,655,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4625,Asperger syndrome,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4625,Asperger syndrome,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,164,Alzheimer's disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4453,lower post-operative pain following surgery,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4453,pain,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4453,mall fiber neuropathy,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4453,increased pain,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1248,decreased bone mineral density,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1248,ntervertebral disc disease.,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1248,anterior cruciate ligament ruptures,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,798,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4113,schizophrenia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4113,anxiety,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4113,schizophrenia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1693,borderline ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1693,schizophrenia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,521,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,521,breast cancer,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,521,breast tumour ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,111,Caucasian,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,111,hypersensitivity to ibuprofen,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2422,ubiquitin-positive frontotemporal lobar degeneration,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2422,amyotrophic lateral sclerosis,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2422,aphasia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,2422,extrapyramidal features,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,obesity,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,heart disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,obesity,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,Body Mass Index ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,heart disease ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,fat ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,365,"ages 4, 7 and 10",True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952, rheumatoid arthritis (RA),True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,autoimmune disease,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,European ancestry,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,Korean ancestry,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,orean ancestry,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,RA ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,Europeans,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,952,Korean,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4729,myopathy,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,4729,myopathy,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,infectious and non-infectious diseases,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,Diabetic neuropathy ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,Heart disease ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,Men ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,myocardial infarction,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,premature birth,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,Bacterial vaginosis,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035, Pregnant ,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,pH and a 10 fold higher level ,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035, Bacterial infection,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,gram-negative bacterial infections,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035, Respiratory syncytial virus infection ,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,septic shock Respiratory syncytial virus infection ,False,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,viral infection.,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035, Asthma,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,5035,lung transplantation,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,ADHD,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,schizophrenia,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,obesity,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,European,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,nicotine dependence,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,obesity,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,metabolic syndrome in postmenopausal Polish women,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,1227,cocaine addiction,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,", schizophrenia",True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,"drug-related psychoses,",True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,cannabis-related psychosis,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,once-a-month cannabis users,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,mind-altering symptoms,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,249,psychotic disorde,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,empathetic,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,feel less lonely,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,Korean ,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,Americans,True,True
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,stress,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,marital discord,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,depression,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,Forty-five female,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,Two hundred three healthy German male university students,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,female,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,lower cortisol responses to stress,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,grey matter volume in the hypothalamus,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,prosocial temperament,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,Caucasian ,True,False
+R_1CpRIVeWQ8AGNqi,2020-09-22 10:45:55,IP Address,100,True,2002,3678,autism,True,False
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1092,Cystic Fibrosisrs,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3416,familial hypertrophic cardiomyopathy,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5235,eye color,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4747,spinal muscular atrophy,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4767,Niemann-Pick Disease Type,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5368,Von Willebrand disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3849,Parkinson's disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2322,associated with deafness,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3764,Parkinson's disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3764,recessive/early-onset,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3764,digenic,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3055,Leigh syndrome,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,259,analbuminemia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,259,Novel nonsense mutation,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3873,polycystic kidney disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5119,bipolar affective disorder,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5119,suicide attempts.,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5119,tryptophan hydroxylase II,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,544,prone to epigenetic alterations,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,544,X-inactivation in female human embryonic stem cells,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4169,ALZHEIMER DISEASE,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4169,Dementia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4169,SPASTIC PARAPARESIS,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4169,APRAXIA,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,993,hereditary diffuse gastric cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2185,Krabbe disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,740,breast cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,982,hereditary diffuse gastric cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,700,breast cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5328,rheumatoid arthritis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,44,atrial fibrillation/flutter,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4333,late-onset Alzheimer disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4333,chromosome 10,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4333,Renalase gene,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4333,hypertension,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4791,Parkinson disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4257,deafnes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1964,trimethylaminuria,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5176,familial heart block type 1B,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1210,obesity,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1210,overweight,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,313,hypophosphatasia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,313,rare/minor allele,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3881,Polycystic Kidney disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4070,post-traumatic stress disorder,True,False
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4070,memory capacity,True,False
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2026,Friedreich's ataxia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1739,pulmonary hypertension,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1739,pulmonary capillary hemangiomatosis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1739,pulmonary venoocclusive disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2252,Parkinson's disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3651,higher likelihood of smoking initiation and nicotine dependence.,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1004,Usher syndrome and nonsyndromic deafness.,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1004,hearing loss,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4464,thrombotic disorders,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4464,recurrent venous thromboembolism,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2034,Friedreich's ataxia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2423,frontotemporal dementia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2423,primary progressive aphasia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2423,progranulin haploinsufficiency,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,287,myocardial infarction or ischemic stroke,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,287,bifurcation intima-media thickness,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,287,alcohol consumption,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1921,prostate cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1921,benign prostate hyperplasia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1988,Physical activity,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1988,obesity,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1988,diabetes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,341,coron,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,341, artery disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1218,colorblindness,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1218,photophobia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1218,nystagmus,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1218,20/200 visual acuity,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2726,schizophrenia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2726,herpes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1055,ischemic stroke,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,183,dyskinesia disorder,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,183,facial myokymia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2778,type I diabetes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4428,gain significant weight,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,2401,alcoholism,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3267,Endometrial cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3267,sporadic renal cell carcinoma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5411,Frasier syndrome,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5411,Denys-Drash syndrome,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1144,schizophrenia ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1144,atopy,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4014,type 2,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4014, diabetes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1516,prostate cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1516,ovarian cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,861,hyperthermia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,49,intrahepatic cholestasis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,49,nonalcoholic fatty liver disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1555,cerebral infarction,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,361,colorectal cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5226,systemic lupus erythematosus,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1936,ichthyosis vulgaris,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1936,dermatitis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1562,schizophrenia ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1562,autism ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1562,bipolar affective disorder,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,4295,congenital myasthenic syndrome,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1009,type-2 diabetes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1403,congenital adrenal hyperplasia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3251,Alzheimer's disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3251,lung cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3251,cutaneous malignant melanoma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3251,non-atopic asthma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3251,breast cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1693,personality,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1693,schizophrenia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,1693,Anorexia Nervosa,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3205,tumor metastasis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3205,autism ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3205,schizophrenia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3205,rhinosinusitis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3205,nasal polyps,True,False
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5427,breast cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5427,prostate cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5427,lung cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,cigarette smoking,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,chronic obstructive pulmonary disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,lung cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,myocardial infarction,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,heart disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,Alzheimer's disease,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,malignant melanoma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,hepatitis B virus infection,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,lymphoma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,glaucoma,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,type 2 diabetes,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3250,leukemia,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3833,ovarian cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,3833,endometrial cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5344,ischemic stroke,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,5344,myocardial infarction,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,dementia ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,colorectal cancer,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,major depressive disorder,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,osteonecrosis ,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,rheumatoid arthritis,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,sophageal cancer.,True,True
+R_2wQNxJNyQdjSeq9,2020-09-22 11:20:01,IP Address,100,True,1438,28,carcinoma ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1911,Achondroplasia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1116,Cystic Fibrosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1096,Cystic Fibrosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4749,spinal muscular atrophy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3947,insomnia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3903,Autosomal recessive polycystic kidney disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2294,deafness,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4773,Niemann-Pick Disease Type A,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3767,Parkinson's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2746,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1675,(early onset) schizophrenia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4269,PYGM gene,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,487,argininosuccinate lyase deficiency,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2902,KIAA0319 on chromosome 6p,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2902,developmental dyslexia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5277,amilial hemophagocytic lymphohistiocytosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3523,juvenile idiopathic arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3815,peroxisome biogenesis disorders,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4317,polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4317,immunoreactivity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2851,olfactory function,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2851,olfactory dysfunction,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2851,fasting plasma glucose,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4537,schizophrenia and developmental disorders,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1133,autosomal dominant mental retardation,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4565,X-linked Lymphoproliferative syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4,polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4,therothrombotic cerebral infarction,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,725,pathogenic for breast cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,463,perfect pitch,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1960,trimethylaminuria,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,513,schizophrenic,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,714,pathogenic for breast cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1253,mutations,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1253,pathogenic for Spondylometaphyseal dysplasia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1253,Stickler syndrome type I,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3095,Sexually dimorphic,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3095,ADHD,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3071,autosomal dominant Parkinson disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3071,definitely pathogenic,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4797,thinking cilantro tastes like soap,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5174,progressive familial heart block type 1B,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3258,pathogenic for Charcot-Marie-Tooth disease type 1B,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3098,Parkinson's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3098,conditional logistic regression,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2029,Friedreich's ataxia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4040,pathogenic for a neuronal ceroid lipofuscinosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4040,neurodegenerative disorders,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,Functional genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,female reproductive disorders,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,Polycystic ovary syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,Functional genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,female reproductive disorders,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4494,ovarian response,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,84,gout,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,84,haplotype blocks,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,84,gout,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1452,Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1452,gene transcription,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1452,mRNA processing,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1452,allelic expression imbalance,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2041,Friedreich's ataxia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2754,Crohn's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1740,pulmonary hypertension,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1740,pulmonary capillary hemangiomatosis (PCH),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1740,pulmonary venoocclusive disease (PVOD),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3620,pneumonia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3620,chromosome breakage syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3620,lung disease immunodeficiency and chromosome breakage syndrome (LICS),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,ghrelin,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,type 2 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,adiposity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,ghrelin,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,ghrelin receptor gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2284,obesity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2788,Alzheimer's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3192,familial Mediterranean fever,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2739,chronic rhinosinusitis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,630,bone density,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,630,bone fractures or osteoporosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4200,early-onset Alzheimer's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4028,nonalcoholic fatty liver disease (NAFLD),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4028,polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4028,nonalcoholic fatty liver disease (NAFLD),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2591,ADHD,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4020,peroxisome proliferator-activated receptor gamma PPARG gene,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4020,overweight,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4020,impaired glucose tolerance (IGT),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4020,type-2 diabetes (T2D),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3962,pigment dispersion syndrome (PDS),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3962,pigmentary glaucoma (PG),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3962,blindness,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4947,allergic asthma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4947,allergic asthma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1945,ichthyosis vulgaris,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1945,ichthyosis vulgaris,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1945,atopic dermatitis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1945,eczema,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,Gaucher disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,"""modifier"" variant",True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,rapid eye movement sleep behavior disorder (RBD),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,synucleinopathies,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2221,Parkinson's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,846,liver injury,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,846,liver injury,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,170,chronic obstructive pulmonary disease (COPD),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,macular degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,macular degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,age-related macular degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,age-related macular degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,age-related macular degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,452,polypoidal choroidal vasculopathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1935,protein truncation,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,catecholaminergic polymorphic ventricular tachycardia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,"genotype negative, exercise-induced long QT syndrome",True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,cardiac arrest,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,Cardiac Arres,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,heart failure and sudden cardiac death,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,arrhythmogenic right ventricular cardiomyopathy type 2 (ARVD2),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4416,amilial polymorphic ventricular tachycardia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3514,congenital disorder of deglycosylation (CDDG),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,Crohn's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,type-1 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,type 1 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,pre-diabetes to diabete,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,multiple sclerosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,type I diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,type 1 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,celiac disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,idiopathic arthritis ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,autoimmune diseases ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4242,Crohn's disease-associated polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,cholesterol levels,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,dyslipidemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,carotid artery disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,Polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,HDL cholesterol,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1051,myocardial infarction,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3588,multiple sclerosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3588,multiple sclerosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,heroin addiction,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,heroin addiction,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,neuroleptics:,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,Tryptophan hydroxylase gene 1 (TPH1),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,cerebrospinal fluid 5-hydroxyindole acetic acid,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5115,homovanillic acid concentrations,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,functional polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,serotonin transporter gene,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,diarrhoea predominant irritable bowel syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,autism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,rigid-compulsive behaviors,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,frontotemporal lobar degeneration,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Serotonin transporter polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,portopulmonary hypertension,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Neuroticism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Flanking Single Nucleotide Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Depression,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Anxiety,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,Personality Measures,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4722,systemic sclerosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3691,rheumatoid arthritis (RA),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3691,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3691,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,dopaminergic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,borderline personality traits,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,dopaminergic gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,idiopathic intellectual disability,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,Anorexia Nervosa,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,schizophrenia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,schizophrenia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1693,schizophrenic,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,glucocorticoid sensitivity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,coronary artery disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,increased body mass index,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,glucocorticoid receptor polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,altered gene expression,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,Glucocorticoid receptor gene,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,blood pressure,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,glucocorticoid receptor polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,asthma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,Crohn's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,altered bone mineral density,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,acute lymphoblastic leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,Glucocorticoid receptor gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,asthma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,glucocorticoid resistance,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,inflammatory bowel disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,Genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,anovulatory polycystic ovary syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,Glucocorticoid receptor polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,3601,bipolar patients,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,type 2 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,impairment of glucose metabolism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,obese,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,type 2 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,nephropathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,gene polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,reduced acute insulin response,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,colon cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,single nucleotide polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,cardiovascular disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,all-cause mortality,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,polycystic ovary syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,glucose intolerance,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4961,coronary artery disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1549,rhabdomyosarcoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1549,genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1549,Genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1549,Genetic polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5182,Graves' disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Sudden Infant Death Syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,ischemic complications,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,giant cell arteritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,vascular endothelial growth factor (VEGF),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Henoch-Schonlein purpura,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,breast cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,type 2 diabetes,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318, psoriatic arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,polymorphisms ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,bladder cancer risk,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,ventricular septal defect,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,diabetic retinopathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,sporadic renal cell carcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,diabetic retinopathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,renal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Alzheimer's disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,microdeletion syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Gilbert's syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,Pazopanib-induced hyperbilirubinemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,polymorphism,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,nonproliferative and proliferative diabetic retinopathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,diabetic retinopathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,hypertensive nephropathy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,5318,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1448,Stevens-Johnson syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2593,prostate cancer,True,False
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2593,prostate cancer,True,False
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2593,breast cancer,True,False
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,2593,familial breast cancer,True,False
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,cutaneous melanoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,ovarian cancer ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,ovarian cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,ovarian cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784, lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,esophageal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,adult glioma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,non-small cell lung cancer patients,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Bladder cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,non-Hodgkin lymphoma (NHL),True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Allelic imbalance,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,cancer cells,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,single nucleotide polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Genetic polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,non-melanoma skin cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,esophageal adenocarcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,pancreatic adenocarcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,breast cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,renal cell carcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,breast cancer ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,adiposity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Lung Cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,esophageal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,breast cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,bladder cancer risk,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,bladder cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,bladder cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung adenocarcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung adenocarcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,Head and Neck Cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,gallbladder cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,gastric and colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,esophageal squamous cell carcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,colorectal cancer ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784, oral precancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,head and neck squamous cell cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,1784,lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4994,thyroglobulin gene polymorphisms,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4994,autoimmune thyroid disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,4994,autoimmune thyroid disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,epilepsy,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,dementia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,colorectal cancer ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,acute lymphoblastic leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,sporadic colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,major depressive disorder,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,minimal residual disease,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,B-precursor acute lymphoblastic leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,osteonecrosis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,acute lymphoblastic leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28, lung cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,rheumatoid arthritis,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,hypertension,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,plasma cell myeloma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,Gilbert's syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,major depressive disorder,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,chronic-phase chronic myeloid leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,esophageal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,schizophrenia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,nasopharyngeal carcinoma,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,calcineurin inhibitor nephrotoxicity,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,nephrotic syndrome,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,chronic myeloid leukemia,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,hepatitis A,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,major depressive disorder ,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,cancer risk,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,colorectal cancer,True,True
+R_qPe5vObZ349P3I5,2020-09-22 11:32:04,IP Address,100,True,3442,28,plasma cell myeloma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3039,Vitiligo,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1860,Tyrosinemia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1120,Cystic Fibrosis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4751,spinal muscular atrophy,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1865,Tyrosinemia Type I,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2487,Tay-Sachs Disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1566,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2366,type-1 diabetes,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,158,adenosine deaminase deficiency.,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1163,lung cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3674,OXTR,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3674,prosociality,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,975,E-cadherin polymorphisms,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,975,arsenic-related skin lesions,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,378,Elevated Apolipoprotein B,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,378,and LDL-Cholesterol,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2206,Guanidinoacetate methyltransferase deficiency,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2206,error of creatine metabolism,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2925,Lung cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4230,polymorphisms in the COX-2 gene,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1788,intertissue and interindividual variation,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1788,Nmd efficiency,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3006,invasive serous ovarian cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3006,DNA damage response,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3536,inflammatory bowel disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3472,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3472,Variations in the NBN/NBS1 gene,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3969,poly-glutamine (aka Poly-Q) diseases,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3969,Huntington disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3969,"multiple spinocerebellar ataxia,",True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2671,MPS type II,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4559,X-linked Lymphoproliferative syndrome,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2180,Krabbe disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4793,osteopetrosis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3984,colorectal cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3840,endometrial cancer is ambiguous,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3840,ovarian and breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,756,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,756,BRCA1 gene,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,102,ABO Blood Type,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4485,Korean venous thromboembolism,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4485,thrombophilia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5350,inborn genetic disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4256,deafness,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,900,rippling muscle disease.,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,900,rippling muscle disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3884,Polycystic Kidney disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3884,autosomal dominant polycystic kidney disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1065,macular degeneration (damage to the eye with ageing),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1065,age related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,317,hypophosphatasia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2744,Cervical and vulvar cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5308,Wagner syndrome,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5308,Erosive vitreoretinopathy,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5308,wagner disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5308,imbalance of splice variants,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4919,sulfite oxidase deficiency,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3614,schizophrenia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3237,lacunar stroke,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3237,small vessel infarcts,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3113,restless legs syndrome,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3113,common sleep disorder,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3434,deafness,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3434,vestibular dysfunction,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4761,type 1 or 2 spinal muscular atrophy,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5384,"Von Willebrand disease, type 2N",True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1836,PTD,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1836,PTD,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1836,fetal growth.,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5342,Congenital polycythemia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5342,Von Hippel-Lindau-dependent polycythemia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5342,paraneoplastic polycythemia.,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4198,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2389,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2389,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3792,plasma LDL-C levels being up to 40% lower than average,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3792,lowered LDL-C level,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3792,coronary events,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1155,post-operative nausea,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1155,higher risk for nausea,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,806,increased risk for breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,806,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,183,dyskinesia disorder,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,183,autosomal dominant familial dyskinesia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,183,facial myokymia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,842,systemic lupus erythematosus (SLE),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,842,level of the C3 protein was lower,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5189,inflammation of cells in the trachea and alveoli,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5189,asthma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5189,asthma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4245,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4245,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4245,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4245,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4974,Multiple cutaneous and mucosal venous malformations,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4974,Vascular dysmorphogenesis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4974,venous malformations,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4428,gain significant weight ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2772,nonatopic eczema,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2772,were strongly associated with nonatopic eczema,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,861,malignant hyperthermia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,861,Malignant-hyperthermia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,861,malignant hyperthermia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,861,malignant hyperthermia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,nature age related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,age-related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,age-related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,age-related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,anti-vascular endothelial growth,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2662,age-related macular degeneration,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1017,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1017,prostate cancer ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1017,endometrial cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1583,mitral valve prolapse,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1583,thoracic aortic aneurysm,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2777,type 1 diabetes,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2777,non-Hodgkin lymphoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2777,biliary tract cancers and stones,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2777,autoimmune conditions,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2771,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2771,Rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2771,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2771,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2680,mammographic density,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2680,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2680,reast cancer risk,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2680,multiple myeloma.,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2680,proliferative benign breast disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3078,systemic lupus erythematosus (SLE),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3078,SLE ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3078,SLE,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3122,neurodegenerative diseases,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3122,"neurodegenerative conditions, including Alzheimer's disease, frontotemporal dementia, and dementia with Lewy bodies",True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,958,of blood type O or A,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,ichthyosis vulgaris,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,ichthyosis vulgaris,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,atopic dermatitis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,eczema,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,atopic dermatitis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,asthma predisposition,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1946,type 1 diabetes,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1580,dyslexia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1580,dyslexic,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1580,dyslexic,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,non-Hodgkin lymphoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,inflammatory bowel disease ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,Parkinson's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,biliary tract cancers and stones,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,benign prostatic hyperplasia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,lung cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,aphthous stomatitis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3551,urinary bladder cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Variant Creutzfeldt-Jakob disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,vCJD ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,vCJD ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Alzheimer disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,cognitive ability and cognitive ageing,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Creutzfeldt-Jakob disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1320,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,lower LDL cholesterol levels,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,cardiovascular events and disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,coronary risk,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,reduced LDL-C levels ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,decreased LDL levels,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,3782,lower LDL cholesterol,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5344,ischemic stroke,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,systemic lupus erythematosus (SLE),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,HIV to AIDs,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,Kaposi's sarcoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,Crohn's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,Crohn's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,Rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,rheumatoid arthritis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,B-cell lymphoma (DLBCL),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,non-Hodgkin's lymphoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,metastatic colorectal cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,1891,breast cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,poorer cognitive function,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,Alzheimer's disease,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,Alzheimer's disease ,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,frontotemporal dementia–like syndrome,False,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,Alzheimer cases,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,increased AD risk,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5157,late-onset AD,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,endometriosis,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Crohn's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Alzheimer's disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Behçet's disease,False,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,non-Hodgkin lymphoma.,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,postoperative myocardial infarction,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,non-Hodgkin's lymphoma.,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,infection following esophagectomy,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,rheumatoid arthritis patients,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,hepatitis C virus infection,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,B-cell lymphoma,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,biliary tract cancers and stones,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,melanoma,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,non-Hodgkin lymphoma,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Crohn's disease,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Asthma,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,knee osteoarthritis,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,prostate cancer,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,AIDS-related non-Hodgkin lymphoma ,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Crohn's disease,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,rheumatoid arthritis,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,gastric cancer,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,Epstein-Barr virus,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,heparin-induced thrombocytopenia.,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,2698,systemic sclerosis,True,False
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4994,thyroid disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,4994,human and murine autoimmune thyroid disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,both basal cell BCC,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,squamous cell cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,acute lymphoblastic leukemia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,myeloid or lymphocytic leukemia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,lung cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,Hodgkin disease,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,Bladder cancer ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,gastric cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,Hodgkin lymphoma (NHL),True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,biliary tract cancer and biliary stones,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,pancreatic adenocarcinoma risk,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,non-small cell lung cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,neck squamous cell carcinoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,glioblastoma,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,neutropenia,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,Locally Advanced Head and Neck Cancer,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,breast cancer risk,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,Gallbladder cancer ,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,modulate oral precancer and cancer risk,True,True
+R_2Bs2kBIw93NmaCj,2020-09-22 12:03:12,IP Address,100,True,2096,5426,colorectal cancer in Lynch syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5361,Willebrand disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3707,Phenylketonuriars,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4323,blood group,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1399,Congenital adrenal hyperplasiars,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5254,Clinically relevant UGT1A10 variant,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2300,gene variant associated with deafness,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4976,Sensitivity to the Sound of Chewing (Misophonia),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3605,Alzheimer's disease with psychosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4590,diabetic nephropathy and type-2 diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,80,colorectal cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,905,rippling muscle disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1666,familial idiopathic ventricular fibrillation,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1620,schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,939,hay-fever,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5272,familial hemophagocytic lymphohistiocytosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5290,schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1032,childhood acute lymphoblastic leukemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4536,schizophrenia and developmental disorders.,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4029,Huntington disease.,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4457,familial renal cell carcinoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4457,renal oncocytoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4457,renal phenotype,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4457,hereditary paragangliomatosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,434,early-onset Alzheimer's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4466,Pontocerebellar hypoplasia type 2D,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4532,schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4532,developmental disorders,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4019,lung cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4019,type 2 diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4019,diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1443,osteonecrosis of the jaw,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1443,myeloma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,800,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,575,aggressive neuroblastoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,910,Homocystinuria,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,739,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1760,rolandic epilepsy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3568,autism,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3232,primary biliary cirrhosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3232,celiac disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3232,rheumatoid arthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1505,myocardial infarction,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2030,Friedreich's ataxia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4032,"macrocephaly, hypotonia",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4032,autism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,297,hypophosphatasia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2027,Friedreich's ataxia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2986,ventricular noncompaction,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,309,hypophosphatasia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5247,hyperbilirubinemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4435,benign familial neonatal-infantile seizures,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,799,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2213,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,291,myocardial infarction,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,291,ischemic stroke,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3424,May-Hegglin anomaly,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3424,May-Hegglin anomaly,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3424,Fechtner and Sebastian syndromes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3424,The May-Heggllin/Fechtner Syndrome Consortium,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3424,May-Hegglin anomaly.,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4957,late-onset Alzheimer disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4957,polycystic ovary syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4957,glucose intolerance,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4957,metabolic syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2708,Asthma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2708,tuberculosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2708,pulmonary tuberculosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3562,Parkinson's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3562,hypoxic-ischemic encephalopathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2781,type 2 diabetic patients,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2781,prostate cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2781,cardiovascular disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,950,Alzheimer's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2538,Behçet's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2538,Behçet's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2538,Behçet's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1669,rare recessive disorder dihydropyrimidine dehydrogenase deficiency (DPD),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1669,hereditary thymine-uraciluria or familial pyrimidinemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2893,Gilbert's syndrome UGT1A1 polymorphism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2893,Pazopanib-induced hyperbilirubinemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,21,Alzheimer's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,21,late-onset Alzheimer's disease ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5253,coronary artery disease..,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5253,coronary artery disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3408,familial hypertrophic cardiomyopathy (HCM),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3408,hypertrophic cardiomyopathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3408,familial or idiopathic dilated cardiomyopathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3563,nephropathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3530,Crohn's disease ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3530, Crohn's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3530,inflammatory bowel disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3410,familial hypertrophic cardiomyopathy (HCM),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3410,Hypertrophic Cardiomyopathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3410,hypertrophic cardiomyopathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2799,melanoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2799,melanoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,Huntington's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,forme fruste long-QT syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,long-QT syndrome genes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,Jervell and Lange-Nielsen syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,long QT syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2879,swimming-triggered arrhythmia syndromes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1804,follicular lymphoma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1804,estrogen receptor-positive breast cancer risk,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5200,familial amyloid polyneuropathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,5200,heart-related symptoms,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2773,prostate cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2773,Visceral leishmaniasis (VL),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2773,Leishmania chagasi,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3993,ataxias,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3993,mitochondrial DNA depletion syndrome type 4A (Alpers syndrome) ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3993,sensory ataxic neuropathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3993,dysarthria,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3993,ophthalmoparesis (SANDO),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,asthma and bronchial hyperresponsiveness,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,type 1 diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,immune-mediated diseases,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,asthma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,psoriasis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,175,COPD,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,552,pancreatic cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,552,pancreatic cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4594,Andermann syndrome,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,familial ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1776,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,874,late-onset Alzheimer's disease,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,874,Alzheimer's disease,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2338,non-syndromic deafness,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2112,favism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2112,hemolytic anemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2112,chronic granuloma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2112,hemolytic anemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4246,rheumatoid arthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4246,type 1 diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4246,psoriasis of early onset,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4246,rheumatoid arthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,4246,rheumatoid arthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,"face, neck and sometimes shoulders turn red after drinking alcohol",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,facial flushing,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,severe hangovers,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,alcoholism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,alcohol-related liver disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,alcohol flush reaction,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,esophageal cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,upper aerodigestive tract (UAT) cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,266,Esophageal Cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2642,depression,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2642,rheumatoid arthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2642,bipolar disorder,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2642,high-density schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2749,Crohn's disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2749,ankylosing spondylitis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2749,"Graves' disease,",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2749,Graves ophthalmopathy,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2749,ulcerative colitis ,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2572,colorectal cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2572,CRC,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2572,colorectal cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2572,cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2572,cardiovascular disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,vascular diseases,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,abdominal aortic aneurysm (AAA),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,early onset myocardial infarction (MI),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,peripheral arterial disease PAD,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,pulmonary embolism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,intracranial aneurysm,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,ischemic stroke,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,AAA,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,arterial and venous disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,type 2 diabetes,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,hypertension,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,peripheral arterial disease (PAD),True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,1561,abdominal aortic aneurysm (AAA),True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,31,depression ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,31,depression,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,27,depression ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,27,depression,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,27,depressio,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,27,colonic disease ,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,152,explosive leg muscle power,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,152,endurance ability,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,152, power/sprint performance,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,152,polymorphism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,152,performance phenotypes i,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,osteoarthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,Kashin-Beck disease (KBD),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,degenerative osteoarthropathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,KBD ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,osteoarthritis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,Kashin-Beck disease (KBD) is a disabling osteoarthropathy,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,KBD,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,lung cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,breast cancer risk,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,coronary artery calcification in type 2 diabetes,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,early onset lung cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,adult brain tumors,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,breast cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,prostate cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,tumor susceptibility,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,medulloblastoma ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,2392,Childhood Cancer Survivor Study,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3241,risk for myocardial infarction,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3241,coronary artery disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3241,coronary atherosclerosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3241,worse progression of coronary artery disease after angioplasty.,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3241,reduced risk of recurrent venous thromboembolism,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,homocystinuria,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,autism cancer,False,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352, gastric cancer lung cancer,False,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,head and neck cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,renal cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,cleft lip and cleft palate,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,coronary artery disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,dementia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,depression ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,hyperhomocysteinemia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,migraine,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,neural tube defects,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,pre-eclampsia (gestational hypertension),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,schizophrenia,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,thrombosis,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,folate metabolism ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,heart disease,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,"gastric cancer,",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352, head and neck cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,"head and neck cancer, ",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,brain cancer,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,meningioma,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,migraine with aura,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,increased risk for cardiovascular disease.,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,"migraine with aura,",True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,cardiovascular disease ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,increased risk for ischemic stroke,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,end-stage renal disease (ESRD),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,increased clear cell renal cell carcinoma (CCRCC),True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,acute lymphoblastic leukemia (ALL) ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,hepatic toxicity ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,hepatic toxicity ,True,True
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,Down syndrome ,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,schizophrenia,True,False
+R_2wodESRdFsJZ5pq,2020-09-22 12:13:30,IP Address,100,True,2665,3352,schizophrenia ,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1094,Cystic Fibrosisrs,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3909,polycystic kidney disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5370,Von Willebrand disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,965,gastric cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2713,susceptibility to radiation dermatitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2581,now considered benign in ClinVar,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,96,may influence ABO blood group see gs129ABO Blood Type,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1302,schizophrenia.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5347,"carotid artery disease,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5347,"BMI,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5347,LDL-associated apolipoprotein B,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1445,Cytochrome ,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2791,coronary artery disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2791,Asian Indian sibling pairs,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3470,Nijmegen breakage syndrome,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3470,numerous cancers,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3167,MDM4 variant,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3167,HPV16-associated squamous cell carcinoma of oropharynx.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,75,adrenoleukodystrophy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2206,Guanidinoacetate methyltransferase deficiency,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2206,man.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2925,Lung cancer risk.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5214,Human Oocyte Meiotic Arrest,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1050,Blueprint Genetics Retinal dystrophy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1091,cystic fibrosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4169,"ALZHEIMER DISEASE,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4169,FAMILIAL,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4169,"Dementia,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4169,SPASTIC PARAPARESIS,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4169,"APRAXIA,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4809,Alzheimer's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4809,Alzheimer's disease.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4561,Lymphoproliferative syndrome,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4394,malignant hyperthermia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3345,Alzheimer's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,674,breast cancer ,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3552,inflammatory bowel disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3981,colorectal cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,772,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,750,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1411,HIV,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4180,Alzheimer's disease.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3630,left ventricular noncompaction,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,714,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,308,hypophosphatasia.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5033,nonfatal myocardial infarction,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5033,postmenopausal women,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5033,hypertensive men/women,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,340,amyotrophic lateral sclerosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,340,Irish,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,340,Swedish,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,340,Polish,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,135,Alzheimer's disease.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4134,episodic kinesigenic dyskinesia-1,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4134,paroxysmal kinesigenic dyskinesiasee,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4134,autosomal dominant dystonia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3255,Ashkenazi Jewish,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3255,CAMT,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4186,Alzheimer's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3209,autism,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3209,Caucasian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3209,schizophrenia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1737,pulmonary hypertension,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1737,ulmonary capillary hemangiomatosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1737,pulmonary venoocclusive disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2033,Friedreich's ataxia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1318,European,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,950,Alzheimer's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4545,Sanfilippo syndrome type A,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4545,mucopolysaccharidosis type IIIA,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,898,muscular dystrophy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,898,sudden infant death syndrome.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5309,Idiopathic short stature,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5309,Osteonecrosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5309,acute lymphoblastic leukemia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5309,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3192,Mediterranean fever,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3192,"Turks,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3192,"Sephardic Jews,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3192,Arab and Armenian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2778,type 1 diabetes.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2778,European ancestry,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2778,African American,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2778,children.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2550,Common variable immunodeficiency disorder ,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1055,ischemic stroke,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1055,candidate gene polymorphisms,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5121,Norwegian female,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5121,ADHD,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,5121,major depression.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4798,Guangxi Bai,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4798,Ku Yao,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4798,Han,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4798,Alzheimer's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,819,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,819,prostate cancer.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,819,Kazakhstan.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,617,anorexia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,617,bulimia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,617,elderly population.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4980,pancreatic cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4980,European,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4980,Asians,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,804,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1945,ichthyosis vulgaris,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1945,atopic dermatitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1945,eczema.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,827,restless legs syndrome,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,139,diabetic nephropathy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4120,venous thromboembolism,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,schizophrenia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,Taiwanese population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,glioblastoma,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,polymorphism,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,Korean population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,250,non-small cell lung cancer.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,655,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,655,ovarian cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3170,systemic lupus erythromatosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3170,female disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3170,Korean,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3170,Caucasian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2460,Cubans,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2460,Caribbean,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2460,beta thalassemia,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2460,Bulgaria,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2460,South India,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,mild asthma,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,Australian patients.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,esophageal cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,gastric cancer.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,acute myeloid leukemi,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,Chinese population.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4228,breast cancer prognosis:,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,924,"eosinophilic esophagitis,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,924,esophagitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,924,gastroesophageal reflux disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,924,eosinophilic esophagitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4599,Native American population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4599,type-2 diabetes,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4599,east Asian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4599,Europeans,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4599,Africans.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4454,congenital insensitivity to pain,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,emphysema,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,liver disease.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,US Caucasians,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,liver disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,cystic fibrosis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,alpha-1 antitrypsin deficiency,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4475,lung disease.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,Crohn's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,Jewish,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,non-Jewish populations.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,ankylosing spondylitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,Caucasian patients.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,North American patients,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,Graves' disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2749,European ancestry,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3415,Icelandic,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3415,"European descent,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3415,atrial fibrillation,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3415,ick sinus syndrome,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3415,advanced AV block,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,"rs63751243, also known as c.26C>A, p.Ala9Asp and A9D, represents a relatively rare mutation in the GRN gene on chromosome 17. OMIM reports the rs63751243(A) allele as representing a dominantly inherited mutation associated with ubiquitin-positive frontotemporal lobar ",False,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,"rs63751243, also known as c.26C>A, p.Ala9Asp and A9D, represents a relatively rare mutation in the GRN gene on chromosome 17. OMIM reports the rs63751243(A) allele as representing a dominantly inherited mutation associated with ubiquitin-positive frontotemporal loba",False,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,extrapyramidal features,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,amyotrophic lateral sclerosis.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,"exhibit aphasia,",True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,2422,ubiquitin-positive frontotemporal lobar degeneration.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,520,breast cancer.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,520,radio-sensitivity,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,520,post-lumpectomy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,520,radiotolerant prostate brachytherapy,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1484,Parkinson's disease,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1484,Alzheimer's,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,31,depression,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,31,German inpatients,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,apoptosis,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,Europe,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,United States.,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,"prostate cancer,",True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,Breast Cancer,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,ovarian cancer,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3168,squamous cell carcinoma,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,French Europids,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,type 2 diabetes,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,obesity,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,Asians,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,Chinese Han population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,Western,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,Korean population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,gestational diabetes mellitus,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,1043,Han Chinese,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,Bladder cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,oral premalignant lesions,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,renal cell carcinoma,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,adult glioma,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,breast cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,French Canadian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,bladder cancer,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,ovarian cancer.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,Taiwanese patients.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,3471,non-Hodgkin's lymphoma.,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Type-1 diabetes,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Autoimmune thyroiditis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Systemic lupus erythematosus,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,systemic lupus erythematosus,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,vasculitis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,autoimmune diseases,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,British population,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,British Caucasian,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,rheumatoid arthritis and juvenile idiopathic arthritis,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,UK population:,True,True
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Choctaw Indian individuals,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,US white,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,"black,",True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,"Hispanic,",True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Japanese patients,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,"Crohn's disease,",True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,"Ulcerative colitis,",True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Inflammatory bowel disease,True,False
+R_PUpvfu7l6QKh6mJ,2020-09-22 12:35:56,IP Address,100,True,4449,4247,Addison's disease,True,False
