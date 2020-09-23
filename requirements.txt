@@ -5,7 +5,7 @@ altair==4.1.0
 appdirs==1.4.4
 appnope==0.1.0
 astor==0.8.1
-astroid @ file:///opt/concourse/worker/volumes/live/76ddd801-8c2e-42ae-78fe-7e7640c9eb32/volume/astroid_1592495930711/work
+astroid==2.4.2
 atomicwrites==1.3.0
 attrs==19.3.0
 Babel==2.8.0
@@ -23,7 +23,7 @@ certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
 click==7.1.1
-cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
+cloudpickle==1.5.0
 cryptography==2.9.2
 cycler==0.10.0
 decorator==4.4.2
@@ -47,7 +47,7 @@ google-pasta==0.1.8
 grpcio==1.26.0
 h5py==2.10.0
 html5lib==1.0.1
-idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna==2.10
 imagesize==1.2.0
 importlib-metadata==1.5.0
 importlib-resources==3.0.0
@@ -69,7 +69,7 @@ jupyter-core==4.6.3
 keepalive==0.5
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-keyring @ file:///opt/concourse/worker/volumes/live/6c3c1b68-cc6b-4891-55e7-73912e6e7611/volume/keyring_1593109752759/work
+keyring==21.2.1
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.3
 Markdown==3.1.1
@@ -78,7 +78,7 @@ matplotlib==3.2.1
 mccabe==0.6.1
 mistune==0.8.4
 mock==4.0.1
-more-itertools @ file:///home/conda/feedstock_root/build_artifacts/more-itertools_1592197792446/work
+more-itertools==8.4.0
 mwclient==0.10.1
 nanoset==0.1.4
 nbconvert==5.6.1
@@ -86,12 +86,12 @@ nbformat==5.0.4
 networkx==2.4
 nltk==3.4.4
 notebook==6.0.3
-numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1591485227435/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
+numpy==1.18.5
+numpydoc==1.1.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
 packaging==20.4
-pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1592421999142/work
+pandas==1.0.5
 pandocfilters==1.4.2
 parso==0.6.2
 pathtools==0.1.2
@@ -99,6 +99,7 @@ patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.2.0
+pip==20.2.1
 pluggy==0.13.0
 prometheus-client==0.7.1
 prompt-toolkit==3.0.4
@@ -112,12 +113,12 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pybind11==2.4.3
 pycodestyle==2.6.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycparser==2.20
 pydeck==0.4.0b2
 pyflakes==2.2.0
 Pygments==2.6.1
-pylint @ file:///opt/concourse/worker/volumes/live/2b613d53-7b60-4200-4955-5bee5e20348c/volume/pylint_1592496108553/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pylint==2.5.3
+pyOpenSSL==19.1.0
 pyparsing==2.4.6
 PyQt5==5.12.3
 PyQt5-sip==4.19.18
@@ -135,22 +136,23 @@ QtAwesome==0.7.2
 qtconsole==4.7.1
 QtPy==1.9.0
 rapidfuzz==0.3.0
-rdflib @ file:///usr/local/miniconda/conda-bld/rdflib_1588779893201/work
+rdflib==5.0.0
 regex==2019.12.9
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests==2.24.0
 requests-oauthlib==1.3.0
 rope==0.17.0
 rsa==4.0
 s3transfer==0.2.1
 scikit-learn==0.22.2.post1
-scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1594922066423/work
-seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
+scipy==1.5.1
+seaborn==0.10.1
 Send2Trash==1.5.0
+setuptools==46.1.1.post20200322
 six==1.14.0
 smart-open==1.8.4
 snowballstemmer==2.0.0
-SPARQLWrapper @ file:///Users/runner/miniforge3/conda-bld/sparqlwrapper_1588887990805/work
-Sphinx @ file:///tmp/build/80754af9/sphinx_1594223420021/work
+SPARQLWrapper==1.8.5
+Sphinx==3.1.2
 sphinx-bootstrap-theme==0.7.1
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
@@ -169,7 +171,7 @@ tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
-toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+toml==0.10.1
 toolz==0.10.0
 torch==1.3.1
 tornado==6.0.4
@@ -184,9 +186,10 @@ watchdog==0.10.3
 wcwidth==0.1.8
 webencodings==0.5.1
 Werkzeug==1.0.0
+wheel==0.34.2
 widgetsnbextension==3.5.1
 wikitools==1.3
 wn==0.0.22
 wrapt==1.11.2
-wurlitzer @ file:///opt/concourse/worker/volumes/live/629dc498-dffd-47db-6bc8-01e1c73271f0/volume/wurlitzer_1594753845784/work
+wurlitzer==2.0.1
 zipp==3.1.0
