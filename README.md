@@ -2,10 +2,10 @@
 
 ### Project Description
 
-This repository is for a project for creating a dataset of text descriptions of phenotypes, diseases, or traits associated with human genes, from the [SNPedia](https://www.snpedia.com/) resource. These type of human gene to phenotype associatiosn are already available from existing curated resources, such as [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), but the focus of this project is on developing a proof-of-concept for working with the more unstructured text that is present on SNPedia pages. The dataset here was created in two steps.
+This repository is for a project for creating a dataset of text descriptions of phenotypes, diseases, or traits associated with human genes, from the [SNPedia](https://www.snpedia.com/) resource. These type of human gene to phenotype associations are already available from existing curated resources, such as [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), but the focus of this project is on developing a proof-of-concept for working with the more unstructured text that is present on SNPedia pages. The dataset here was created in two steps.
 
 1. Scraping texts from SNPedia pages using the [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) and preprocessing the texts.
-2. Presenting preprocessed texts to users on the crowdsourcing platform [Prolific](https://www.prolific.co/) to highlight the relevant text snippets.
+2. Presenting preprocessed texts to users on the crowdsourcing platform [Prolific](https://www.prolific.co/) to highlight relevant snippets.
 
 The sample of the resulting dataset is given here.
 ```
