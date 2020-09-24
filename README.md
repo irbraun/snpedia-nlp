@@ -6,7 +6,7 @@ This repository is for a project on creating datasets of text descriptions of ph
 
 ### What's in the dataset?
 
-With this goal in mind, a dataset was collected here that maps human genes to three different categories of text-based annotations or descriptions. The most rigorously curated and highly structured annotations are *diseases*, which are strings coming directly from ClinVar. The annotations that are considered to have a medium level of structure are text *snippets*, which are substrings of SNP descriptions from SNPedia pages that were identified and extracted from those texts using a crowdsourcing approach. Finally, the least structured type of text-based annotation collected are *contexts*, which are the sentences from SNPedia in which the previously described text *snippets* appear. These three types of text annotations are collected here in three separate files. Note that the mappings from genes to *diseases* comes directly from ClinVar, but the header is reshaped for compatability with the other two files in this dataset. Samples of each file are given below.
+With this goal in mind, a dataset was collected here that maps human genes to three different categories of text-based annotations or descriptions. The most rigorously curated and highly structured annotations are *diseases*, which are strings coming directly from ClinVar. The annotations that are considered to have a medium level of structure are text *snippets*, which are substrings of SNP descriptions from SNPedia pages that were identified and extracted from those texts using a crowdsourcing approach. Finally, the least structured type of text-based annotation collected are *contexts*, which are the sentences from SNPedia in which the previously described text *snippets* appear. These three types of text annotations are collected here in three separate files. Note that the mappings from genes to *diseases* come directly from ClinVar, but the header is reshaped for compatability with the other two files in this dataset. Samples of each file are given below.
 
 Mapping genes to *diseases* from ClinVar, the least noisy dataset (`genes_and_diseases.tsv`).
 ```
@@ -54,19 +54,20 @@ CAV3      Rs28936685    Homozygous mutations in caveolin-3 cause a severe form o
 
 
 
-### Methodology
+### Methods Summary
 
-The dataset here was created in two steps.
+The following steps were taken to put this dataset together:
 
-1. Scraping texts from SNPedia pages using the [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) and preprocessing the texts.
-2. Presenting preprocessed texts to users on the crowdsourcing platform [Prolific](https://www.prolific.co/) to highlight relevant snippets.
-
+1. Mappings to specific diseases were obtained directly from a ClinVar public release [here]( https://ftp.ncbi.nlm.nih.gov/pub/clinvar/gene_condition_source_id).
+2. The [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) was used to extract SNP to gene relationships and page texts from SNPedia.
+3. SNPedia page texts were cleaned in an initial text preprocessing step.
+4. Preprocessed page texts were transformed into a Qualtrics suvery, where survey takers can highlight the text related to diseases, traits, or phenotypes.
+5. The survey was released on the crowdsourcing platform [Prolific](https://www.prolific.co/) and responses were collected.
+6. The survey responses were used to identify the snippets and the context sentences in which they occur.
 
 
 ### Publication
 A paper related to using this dataset as a proof-of-concept for working with unstructured text is in progress.
-
-
 
 
 ### Feedback
