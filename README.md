@@ -10,42 +10,42 @@ With this goal in mind, a dataset was collected here that maps human genes to th
 
 Mapping genes to *diseases* from ClinVar, the least noisy dataset (`genes_and_diseases.tsv`).
 ```
-gene    disease
-MBTPS1	SPONDYLOEPIPHYSEAL DYSPLASIA, KONDO-FU TYPE
-MBTPS2	IFAP syndrome with or without BRESHECK syndrome
-MBTPS2	Keratosis follicularis spinulosa decalvans, X-linked
-MBTPS2	Osteogenesis imperfecta, type 19
-MBTPS2	Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked
-MC1R	  Increased analgesia from kappa-opioid receptor agonist, female-specific
-MC1R	  Cutaneous malignant melanoma 5
+gene     disease
+MBTPS1   SPONDYLOEPIPHYSEAL DYSPLASIA, KONDO-FU TYPE
+MBTPS2   IFAP syndrome with or without BRESHECK syndrome
+MBTPS2   Keratosis follicularis spinulosa decalvans, X-linked
+MBTPS2   Osteogenesis imperfecta, type 19
+MBTPS2   Palmoplantar keratoderma, mutilating, with periorificial keratotic plaques, X-linked
+MC1R     Increased analgesia from kappa-opioid receptor agonist, female-specific
+MC1R     Cutaneous malignant melanoma 5
 ```
 
 Mapping genes to *snippets* from SNPedia, a medium level of noise (`genes_snps_snippets.tsv`).
 ```
-gene    snp         snippet
-ABCC2	  Rs717620	  nonalcoholic fatty liver disease
-ABCD1	  Rs398123109	adrenoleukodystrophy
-ABCG2	  Rs3114018	  haplotype blocks
-ABCG2	  Rs3114018	  gout
-ABCG2	  Rs1481012	  colorectal cancer
-ABCG2	  Rs2231142	  heterozygotes
-ABCG2	  Rs2231142	  Atherosclerosis Risk
-ABO	    Rs41302905  may influence ABO blood group see gs129ABO Blood Type
+gene    snp           snippet
+ABCC2   Rs717620      nonalcoholic fatty liver disease
+ABCD1   Rs398123109   adrenoleukodystrophy
+ABCG2   Rs3114018     haplotype blocks
+ABCG2   Rs3114018     gout
+ABCG2   Rs1481012     colorectal cancer
+ABCG2   Rs2231142     heterozygotes
+ABCG2   Rs2231142     Atherosclerosis Risk
+ABO     Rs41302905    may influence ABO blood group see gs129ABO Blood Type
 ```
 
 Mapping genes to *context* sentences, the most noisy dataset (`genes_snps_contexts.tsv`).
 ```
-gene    snp         context
-CACNA1C	Rs80315385	Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
-CACNA1C	Rs80315385	Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
-CACNA1D	Rs312481	  rs312481 is a SNP in the calcium channel, voltage-dependent, L type, alpha 1D subunit CACNA1D gene.A study of 161 Japanese patients (85 men, 76 women) being treated for hypertension with L-type dCCBs (calcium channel blockers) concluded that individuals with rs312481 (C;C) genotypes responded better, as measured by lowered systolic and diastolic blood pressure readings.
-CACNA1S	Rs1800559	  rs1800559, also known as Arg1086His or R1086H, is a SNP in the CACNA1S gene on chromosome 1.The rs1800559 (A) allele is reported to be associated with malignant hyperthermia, type 5.This variant meets the criteria published in 2013 by the ACMG regarding incidental findings in exome or genome sequencing, as a variant that they do recommend informing a patient about.
-CACNA1S	Rs1800559   Genetics and pathogenesis of malignant hyperthermia.
-CACNA1S	Rs1800559   Identification of the Arg1086His mutation in the alpha subunit of the voltage-dependent calcium channel (CACNA1S) in a North American family with malignant hyperthermia.
-CALHM1	Rs2986017   This gene encodes a multipass transmembrane glycoprotein that is involved in the control of cytosolic calcium concentrations and cerebral amyloid-&#206;&#178; levels.In case-control studies of 3,404 participants, the rs2986017 (T) allele was significantly associated with late-onset Alzheimers disease.
-CALHM1	Rs2986017   A study of 62 Belgian Alzheimers disease patients and 519 ethnically matched control individuals found no evidence of association between rs2986017 and risk of disease, nor with onset age.
-CAV3	  Rs116840785 Novel missense mutation in the caveolin-3 gene in a Belgian family with rippling muscle disease.
-CAV3	  Rs28936685	Homozygous mutations in caveolin-3 cause a severe form of rippling muscle disease.
+gene      snp           context
+CACNA1C   Rs80315385    Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
+CACNA1C   Rs80315385    Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
+CACNA1D   Rs312481      rs312481 is a SNP in the calcium channel, voltage-dependent, L type, alpha 1D subunit CACNA1D gene.A study of 161 Japanese patients (85 men, 76 women) being treated for hypertension with L-type dCCBs (calcium channel blockers) concluded that individuals with rs312481 (C;C) genotypes responded better, as measured by lowered systolic and diastolic blood pressure readings.
+CACNA1S   Rs1800559     rs1800559, also known as Arg1086His or R1086H, is a SNP in the CACNA1S gene on chromosome 1.The rs1800559 (A) allele is reported to be associated with malignant hyperthermia, type 5.This variant meets the criteria published in 2013 by the ACMG regarding incidental findings in exome or genome sequencing, as a variant that they do recommend informing a patient about.
+CACNA1S   Rs1800559     Genetics and pathogenesis of malignant hyperthermia.
+CACNA1S   Rs1800559     Identification of the Arg1086His mutation in the alpha subunit of the voltage-dependent calcium channel (CACNA1S) in a North American family with malignant hyperthermia.
+CALHM1    Rs2986017     This gene encodes a multipass transmembrane glycoprotein that is involved in the control of cytosolic calcium concentrations and cerebral amyloid-&#206;&#178; levels.In case-control studies of 3,404 participants, the rs2986017 (T) allele was significantly associated with late-onset Alzheimers disease.
+CALHM1    Rs2986017     A study of 62 Belgian Alzheimers disease patients and 519 ethnically matched control individuals found no evidence of association between rs2986017 and risk of disease, nor with onset age.
+CAV3      Rs116840785   Novel missense mutation in the caveolin-3 gene in a Belgian family with rippling muscle disease.
+CAV3      Rs28936685    Homozygous mutations in caveolin-3 cause a severe form of rippling muscle disease.
 ```
 
 
