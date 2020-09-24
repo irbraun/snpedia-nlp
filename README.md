@@ -61,7 +61,7 @@ The following steps were taken to put this dataset together:
 1. Mappings to specific diseases were obtained directly from a ClinVar public release [here]( https://ftp.ncbi.nlm.nih.gov/pub/clinvar/gene_condition_source_id).
 2. The [MediaWiki API](https://www.mediawiki.org/wiki/API:Main_page) was used to extract SNP to gene relationships and page texts from SNPedia.
 3. SNPedia page texts were cleaned in an initial text preprocessing step.
-4. Preprocessed page texts were transformed into a Qualtrics suvery, where survey takers can highlight the text related to diseases, traits, or phenotypes.
+4. Preprocessed page texts were transformed into a Qualtrics survey, where survey takers highlight diseases, traits, or phenotypes.
 5. The survey was released on the crowdsourcing platform [Prolific](https://www.prolific.co/) and responses were collected.
 6. The survey responses were used to identify the snippets and the context sentences in which they occur.
 
