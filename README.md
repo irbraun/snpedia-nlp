@@ -1,12 +1,14 @@
 ## snpedia-nlp
 
-### Description
+### Project goal and description
 
 This repository is for a project on creating datasets of text descriptions of phenotypes, diseases, or traits associated with human genes, from the [SNPedia](https://www.snpedia.com/) resource. These type of human gene to phenotype associations are already available from a variety of existing curated resources, such as [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), but the focus of this project is on developing a proof-of-concept for working with the more unstructured text that is present on SNPedia pages. 
 
 ### What's in the dataset?
 
 With this goal in mind, a dataset was collected here that maps human genes to three different categories of text-based annotations or descriptions. The most rigorously curated and highly structured annotations are *diseases*, which are strings coming directly from ClinVar. The annotations that are considered to have a medium level of structure are text *snippets*, which are substrings of SNP descriptions from SNPedia pages that were identified and extracted from those texts using a crowdsourcing approach. Finally, the least structured type of text-based annotation collected are *contexts*, which are the sentences from SNPedia in which the previously described text *snippets* appear. These three types of text annotations are collected here in three separate files. Note that the mappings from genes to *diseases* come directly from ClinVar, but the header is reshaped for compatability with the other two files in this dataset. Samples of each file are given below.
+
+### Samples from each file
 
 Mapping genes to *diseases* from ClinVar, the least noisy dataset (`genes_and_diseases.tsv`).
 ```
@@ -50,11 +52,7 @@ CAV3      Rs28936685    Homozygous mutations in caveolin-3 cause a severe form o
 
 
 
-
-
-
-
-### Methods Summary
+### Summary of the methodology
 
 The following steps were taken to put this dataset together:
 
@@ -70,5 +68,5 @@ The following steps were taken to put this dataset together:
 A paper related to using this dataset as a proof-of-concept for working with unstructured text is in progress.
 
 
-### Feedback
+### Feedback?
 Send any feedback, questions, or suggestions to irbraun at iastate dot edu.
