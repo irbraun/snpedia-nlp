@@ -68,5 +68,5 @@ The following steps were taken to put this dataset together:
 A paper related to using this dataset as a proof-of-concept for working with unstructured text is in progress.
 
 
-### Feedback?
-Send any feedback, questions, or suggestions to irbraun at iastate dot edu.
+### Have any feedback?
+Send any feedback, comments, questions, or suggestions to irbraun at iastate dot edu.
