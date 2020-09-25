@@ -1,4 +1,0 @@
-../data/2_snps_and_cleaned_text.csv
-../data/4_binned_and_blocked_texts.csv
-../qualtrics/results_raw_qualtrics_exports/SNPedia Survey_September 24, 2020_22.24.csv
-../qualtrics/results_processed_json_files/snpedia_survey_september_24_2020_h22_m24.json
