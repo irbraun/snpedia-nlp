@@ -1,0 +1,2483 @@
+[[AdvancedFormat]]
+[[Block:Block 9]]
+
+    [[Question:Text]]
+    [[ID:q1904]]
+    <blockquote>
+        <p class="text-snippet" data-id="1904">aka c.536G>A (p.Arg179Gln or R179Q) Distribution of coronary blood flow in the left ventricular wall of dogs evaluated by the uptake of Xe-133. FGF-23 inhibits renal tubular phosphate transport and is a PHEX substrate. Regulation of fibroblastic growth factor 23 expression but not degradation by PHEX. Physiological regulation of renal sodium-dependent phosphate cotransporters. Fibroblast growth factor 23 reduces expression of type IIa Na+/Pi co-transporter by signaling through a receptor functionally distinct from the known FGFRs in opossum kidney cells. BetaKlotho is required for metabolic activity of fibroblast growth factor 21.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2955]]
+    <blockquote>
+        <p class="text-snippet" data-id="2955">KRIT1 gene variant, known as c.1363C>T, p.Gln455Ter and Q455X and due to numbering/naming differences also 742C-T, Q248 , and Gln248Ter.The rs267607203(T) allele is considered to be a dominantly inherited, founder mutation in Mexican-American/Hispanic families for cerebral cavernous malformations, also known as cavernous angiomas. This mutation can also be known as the "Common Hispanic Mutation" in the lay literature. the US, a nonprofit involved in supporting cavernous angioma research and treatment is the / Angioma Alliance, which oversees the / Baca Family Historical Project.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5139]]
+    <blockquote>
+        <p class="text-snippet" data-id="5139">rs1800462, also known as A80P, is a rare SNP in the TPMT gene, potentially encoding a variant incapable of detoxifying byproducts of certain antineoplastic and immunosuppressant drugs. In general, individuals must have two nonfunctioning TPMT alleles for the toxicity to be pronounced.The risk allele for this SNP (in orientation to the dbSNP entry) is rs1800462(C), and it encodes the TPMT 2 allele. It may occur at a frequency of 1 in 200 alleles among Caucasians.| wikipedia thiopurine drugs metabolized by TPMT include azathioprine, mercaptopurine, and thioguanine</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1552]]
+    <blockquote>
+        <p class="text-snippet" data-id="1552">is normally turned on in an embryo, then turned off at birth. However, individuals with one of more copy of the gene (CYP3A7 1C) turn on their CYP3A7 gene in adult life.C allele increased risk of breast cancer, lung cancer, and CLL.Analyses adjusted for prognostic factors showed harboring the SNP increased risk for disease-specific mortality 74% among patients with breast cancer (HR = 1.74; 95% CI, 1.05-2.9) and 43% among patients with lung cancer (HR = 1.43; 95% CI, 1.09-1.87).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q164]]
+    <blockquote>
+        <p class="text-snippet" data-id="164">rs61751103, also known as Q170H or Gln170His, is a SNP in the ADAM metallopeptidase domain 10 ADAM10 gene. The common allele is rs61751103(C) (in the FWD direction, not in the mRNA), encoding the Gln. The rs61751103(G) allele was found in 11 of 16 individuals affected by Alzheimer's disease (average onset age 69.5 years) from seven late-onset AD families. This mutation was also found in at least one unaffected subject, implying incomplete penetrance.This SNP is referred to as i6006818 by 23andMe.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1926]]
+    <blockquote>
+        <p class="text-snippet" data-id="1926">In Caucasian non-Hispanics, the rs1360780(T) allele is associated with increased risk for depression, with an odds ratio of 1.39 (CI: 1.14-1.70, p=0.046).This same SNP, which is in the FKBP5 gene, may influence how patients respond to antidepressants including citalopram. rs1360780(T;T) homozgyotes tend to report more depressive episodes, but they also respond better to treatment with antidepressants. rs9296158 rs3800373 rs1360780 rs9470080 linked with the severity of child abuse to predict level of adult PTSD symptoms after correcting for multiple testing.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q937]]
+    <blockquote>
+        <p class="text-snippet" data-id="937">The public name for this SNP is rs333, and it is most commonly known as the CCR5 Delta32 (or 'Delta 32') mutation.It is discussed in numerous articles and blogs, including  here and / here. II +/+: Not resistant to HIV infection; shows average time of progression to AIDS after infection. DI Delta32/+: Not resistant to HIV infection but may have slower progression to AIDS after infection. DD Delta32/Delta32: Resistant to infection by the most common strain of HIV people usually encounter, though protection is not complete.Resistance to HIV/AIDS</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1677]]
+    <blockquote>
+        <p class="text-snippet" data-id="1677">rs1076560 is located in intron 6 of the dopamine receptor D2 gene.In one study of Japanese males, rs1076560(A) alleles were 1.3 fold more associated with Alcoholism than the rs1076560(C) alleles. The DRD2 risk allele A was more prevalent in the alcoholic patients than in the healthy controls. These data identify rs1076560 as a potentially important variable in the development of alcoholism. rs1076560 and the DAT 3'-VNTR variant influences memory Genetic variants altering dopamine D2 receptor expression or function modulate the risk of opiate addiction and the dosage requirements of methadone substitution</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4778]]
+    <blockquote>
+        <p class="text-snippet" data-id="4778">SNPs in the SNAP25 gene were initially  linked to intelligence but have failed to replicate .While now suspect, the original work can be found in .The (T;T) genotype averages several PIQ points higher than the (C;T) genotype, which averages several PIQ points higher than the (C;C) genotype. For SNPs rs363039 - rs363043 - rs353016, respectively, the haplotype C-T-T is most associated with higher intelligence in children, whereas the haplotype C-C-T is most associated in adults (SNPs oriented as in dbSNP).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2774]]
+    <blockquote>
+        <p class="text-snippet" data-id="2774">rs2243250 is a SNP in the IL4 gene that is also known as the -589C>T SNP.In 300 patients younger than 50 years the rs2243250(T) allele was associated with a reduced risk of myocardial infarction (odds ratio 0.57, CI: 0.34-0.95). This result was replicated in another study, where carriers of one or two -589T alleles also had a reduced risk (odds ratio 0.67, CI: 0.47-0.95), with a strong protective effect of the -598T allele in homozygous -589T (odds ratio 0.33, CI: 0.10-1.05).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5315]]
+    <blockquote>
+        <p class="text-snippet" data-id="5315">Variants in the vitamin D receptor gene and asthma. Asthma families show transmission disequilibrium of gene variants in the vitamin D metabolism and signalling pathway. Genetic and environmental determinants of 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D levels in Hispanic and African Americans. Vitamin D pathway gene variants and prostate cancer risk. Association study between vitamin D receptor gene polymorphisms and asthma in the Chinese Han population: a case-control study. Overview of the Rapid Response data. Vitamin D pathway gene variants and prostate cancer prognosis. Vitamin D receptor gene polymorphisms are associated with adiposity phenotypes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q140]]
+    <blockquote>
+        <p class="text-snippet" data-id="140">This SNP in the ACE gene, also known as G12269A, is reported to influence how quickly African Americans respond to the anti-hypertensive drug ramipril. rs4344(A;A) and rs4344(G;G) homozygotes are able to reach lower blood pressure levels upon treatment with ramipril sooner than rs4344(A;G) heterozygotes. The odds ratio reported for this study, comparing both homozygotes to heterozygotes, is 1.86 (CI: 1.32-3.23). Note that this SNP is in almost complete linkage disequilibrium with the insertion/deletion ACE gene SNP.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q38]]
+    <blockquote>
+        <p class="text-snippet" data-id="38">A Danish case-control study comprising 373 Crohn's disease and 541 ulcerative colitis patients (and 796 healthy controls) concluded that carriers of the homozygous COX-2 and MDR1 intron 3 variant (rs3789243) had a relatively high risk of CD, odds ratio (95% CI) (OR (95% CI))=2.86 ((1.34-5.88) p=0.006) and 1.39 ((0.99-1.92) p=0.054), respectively, and for UC of 2.63 ((1.33-5.26) p=0.005) and 1.28 ((0.96-1.51) p=0.093), respectively, assuming complete dominance.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q944]]
+    <blockquote>
+        <p class="text-snippet" data-id="944">rs5744455 also known as (-651C>T) in CD14 Haplotype analysis suggested a synergistic effect of the two SNPs (OR for the T(-651)-T(-260) haplotype, 3.39 versus OR for the C(-651)-T(-260) haplotype, 1.45; P = 0.02), which is consistent with reporter gene assays. A multiplicative joint effect between H. pylori infection and -260C>T polymorphism was observed (OR for the presence of both -260TT genotype and H. pylori infection, 4.03; 95% CI, 1.80-9.04)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q577]]
+    <blockquote>
+        <p class="text-snippet" data-id="577">rs28399653 encodes the Lutheran Lu(a)(b) blood group polymorphism, perhaps the major allelic variant within the Lutheran blood group encoded by the BCAM gene. Described originally as p.His77Arg and c.252G>A, but due to numbering updates now known also as c.230G>A, the rs28399653(A) allele encodes the rarer Lu(a) antigen of the Lu glycoprotein, and the rs28399653(G) allele encodes the more common Lu(b) antigen. The Lu(a/b) pair are equivalent to Lu(1/2).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q915]]
+    <blockquote>
+        <p class="text-snippet" data-id="915">Associated with Heterogeneous nuclear ribonucleoprotein A1 (HNRNPA1) exon 8 alternative splicing. Study presents evidence that it is a sterol-regulated splicing factor that binds to HMGCR binding motif  at rs3846662 in turn modulating its alternative splicing. Consistent with this evidence, rs1920045 AA homozygote minor allele was found to modestly reduce the effectiveness of statins in lowering total plasma cholesterol in two independent clinical trials, CAP and PRINCE (P=0.006 combined). The study notes this SNP is in LD with HNRPA1 promoter region, and therefore likely just tags the causal variant within the promoter region.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2463]]
+    <blockquote>
+        <p class="text-snippet" data-id="2463">rs33950507 is a SNP found in the beta hemoglobin HBB gene, not far from the well-known SNP associated with malarial resistance (rs334, Hb S). This SNP gives rise to the "Hb E", or hemoglobin E, form of hemoglobin as the HBB forms are commonly named. It is found primarily in Southeast Asia.rs33950507(A) is associated with somewhat increased malarial resistance, and in homozygous (A;A) state, with mild hypochromic microcytic anemia. Microarray-based estimation of SNP allele-frequency in pooled DNA using the Langmuir kinetic model.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1846]]
+    <blockquote>
+        <p class="text-snippet" data-id="1846">rs2279381, also known as c.502C>T, p.Thr61Met and T61M, represents a variant in the FABP7 gene on chromosome 6.A 2017 study of ~300 Japanese adult males monitored for a week found that the 10% carrying a variant rs2279381(A) allele exhibited more fragmented sleep than non-carriers. Specifically, although total amount of sleep was the same, carriers had sleep cycle bouts averaging 14 minutes compared to 18 minutes for non-carriers, and 27 bouts of sleep/wake vs 24 for non-carriers. No particular negative consequences were associated with the difference in sleep fragmentation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4212]]
+    <blockquote>
+        <p class="text-snippet" data-id="4212">rs63750812, also known as V148I or Val148Ile, is a SNP in the presenilin PSEN2 gene.Inherited as an autosomal dominant, the rare rs63750812(A) allele is reported to be causative for early-onset Alzheimer's disease. However, the AlzForum also reports that "No change in proteolytic products PSEN2-CTF and PSEN2-NTF; no change in A&#946;42 levels or the A&#946;42/A&#946;40 ratio", and in combination with the original report, this allele may be more of a predisposing than causative mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1242]]
+    <blockquote>
+        <p class="text-snippet" data-id="1242">Reported to be in very tight (r<sup>2</sup>>0.98) linkage with rs2710102, and thus potentially associated with autism. Speech development rs4431523, rs17236239 and significant associations (with P values from 0.01 to 5.0x10&#8211;5) between nonsense-word repetition and nine intronic SNPs (rs851715, rs10246256, rs2710102, rs759178, rs1922892, rs2538991, rs17236239, rs2538976, and rs2710117) Linkage, association, and gene-expression analyses identify CNTNAP2 as an autism-susceptibility gene. CNTNAP2 variants affect early language development in the general population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q48]]
+    <blockquote>
+        <p class="text-snippet" data-id="48">rs3740066, a SNP in the ABCC2 gene, is reported to be associated with a higher risk of developing intrahepatic cholestasis of pregnancy (ICP) based on a study of ~70 Argentinian patients. ICP is associated with increased fetal risks such as premature birth or intrauterine death.The risk allele is rs3740066(A), and the odds ratio for homozygous rs3740066(A;A) mothers is 4.44 (CI: 1.83 - 10.78), and for heterozygous mothers 1.65 (CI: 0.76 - 3.64), compared to rs3740066(G;G) mothers.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2547]]
+    <blockquote>
+        <p class="text-snippet" data-id="2547">rs17612858 represents a variant near the HLA-DQA1 gene, located on chromosome 6.A relatively small genomewide association study (~200 patients followed by validation) of southern Ethiopians concluded that the rs17612858(T) allele significantly increases risk for podoconiosis, a tropical lymphedema resulting from long-term barefoot exposure to red-clay volcanic soil. Compared to the major (A;A) homozygote, the odds ratio was 1.7 (CI: 1 - 2.7) for (A;T) heterozygotes and 4.6 (CI: 2.6 - 8) for (T;T) minor allele homozygotes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q91]]
+    <blockquote>
+        <p class="text-snippet" data-id="91">ABO gene variant, known more commonly as c.53G>T or p.Arg18Leu. The rs1008708453(A) allele, as represented in dbSNP (and SNPedia) on the forward/plus strand, is reported to be completely correlated to a subtype of O type alleles known as the O2 group. These O alleles may lack the c.261delG allele that is associated with the majority of O alleles.Note that at this position, there is another variant, c.53G>A (p.Arg18Gln), which is not reported to have any particular ABO allelic association as far as we know.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5155]]
+    <blockquote>
+        <p class="text-snippet" data-id="5155">aka c.97C>T (p.Gln33Ter or Q33X)In 2003, researchers concluded that inheriting two copies of rs104894002(T) led to polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy-2 (PLOSL2), also known as Nasu-Hakola disease.More recently (in 2019), a publication concluded that inheriting one copy of the rs104894002(T) allele gives rise to late-onset Alzheimer's disease, with this variant appearing to be a fully penetrant mutation among persons surviving to late age (although the authors admit that this is speculative, given the low number of patients known to date).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2373]]
+    <blockquote>
+        <p class="text-snippet" data-id="2373">rs137853822, also known as c.1363G>T, Ala455Ser or A455S, is a variant in the GNPTAB gene on chromosome 12.The minor (T) allele of rs137853822 was a mutation in the GNPTAB gene associated with stuttering in a 2010 study. Note that inheritance was neither dominant or recessive; this variant increased the risk of stuttering when present in either one or two copies, consistent with an additive genetic effect. Female homozygotes were apparently less affected. Note that the proportion of stutterers likely to carry a GNPTAB variant is likely to be less than 4%.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2472]]
+    <blockquote>
+        <p class="text-snippet" data-id="2472">A hierarchical and modular approach to the discovery of robust associations in genome-wide association studies from pooled DNA samples. DNA polymorphisms at the BCL11A, HBS1L-MYB, and beta-globin loci associate with fetal hemoglobin levels and pain crises in sickle cell disease. Genetic complexity in sickle cell disease. Genetic variation on chromosome 6 influences F cell levels in healthy individuals of African descent and HbF levels in sickle cell patients. Genetic modifiers of Hb E/beta0 thalassemia identified by a two-stage genome-wide association study. Sickle Cell Disease in the Post Genomic Era: A Monogenic Disease with a Polygenic Phenotype.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2256]]
+    <blockquote>
+        <p class="text-snippet" data-id="2256">GTP cyclohydrolase and tetrahydrobiopterin regulate pain sensitivity and persistence. A allele associated with higher tolerance to pain.Polymorphisms in the GTP cyclohydrolase gene (GCH1) are associated with ratings of capsaicin pain. A allele associated with higher tolerance to pain.Do genetic predictors of pain sensitivity associate with persistent widespread pain? A allele associated with higher pain tolerance.GCH1 haplotype determines vascular and plasma biopterin availability in coronary artery disease effects on vascular superoxide production and endothelial function. Part of a haplotype, rs10483639(C)-rs3783641(A)-rs8007267(T), associated with lower levels of tetrahydrobiopterin.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1368]]
+    <blockquote>
+        <p class="text-snippet" data-id="1368">rs749292(A) associated with ovarian cancer risk in a codominant model for all races combined AG versus AA genotype: odds ratio (OR), 1.48 and 95% confidence interval (CI), 1.07-2.04); GG versus AA: OR, 1.87 (CI, 1.24-2.82); Ptrend =0.002. endometrial cancer  rs749292(A) allele OR of 1.14, 95% confidence interval of 1.09-1.21, and P = 7.1 x 10(-7) rs727479(A) odds ratio per allele of 1.08, 95% confidence interval of 1.02-1.14, and P = 0.009</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3189]]
+    <blockquote>
+        <p class="text-snippet" data-id="3189">rs104895094, also known as c.2084A>G, p.Lys695Arg or K695R, is a SNP in the MEFV gene. The risk allele is given as (C) by 23andMe, however in dbSNP orientation, the risk allele is (G).The symptoms of familial Mediterranean fever are caused by the person's own inflammatory response; it is not an infectious disease. The condition is more common among Turks, Sephardic Jews, and people of Arab and Armenian ancestry. Non-founder mutations in the MEFV gene establish this gene as the cause of familial Mediterranean fever (FMF).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3363]]
+    <blockquote>
+        <p class="text-snippet" data-id="3363">Yasko Methylation Methionine synthase, coded by the MTR gene, has a B12 attached to it. The Methionine synthase takes a methyl group from methyl folate and attaches it to its B12, then it attaches it to a molecule of homocysteine, turning it into methionine, which in turn becomes SAMe. After 1000-2000 times doing this, the B12 gets turned into a useless form, and MTRR turns the B12 back into the useful form so that the molecule of MTR can keep working. The MTRR mutations make this enzyme less active, suggesting a need for more B12.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1663]]
+    <blockquote>
+        <p class="text-snippet" data-id="1663">Genetic loci associated with plasma concentration of low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, triglycerides, apolipoprotein A1, and Apolipoprotein B among 6382 white women in genome-wide analysis with replication. Investigation of variants identified in caucasian genome-wide association studies for plasma high-density lipoprotein cholesterol and triglycerides levels in Mexican dyslipidemic study samples. Genetics and beyond--the transcriptome of human monocytes and disease susceptibility. Exploring genetic determinants of plasma total cholesterol levels and their predictive value in a longitudinal study. Genome-wide association study of coronary heart disease and its risk factors in 8,090 African Americans: the NHLBI CARe Project.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5022]]
+    <blockquote>
+        <p class="text-snippet" data-id="5022">rs1898830, known as -15607A/G and located in the first intron of the TLR2 gene, is associated with an increased risk for shedding and lesion frequency of genital herpes simplex virus type 2 HSV-2 outbreaks.The risk allele is (G).Note that the increased risk is not that great; median shedding rate was 16.7% for (G) allele carriers vs 12.0% when it was absent (= risk ratio for a dominant effect of 1.60), and the median lesional rate was 10.4% for (G) carriers vs 5.3% for non-carriers (risk ratio 2.16).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1024]]
+    <blockquote>
+        <p class="text-snippet" data-id="1024">discussed in this / blog postA region of chromosome 9p21 has revealed numerous SNPs correlated with risk of myocardial infarction in a study of 2,000+ patients. This SNP, rs10116277, is highly correlated (r<sup>2</sup>=0.9) with rs2383207, as well as rs1333040 (r<sup>2</sup>=0.67). Ultimately, though, the SNP in this study (and region) with the highest disease correlation is rs10757278.According to a DeCode report, the G allele of his SNP is associated with lower risk of abdominal aortic aneurysm (AAA).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3097]]
+    <blockquote>
+        <p class="text-snippet" data-id="3097">This is the best proxy for the number of repeats of the MAOA warrior gene. In 105 samples (69 males, 36 females) from the Stanley foundation brain collection, it was always A in people with the 4 or 5 repeat non-Warrior version and always G in people with the 3 repeat Warrior version. The combination rs909525(A) AND rs6323(T) AND rs3027399(G) indicate specifically that it is the 5 repeat version. The 2 repeat version and the 3.5 repeat version weren't mentioned. mentioned as potentially affecting white matter volume, sample size tiny</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2008]]
+    <blockquote>
+        <p class="text-snippet" data-id="2008">From : We identified a strong association (p = 5.36 x 10(-17)) between rs492602 in the FUT2 gene and plasma vitamin B(12) levels in a genome-wide scan (n = 1,658) and an independent replication sample (n = 1,059) from the Nurses' Health Study. Women homozygous for the rs492602(C) allele (in dbSNP orientation) had higher B(12) levels. This allele is in strong linkage disequilibrium with the FUT2 nonsecretor variant encoding W143X, suggesting a plausible mechanism for altered B(12) absorption and plasma levels.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2835]]
+    <blockquote>
+        <p class="text-snippet" data-id="2835">rs5911, also known as Ile874Ser or Ile843Ser, is a SNP in the ITGA2B gene on chromosome 17. In the context of the plus strand nomenclature used by dbSNP, rs5911(A) encodes the Ile, and rs5911(G) the Ser. The rs5911(C) allele gives rise to the platelet-specific alloantigen known as BAK.Of some historic interest in the field of platelet transfusion, the BAK alloantigen (rs5911(C;C) homozygotes) has more recently been reported in a small study of healthy Chinese males to be associated with decreased ex vivo antiplatelet activity of ticagrelor.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1021]]
+    <blockquote>
+        <p class="text-snippet" data-id="1021">rs587776716, known best as p16-Leiden but also as c.226_244del19, represents a rare mutation in the CDKN2A gene on chromosome 9.Noticed first and studied primarily in Dutch families with atypical multiple-mole melanoma, the deletion form of rs587776716 has now been linked to significantly increased risk for pancreatic cancer in addition to malignant melanoma. There do appear to be modifiers in the genomes of some individuals that can reduce the cancer risk of this allele.Increased screening of individuals with the p16-Leiden for both moles and pancreatic cancer is likely to be beneficial.A detailed description of this allele and studies about it can be found in OMIM  600160.0003.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4949]]
+    <blockquote>
+        <p class="text-snippet" data-id="4949">rs2074190(G;G) and rs2074190(A;G) genotypes for the TBX21 gene are calculated to be at 2.19 fold higher risk (CI: 1.27-3.77) for aspirin-induced asthma (AIA) compared to rs2074190(A;A) homozygotes, based on a study of 72 patients vs 640 controls in a study of a Japanese population. Note that in this population, but perhaps not others, linkage disequilibrium exists between this SNP located in the first exon, rs2074190, and a SNP located upstream of the gene, rs4794067, with a predictive accuracy of 92%.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4188]]
+    <blockquote>
+        <p class="text-snippet" data-id="4188">Located in the PSEN1 gene, rs63750306 represents the rare variant site where all three possible single nucleotide mutations are known and considered pathogenic. The c.438G>A, c.438G>C and c.438G>T variants are all also known as p.Met146ILe or M146I.All three mutations are considered dominantly inherited pathogenic mutations leading to early-onset Alzheimer's disease, at least according to AlzForum, but no citations are provided. In ClinVar, the G>A and G>T variants are (somewhat) annotated as pathogenic. The G>A variant is reported in  to be a "definitely" pathogenic mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q139]]
+    <blockquote>
+        <p class="text-snippet" data-id="139">See ACE for a more complete description of the history of the ACI insertion/deletion (I/D) allele and various associations reported over the years.Perhaps the best documented correlation of a linked SNP to the presence or absence of the Alu insertion represented by the I/D ACE polymorphism is rs4343. More specifically: the rs4343(A) allele is associated with the ACE-I (insertion) allele, and the rs4343(G) allele is associated with the ACE-D allele.Another SNP in linkage disequilibrium with the ACE I/D polymorphism is rs4341., A haplotype of rs4311, rs4343, rs699 increases risk of diabetic nephropathy 4x.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3083]]
+    <blockquote>
+        <p class="text-snippet" data-id="3083">A US study  of 1,172 lymphoma patients and 982 controls looked at 57 SNPs in 36 immune function genes. Five SNPs in two cytokine genes, tumor necrosis factor-alpha and lymphotoxin-alpha, were associated with a 1.31x increase in non-Hodgkin lymphoma (OR, 1.31; 95% CI, 1.06-1.63; P = 0.01) and with a 1.64x increase in the subtype known as diffuse large B cell lymphoma (OR, 1.64; 95% CI, 1.23-2.19; P = 0.0007). The other four SNPS are listed below. The cytokine genes affect inflammatory and innate immune responses.  rs1800629  rs361525  rs1799724  rs2239704</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3586]]
+    <blockquote>
+        <p class="text-snippet" data-id="3586">Association between liver X receptor alpha gene polymorphisms and risk of metabolic syndrome in French populations. Functional and genetic analysis in type 2 diabetes of liver X receptor alleles--a cohort study. Genetic variation within the NR1H2 gene encoding liver X receptor beta associates with insulin secretion in subjects at increased risk for type 2 diabetes. Associations between common genetic polymorphisms in the liver X receptor alpha and its target genes with the serum HDL-cholesterol concentration in adolescents of the HELENA Study. Liver X receptor alpha gene polymorphisms and variable cardiovascular outcomes in patients treated with antihypertensive therapy: results from the INVEST-GENES study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3602]]
+    <blockquote>
+        <p class="text-snippet" data-id="3602">Polymorphisms affecting gene transcription and mRNA processing in pharmacogenetic candidate genes: detection through allelic expression imbalance in human target tissues. Glucocorticoid receptor gene variant in the 3' untranslated region is associated with multiple measures of blood pressure. Cohort profile: risk patterns and processes for psychopathology emerging during adolescence: the ROOTS project. A comparison of classification methods for predicting Chronic Fatigue Syndrome based on genetic data. Glucocorticoid receptor gene haplotype structure and steroid therapy outcome in IBD patients. Association of FKBP5 gene haplotypes with completed suicide in the Japanese population. Glucocorticoid receptor polymorphism is associated with lithium response in bipolar patients.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4185]]
+    <blockquote>
+        <p class="text-snippet" data-id="4185">Located in the PSEN1 gene, rs63750306 represents the rare variant site where all three possible single nucleotide mutations are known and considered pathogenic. The c.436A>C is also known as p.Met146Leu or M146L; the c.436A>G mutation is also known as p.Met146Val or M146V; and the c.436A>T mutation is also known as p.Met146Leu or M146L.All three mutations are considered dominantly inherited pathogenic mutations leading to early-onset Alzheimer's disease and are listed in either ClinVar, OMIM and/or AlzForum.23andMe calls the A>T variant: i5047522The A>C variant is reported in  to be a "definitely" pathogenic mutation.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2652]]
+    <blockquote>
+        <p class="text-snippet" data-id="2652">rs3813928 (-995G>A / G-995A) is a SNP upstream of HTR2C. in a small sample of 45 autistic patients taking risperidone for up to one year,  HTR2A Rs6311 (-1438G>A), DRD3 rs6280 (Ser9Gly), HTR2C rs3813928 (995G>A) and ABCB1 rs1128503) (1236C>T) were predictive of risperidone response Identification of functional SNPs in the 5-prime flanking sequences of human genes. The association between HTR2C polymorphisms and obesity in psychiatric patients using antipsychotics: a cross-sectional study. The association between HTR2C gene polymorphisms and the metabolic syndrome in patients with schizophrenia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2429]]
+    <blockquote>
+        <p class="text-snippet" data-id="2429">Although not associated with increased risk for developing bipolar disorder, amongst those with it, the (G) allele of this SNP has been reported to have a somewhat protective effect in that individuals who have a (G) allele develop bipolar disorder at a later age than those with the more common (A;A) genotypes. PMID 15351432, PMID 14729229Also known as the -50T/C SNP from this GSK3-beta (GSK3B) gene.may effect lithium treatment response -  C allele carriers showed considerably greater response with lithium treatment, with remissions of 56.25% after 4 weeks compared to 31% for T/T carriers</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5152]]
+    <blockquote>
+        <p class="text-snippet" data-id="5152">rs3761847, a SNP located between two genes associated with chronic inflammation (TRAF1 and C5), is associated with increased risk of anti CCP-positive rheumatoid arthritis.The risk allele is (G); the odds ratio reported is 1.32 (95% confidence interval, 1.23 to 1.42; P=4x10-14) . rs3761847(G;G) associated with an increased risk of death (hazard ratio 3.96 95% confidence interval 1.24-12.6, P = 0.020) as compared with (A;A) homozygote status. The excess mortality was attributed to deaths due to malignancies and sepsis but not cardiovascular disease (CVD).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5390]]
+    <blockquote>
+        <p class="text-snippet" data-id="5390">rs33978901, also known as c.2771G>A, p.Arg924Gln and R924Q, is a SNP in the VWF gene on chromosome 12.The rarer rs33978901(T) allele (in dbSNP and SNPedia orientation) leads to reductions in VWF and FVIII levels particularly in combination with blood group O. Its inheritance alone may be insufficient for the diagnosis of Von Willebrand disease, but it does appear to be associated with a further VWF level reduction in individuals with a second VWF mutation and it also contributes to population variance in VWF and FVIII levels according to a 2010 publication.This SNP is referred to as i5049145 by 23andMe.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1661]]
+    <blockquote>
+        <p class="text-snippet" data-id="1661">829 Caucasian cases with primary epithelial ovarian cancer and 941 frequency-matched unaffected controls Three SNPs in DNMT3A were associated with risk among multivitamin supplement users:  3' untranslated region (UTR) C>G (rs13420827: OR, 0.8; 95% CI, 0.6-1.0; P interaction = 0.006; FPRP = 0.54) intron 6 G>A (rs11887120: OR, 0.8; 95% CI, 0.7-1.0; P interaction = 0.007; FPRP = 0.57) intron 22 A>T (rs11695471: OR, 1.2; 95% CI, 1.0-1.5; P interaction = 0.01; FPRP = 0.66)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q683]]
+    <blockquote>
+        <p class="text-snippet" data-id="683">rs4986852 is a SNP causing an amino acid change in the breast cancer 1 BRCA1 gene at amino position 1040. The more common rs4986852(G) allele encodes Ser, while the rare rs4986852(A) allele encodes Asn; this variation is also known as Ser1040Asn or S1040N.A well known study published in 1994 looked at 10 family pedigrees with breast cancer and ovarian cancer susceptibility, including 63 breast cancer patients, and discovered what they believed were seven putative disease-causing mutations. rs4986852 was one of these variants. However, ClinVar classifies this variant (c.3119G>A) as benign.  See also  Omim 113705.0011</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q833]]
+    <blockquote>
+        <p class="text-snippet" data-id="833">Self indentified personality patterns of children with facial or orthopedic disfigurement. Mutation pattern in the Bruton's tyrosine kinase gene in 26 unrelated patients with X-linked agammaglobulinemia. Analysis of Btk mutations in patients with X-linked agammaglobulinaemia (XLA) and determination of carrier status in normal female relatives: a nationwide study of Btk deficiency in Greece. Clinical and mutational characteristics of X-linked agammaglobulinemia and its carrier identified by flow cytometric assessment combined with genetic analysis. Identification of mutations of Bruton's tyrosine kinase gene (BTK) in Brazilian patients with X-linked agammaglobulinemia. Bruton's tyrosine kinase is not essential for LPS-induced activation of human monocytes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q146]]
+    <blockquote>
+        <p class="text-snippet" data-id="146">rs34599082, also known as c.265C>T, p.Arg89Cys and R89C, represents an uncommon variant in the DARC gene on chromosome 1, which is better known for it's role as part of the Duffy blood group (antigen) on red blood cells.Found in ~1% of the population, the rs34599082(A) allele (as represented in dbSNP/minus orientation) encodes the Duffy blood group FY(bwk) phenotype, which is also known as FY-weak. This allele results in lower amounts of DARC protein, and thus lower antigen expression and chemokine binding ability.This variant may offer some protection against infection by malaria.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2474]]
+    <blockquote>
+        <p class="text-snippet" data-id="2474">Genome-wide association study provides evidence for a breast cancer risk locus at 6q22.33. Breast cancer susceptibility loci and mammographic density. Breast cancer risk polymorphisms and interaction with ionizing radiation among U.S. radiologic technologists. Association between breast cancer susceptibility loci and mammographic density: the Multiethnic Cohort. Association between invasive ovarian cancer susceptibility and 11 best candidate SNPs from breast cancer genome-wide association study. Correcting "winner's curse" in odds ratios from genomewide association findings for major complex human diseases. Gene-environment interactions in 7610 women with breast cancer: prospective evidence from the Million Women Study. Combined effect of low-penetrant SNPs on breast cancer risk.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5396]]
+    <blockquote>
+        <p class="text-snippet" data-id="5396">rs10012946 is in linkage disequilibrium with a polymorphism that increases susceptibility to Type II Diabetes 1.15 times for carriers of the C allele  Testing of diabetes-associated WFS1 polymorphisms in the Diabetes Prevention Program. Association analysis of type 2 diabetes Loci in type 1 diabetes. Predicting type 2 diabetes based on polymorphisms from genome-wide association studies: a population-based study. Novel association of HK1 with glycated hemoglobin in a non-diabetic population: a genome-wide evaluation of 14,618 participants in the Women's Genome Health Study. Genome-based prediction of common diseases: methodological considerations for future research. The effect of multiple genetic variants in predicting the risk of type 2 diabetes.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1943]]
+    <blockquote>
+        <p class="text-snippet" data-id="1943">The c.3254_3257delCAGT variant in the FLG gene has not been reported previously as a pathogenic variant nor as a benign variant, to our knowledge. The c.3254_3257delCAGT variant causes a frameshift starting with codon Serine 1085, changes this amino acid to a Cysteine residue, and creates a premature Stop codon at position 36 of the new reading frame, denoted p.Ser1085CysfsX36. This variant is predicted to cause loss of normal protein function through protein truncation. The c.3254_3257delCAGT variant was not observed in approximately 6500 individuals of European and African American ancestry in the NHLBI Exome Sequencing Project, indicating it is not a common benign variant in these populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q187]]
+    <blockquote>
+        <p class="text-snippet" data-id="187">This  paper found significant association with rs2066702, the SNP that defines ADH1B 3, in African American families. Association was strongest with the ICD-10 definitions of alcoholism, with P=0.046 for PDTsum and 0.029 for PDTaverage; it was also significant for DSM-IV for PDTaverage (P=0.039). The high-risk allele was the C that encodes ADH1B 1, and the low-risk allele encodes ADH1B 3.A review of the (at times conflicting) findings regarding ADH1B genotypes and maternal and fetal alcohol syndromes is available. some African American and Native American populations, the ADH1B 3 allele (Arg369Cys in exon 9) is correlated with protection against alcoholism.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4042]]
+    <blockquote>
+        <p class="text-snippet" data-id="4042">rs2651899 is a SNP on ch 1p36.32 in the PRDM16 gene.A large GWAS study of over 5,000 patients with migraines and a meta-analysis concluded that this SNP was one of three influencing the condition, albeit with only slight risk increases on its own. The odds ratio for the slightly rarer rs2651899(G) allele was 1.11 (CI: 1.07 - 1.15, p = 3.8 x 10e-9).A 2013 study published by the American Headache Society reports significant influence of rs1835740, LRP1 rs11172113 and PRDM16 rs2651899 polymorphisms on migraine susceptibility in the Northern Indian population.   Genome-wide-associated variants in migraine susceptibility: a replication study from North India.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q99]]
+    <blockquote>
+        <p class="text-snippet" data-id="99">This SNP is in the ABO gene, and is therefore potentially useful in determing blood group type, such as through the use of genosets. This particular SNP can be useful in determining whether an ABO type A allele is more specifically an A1 type allele or an A2 type allele.The more common allele (80% of A types on average) is A1, consistent with having a rs55964869(C) allele, with the rarer A2 allele encoded by rs55964869(T).However, the key defining characteristic between an A1 and an A2 allele is the presence or absence of a deletion based on SNP rs8176750.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1174]]
+    <blockquote>
+        <p class="text-snippet" data-id="1174">One paper published in 2013 (and not replicated since then to our knowledge), titled "Born to Lead? A Twin Design and Genetic Association Study of Leadership Role Occupancy", performed a GWAS study that concluded that leadership role occupancy is associated with rs4950, a SNP in the neuronal acetylcholine receptor gene (CHRNB3). Individuals with the rs4950(T;T) genotype (as oriented in dbSNP and SNPedia) are statistically more likely (odds ratio ~1.5) to occupy leadership positions as compared to rs4950(C;T) or (C;C) individuals.Popular news about this finding includes: and/</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q376]]
+    <blockquote>
+        <p class="text-snippet" data-id="376">rs5742904, also known as c.10580G>A, p.Arg3527Gln, R3527Q or R3500Q, is a SNP in the APOB apolipoprotein B gene. Note an alternative allele, c.10580G>T, which is also considered pathogenic.The risk allele is T according to 23andMe, which tests for this SNP in regard to familial hypercholesterolemia type B. In SNPedia, where we use the orientation as defined by dbSNP, the risk allele is rs5742904(A). This variant is considered to the most frequent APOB gene FH mutation in Caucasians.For a clinical case discussion of this SNP, see 'Clinical Case 2' within Box 1 of .Familial Hypercholesterolemia Type B</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q875]]
+    <blockquote>
+        <p class="text-snippet" data-id="875">rs142951029, also known as c.245A>G, p.Lys82Arg and K82R, is a variant in the CALR3 gene on chromosome 19. This is a very rare variant, seen only 69 times out of 121142 alleles in  ExAC, with 0 homozygotes observed and a MAF of 0.000568.A (single) report published in 2007 concluded that the very rare rs142951029(C) variant led to Familial hypertrophic cardiomyopathy, type 19. Subsequent analyses have cast doubt on this conclusion, with a 2013 review concluding this variant is likely to be benign.If you are aware of new evidence for or against the pathogenicity of this variant, please contact us.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4708]]
+    <blockquote>
+        <p class="text-snippet" data-id="4708">Associated with schizophrenia in a study of Croatians. Due to the limited number and diversity of the studied population, more study is needed to confirm any link. The T allele was associated with an increased risk of schizophrenia. A network of dopaminergic gene variations implicated as risk factors for schizophrenia. Family based association study of pediatric bipolar disorder and the dopamine transporter gene (SLC6A3). Genome-wide and candidate gene association study of cigarette smoking behaviors. Financial and psychological risk attitudes associated with two single nucleotide polymorphisms in the nicotine receptor (CHRNA4) gene. Two loci control tuberculin skin test reactivity in an area hyperendemic for tuberculosis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q125]]
+    <blockquote>
+        <p class="text-snippet" data-id="125">rs77931234, also known as c.985A>G, p.Lys329Glu and K329E, and due to numbering differences also c.997A>G, p.Lys333Glu, and K304E, is an infrequent mutation in the ACADM gene on chromosome 1. Homozygote minor or compound heterozygote mutation involving this mutation leads to the inborn error of metabolism medium-chain acyl-coenzyme A dehydrogenase deficiency, aka MCAD deficiency. This particular mutation (rs7791234C) is the common MCADD mutation among Northern European Caucasians, being present in about 80% of Caucasian individuals who presented clinically with MCADD and in 60% of the population identified by screening.See also OMIM  607008.0001FTDNA & MyHeritage name: VG01S107723andMe name: i5012759</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1201]]
+    <blockquote>
+        <p class="text-snippet" data-id="1201">rs12708716 has been reported in a large study to be associated with type-1 diabetes.The risk allele (oriented to the dbSNP entry) is (A); the odds ratio associated with heterozygotes is 1.19 (CI 0.97-1.45), and for homozygotes, 1.55 (CI 1.27-1.89). In an expanded follow-up study of >6,000 controls and 6,000 patients, the heterozygote odds ratio for this SNP was recalculated to be 0.81 (CI 0.77-0.86).  Tested in a large multiple sclerosis data set consisting of 2369 trio families, 5737 cases and 10 296 unrelated controls, SNP rs12708716 was associated with disease risk (p = 1.6 x 10e-16)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4879]]
+    <blockquote>
+        <p class="text-snippet" data-id="4879">rs4796793, a SNP in the 5' region of the signal transducer and activator 3 STAT3 gene, has been linked in a study of 75 Japanese patients to (successful) response to interferon-alpha immunotherapy for metastatic kidney cancer. From this paper :"... rs4796793 was the most significant predictor of IFN-alpha response (odds ratio OR = 2.73; 95% CI, 1.38 to 5.78). The highest OR was shown in the (C;C) genotype ... compared to the (G;G) + (G;C) genotypes (OR = 8.38, 95% CI, 1.63 to 42.96)."</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1]]
+    <blockquote>
+        <p class="text-snippet" data-id="1">rs28936679, also known as Ala129Thr or A129T (and also G619A), is a SNP in the aralkylamine N-acetyltransferase AANAT gene. The AANAT protein plays a unique role in vertebrate biology by controlling rhythmic production of melatonin in the pineal gland. Its activity increases 10- to 100-fold at night, leading to increased production and release of melatonin.In a 2003 report about Japanese patients with a sleep disorder known as susceptibility to delayed sleep phase syndrome, patient genotypes had a higher frequency of the rs28936679(A) allele.A later report based on Brazilian (primarily Caucasian) patients including those with delayed sleep phase syndrome found no variation at this SNP.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1752]]
+    <blockquote>
+        <p class="text-snippet" data-id="1752">rs137854448, also known as c.416C>T, p.Pro139Leu and P139L, represents a rare variant in the ELANE gene on chromosome 19.The rs137854448(T) variant is reported in ClinVar by a single submitter to be a dominant mutation leading to severe congenital neutropenia, type 1. However, we (SNPedia) are now been informed by several  Promethease users with 23andMe-based data indicating they carry this mutation, yet, who have no any signs or history of any form of neutropenia. Therefore, at this time it is unclear if this variant really is disease-causing, or, if 23andMe may be prone to mistyping this genotype.23andMe name: i3002703</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1831]]
+    <blockquote>
+        <p class="text-snippet" data-id="1831">Affects heart disease risk for both men and women, based on a study of two Finnish population cohorts (HR = 1.31 (1.08-1.60) for CVD, uncorrected p = 0.006 multiplicative model). A meta-analysis of publications through July 2009, totaling 4,386 cases (vs 40,089 controls) concluded that apart from a very weak association with myocardial infarction for the rs1801020 (T;T) + (C;T) compared with (C;C) genotype, (odds ratio 1.13, CI: 1.00 - 1.27), the evidence for an association between F12 -4C>T and venous thromboembolism and myocardial infarction was weak.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1555]]
+    <blockquote>
+        <p class="text-snippet" data-id="1555">rs2108622 is a SNP in the cytochrome P450, family 4, subfamily F, polypeptide 2 CYP4F2 gene. In the males rs2108622(G) was significantly higher in cerebral infarction patients (P = 0.025) A study of Italian patients concluded that rs2108622(T;T) patients require 5.49 mg/day of warfarin versus 2.93 mg/day for (C;C) patients. Analysis of variance indicates that about 7% of mean weekly warfarin dose variance is explained by CYP4F2 genotype. A study of 370 Brazilian ("admixed") patients concludes that prospective CYP4F2 genotyping is of little value to these patients, presumably due to ethnic-based differences.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q251]]
+    <blockquote>
+        <p class="text-snippet" data-id="251">rs3803304 is an intronic SNP in the AKT1 gene.rs3803304 was significantly associated with longevity in a meta-analysis across three cohorts (odds ratio 0.78, CI: 0.68-0.89, adjusted p=0.043).  An inverse association towards longevity was seen in those homozygous for the minor allele, with these subjects being underrepresented among long-lived (≥92 years old) cases (OR=0.41-0.5, p=0.00016).  No significant association was seen in heterozygous subjects, suggesting a recessive pattern of effect.  The authors postulate that rs3803304's effects may result from disruptions with an RNA regulatory mechanism, based upon its close proximity to a conserved exon-intron boundary in an area of high predicted regulatory potential.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q363]]
+    <blockquote>
+        <p class="text-snippet" data-id="363">rs587782557, also known as c.426_427delAT or p.Leu143Alafs, represents a rare mutation in the APC gene on chromosome 5.First discovered in 1993 (, the mutant form of this variant is considered to lead to a dominantly inherited form of attentuated familial polyposis. In 2007, a publication showed based on two large AFAP kindreds that this mutation was linked back to a founding couple who came to America from England around 1630, and who in modern day America are likely to have many descendants, including several current kindreds among Mormons in Utah.A magazine article focusing primarily on the historic use of Mormon genealogical records to uncover this mutation was published / here in 2017.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2776]]
+    <blockquote>
+        <p class="text-snippet" data-id="2776">Epistatic interactions between HLA-DRB1 and interleukin 4, but not interferon-gamma, increase susceptibility to giant cell arteritis. No evidence of association or interaction between the IL4RA, IL4, and IL13 genes in type 1 diabetes. Lack of association or interactions between the IL-4, IL-4Ralpha and IL-13 genes, and rheumatoid arthritis. Variants in inflammation genes and the risk of biliary tract cancers and stones: a population-based study in China. Genetic evidence for the aggravation of Plasmodium falciparum malaria by interleukin 4. Evaluation of genetic susceptibility to childhood allergy and asthma in an African American urban population. Differences in candidate gene association between European ancestry and African American asthmatic children.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2898]]
+    <blockquote>
+        <p class="text-snippet" data-id="2898">The K/k blood group arises from a point mutation in rs8176058, based on an amino acid change from threonine 193 (in the k antigen) to methionine 193 (in the K antigen) in the Kell glycoprotein. The K antigen is more potent at triggering an immune reaction than the k antigen. the cDNA level, the change is represented by c.578C>T, or in some older literature, c.698C>T. The c.578C allele leads to the threonine (k antigen), and the c.578T allele to the methionine (K antigen). DNA-based methods in the immunohematology reference laboratory. Molecular basis of the Kell (K1) phenotype.Non-ABO Blood Groups</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2758]]
+    <blockquote>
+        <p class="text-snippet" data-id="2758">SNP rs2201841, in the IL23R gene, is associated with increased risk for Crohn's disease in both Jewish and non-Jewish populations. Another study found that the "A allele" and "AA genotype" were significantly overrepresented in Graves' disease patients with Graves ophthalmopathy, based on 216 North American patients. The odds ratios reported were 2.04 for the allele (p=1x10<sup>-4</sup>), and for the so-called "AA" genotype (presumably rs2201841(T;T) when correctly oriented to the dbSNP orientation), 2.4 (p=1x10<sup>-4</sup>)./ 23andMe blog psoriasis Europeans rs2201841(G) 1.13x risk</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4172]]
+    <blockquote>
+        <p class="text-snippet" data-id="4172">rs63749824, also known as c.236C>T, A79V or Ala79Val, is a SNP in the presenilin 1 PSEN1 gene.Inherited as an autosomal dominant, the rare rs63749824(T) allele is considered pathogenic for late-onset Alzheimer's disease.Reported in  to be a "definitely" pathogenic mutation. However, they note that this variant seems to be associated with a later onset compared to other PSEN1 variants, and, it has been found in several families with late-onset AD. This suggests that this mutation spans a large range of age of onsets (53–78 y), which the authors state "could lead to underestimation of its frequency and is of importance for genetic counseling".</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5228]]
+    <blockquote>
+        <p class="text-snippet" data-id="5228">aka c.3310C>G (p.Pro1104Ala or P1104A)Inherited recessively, this variant appears to greatly increase (OR 89.3, CI: 14.7 - 1725, p=8.3x10e-8) the risk of developing tuberculosis according to a 2018 study, if the carrier of the minor homozygote genotype is exposed to the tuberculosis mycobacterium. The mechanism by which this occurs led to the suggestion that at-risk individuals could potentially prevent or treat the disease with gamma-interferon.In Europeans, one in 600 people have two copies of the rs10352442(C) variant (which is the c.3310(G) variant), and in the rest of the world, the rate is estimated to be between one in 1,000 to one in 10,000./</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3409]]
+    <blockquote>
+        <p class="text-snippet" data-id="3409">The rare minor allele of this variant is reported to be pathogenic/likely pathogenic for familial hypertrophic cardiomyopathy (HCM), according to . A Next-Generation Sequencing Approach to Identify Gene Mutations in Early- and Late-Onset Hypertrophic Cardiomyopathy Patients of an Italian Cohort. Targeted next-generation sequencing helps to decipher the genetic and phenotypic heterogeneity of hypertrophic cardiomyopathy. A founder MYBPC3 mutation results in HCM with a high risk of sudden death after the fourth decade of life. Abnormal cardiac formation in hypertrophic cardiomyopathy: fractal analysis of trabeculae and preclinical gene expression. Unexpectedly low mutation rates in beta-myosin heavy chain and cardiac myosin binding protein genes in Italian patients with hypertrophic cardiomyopathy.Myosin binding protein C mutations and compound heterozygosity in hypertrophic cardiomyopathy.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1886]]
+    <blockquote>
+        <p class="text-snippet" data-id="1886">rs2427837 is a SNP in the gene encoding the alpha chain of the high affinity receptor for IgE (FCER1A) on chromosome 1q23. High levels of serum IgE are associated with allergies, and are mediators of autoimmune diseases.An examination of over 11,000 Germans led to the conclusion that rs2427837 (and one other FCER1A SNP, the tightly linked rs2251746) were strongly associated with high levels of serum IgE. The more common (G) allele was associated with higher serum IgE, and the effect appeared to be additive. Therefore, homozygous rs2251746(G;G) individuals may be at higher risk for atopic eczema and asthma than carriers of one or two (A) alleles.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1502]]
+    <blockquote>
+        <p class="text-snippet" data-id="1502">rs6413432 is a SNP in the CYP2E1 gene.The rs6413432(A) allele defines the CYP2E1_marker9 variant, as used in the 2008 study determining the 16 most common CYP2E1 haplotypes world-wide.(see CYP2E1 for details) Dietary phytoestrogen intake is associated with reduced colorectal cancer risk. Genotype and allele frequencies of polymorphic CYP2E1 in the Turkish population. Genotyping panel for assessing response to cancer chemotherapy. Global patterns of variation in allele and haplotype frequencies and linkage disequilibrium across the CYP2E1 gene. Red meat intake, doneness, polymorphisms in genes that encode carcinogen-metabolizing enzymes, and colorectal cancer risk. Genetic variants involved in gallstone formation and capsaicin metabolism, and the risk of gallbladder cancer in Chilean women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3668]]
+    <blockquote>
+        <p class="text-snippet" data-id="3668">rs8069176 is one of several SNPs from a region on chromosome 17q21 that has been linked to risk for asthma.A total of 651 French patients with asthma, from among 1,621 subjects in 388 families, were analyzed for SNPs in the (17q21) region. An association was found between this SNP and early-onset asthma (but not with later onset asthma) which was significant after correction at p < 0.001. Upon further study, this association was seen primarily only in children exposed to tobacco smoke. The odds ratio was 2.9, based on the most likely assumption that this risk is associated only with the recessive homozygous state (and not the heterozygous state, which is still possible).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1150]]
+    <blockquote>
+        <p class="text-snippet" data-id="1150">rs5770917, a SNP located between the CPT1B and CHKB genes, was associated with narcolepsy in study of 222 Japanese individuals with narcolepsy and 389 Japanese controls, with replication of top hits in 159 Japanese individuals with narcolepsy and 190 Japanese controls, followed by the testing of 424 Koreans, 785 individuals of European descent and 184 African Americans. The risk allele rs5770917(C) had an odds ratio of 1.79 (p = 4.4 x 10e-7) in Japanese subjects and an odds ratio of 1.40 (p = 0.02) in other ancestry groups.Note that rs5770917 is in tight linkage (r2 > 0.93) with several nearby SNPs: rs2269382 and rs2269381.HLA-DQB1 0602 and relevance to Narcolepsy related to vaccination</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5046]]
+    <blockquote>
+        <p class="text-snippet" data-id="5046">rs63750743, also known as Ser358Leu or S358L, is a SNP in the TMEM43 gene on chromosome 3.Carrying a single rs63750743(T) allele is reported to lead, sooner or later, to arrhythmogenic right ventricular dysplasia type 5 (ARVD5).This variant meets the criteria published in 2013 by the ACMG regarding incidental findings in exome or genome sequencing, as a variant that they do recommend informing a patient about. Without naming the company that produced the data, this paper cites one example of a false positive finding for this SNP in direct-to-consumer genotyping data. Arrhythmogenic right ventricular cardiomyopathy type 5 is a fully penetrant, lethal arrhythmic disorder caused by a missense mutation in the TMEM43 gene.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3665]]
+    <blockquote>
+        <p class="text-snippet" data-id="3665">rs4795400 is one of several SNPs from a region on chromosome 17q21 that has been linked to risk for asthma.A total of 651 French patients with asthma, from among 1,621 subjects in 388 families, were analyzed for SNPs in the (17q21) region. An association was found between this SNP and early-onset asthma (but not with later onset asthma) which was significant after correction at p < 0.001. Upon further study, this association was seen primarily only in children exposed to tobacco smoke. The odds ratio was 2.5, based on the most likely assumption that this risk is associated only with the recessive homozygous state (and not the heterozygous state, which is still possible).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2632]]
+    <blockquote>
+        <p class="text-snippet" data-id="2632">rs1328674 is part of a 4-SNP haplotype in the serotonin 2A receptor gene HTR2A that has been associated with rheumatoid arthritis in a study of 1800 European patients. The risk allele is rs1328674(A) in dbSNP orientation. The overall risk for the haplotype CTCC of SNPs rs6311-rs1328674-rs6313-rs6314 is 1.68 (CI: 1.20 - 2.34, p = 0.02). This is actually quite close to the odds ratio calculated for rs1328674 by itself; OR of 1.62 (p = 0.007). Note: the orientation of rs1328674 in dbSNP is opposite that cited by this publication; therefore, with respect to dbSNP, the haplotype of risk as cited above should be CACC, rather than CTCC as published.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4471]]
+    <blockquote>
+        <p class="text-snippet" data-id="4471">rs17580, also known as the S or PiS allele, is a SNP in the SERPINA1 gene.Levels of alpha-1 antitrypsin (encoded by the SERPINA1 gene) may be reduced in carriers of the rs17580(T) allele, but there is no known association with liver disease or cystic fibrosis. The rs17580 PiS variant is most associated with risk of developing COPD, especially in smokers, but it's association with emphysema is variable. See rs28929474 for the most common pathologic SNP (PiZ) in the SERPINA1 gene.Due to orientation, be careful when interpreting results for this SNP which is an ambiguous flip. a relatively small study of 182 patients found no association between rs17580 and risk for cholangiocarcinomaAlpha-1 Antitrypsin Deficiency</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3032]]
+    <blockquote>
+        <p class="text-snippet" data-id="3032">rs10455872, was associated with about 1.5-fold increased risk of Coronary Heart Disease. celera Genetic variation in LPAL2, LPA, and PLG predicts plasma lipoprotein(a) level and carotid artery disease risk. Lipoprotein(a) genetic variants associated with coronary and peripheral vascular disease but not with stroke risk in the Heart Protection Study. Single-nucleotide polymorphisms in LPA explain most of the ancestry-specific variation in Lp(a) levels in African Americans. Variation in LPA is associated with Lp(a) levels in three populations from the Third National Health and Nutrition Examination Survey. Cost-effectiveness model of use of genetic testing as an aid in assessing the likely benefit of aspirin therapy for primary prevention of cardiovascular disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2341]]
+    <blockquote>
+        <p class="text-snippet" data-id="2341">The rare minor allele of this variant is reported to be pathogenic/likely pathogenic for familial hypertrophic cardiomyopathy (HCM), according to .However, multiple submitters also indicate that the significance of this variant is really unclear at this time. The following statement by Invitae in ClinVar summarizes the situation very clearly: "In summary, this variant has been seen in many patients described with a milder Fabry disease phenotype and causes reduced alpha-galactosidase enzyme activity. However, this variant occurs at an appreciable frequency in population databases, asymptomatic adult relatives have been identified, and most patient do not have evidence of storage on tissue biopsy. For these reasons, this change has been classified as a Variant of Uncertain Significance."</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2461]]
+    <blockquote>
+        <p class="text-snippet" data-id="2461">rs33930165 is a relatively rare SNP found in the beta hemoglobin HBB gene, adjacent to the well-known SNP associated with malarial resistance (rs334). This SNP gives rise to the "Hb C", or hemoglobin C, form of hemoglobin as the HBB forms are commonly named. It is found primarily in a subset of West Africa.rs33930165 is associated with increased malarial resistance, yet without giving rise to sickle cell anemia. A study of 4,000+ individuals in Burkina Faso found that rs33930165(A;G) heterozygotes had a 29% reduction in risk of clinical malaria (p = 0.0008), and rs33930165(C;C) homozygotes had a 93% reduction (p = 0.0011).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q194]]
+    <blockquote>
+        <p class="text-snippet" data-id="194">rs1800759 is a SNP in the promoter (regulatory region) of the alcohol dehydrogenase 4 (ADH4) gene.In a study of 500+ patients with either alcohol dependence or drug dependence, rs1800759 was the most significant ADH4 SNP to be associated (in a recessive manner) with increased risk for either condition, at least in Caucasians.In another study, a five-factor model of personality traits |personality in 243 subjects with substance dependence (175 European Americans EAs and 68 African Americans AAs), along with 296 healthy control subjects (256 EAs and 40 AAs), was conducted in association with an ADH4 SNP survey. rs1800759(A) alleles and (A;A) genotypes A/A were significantly associated with agreeableness scores.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1418]]
+    <blockquote>
+        <p class="text-snippet" data-id="1418">Associations between CYP2B6 polymorphisms and pharmacokinetics after a single dose of nevirapine or efavirenz in African americans. Univariate/multivariate genome-wide association scans using data from families and unrelated samples. CYP2B6 variants and plasma efavirenz concentrations during antiretroviral therapy in Port-au-Prince, Haiti. Tests of association for quantitative traits in nuclear families using principal components to correct for population stratification. Family-based bivariate association tests for quantitative traits. A comparative study of three methods for detecting association of quantitative traits in samples of related subjects. Family-based genome-wide association study for simulated data of Framingham Heart Study. The Genetic Analysis Workshop 16 Problem 3: simulation of heritable longitudinal cardiovascular phenotypes based on actual genome-wide single-nucleotide polymorphisms in the Framingham Heart Study. Correlated genotypes in friendship networks.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q624]]
+    <blockquote>
+        <p class="text-snippet" data-id="624">rs113993962 is a variant in the RECQL3 gene causing Bloom syndrome, and this particular SNP accounts for >95% of such cases in the Ashkenazi population. Note that this variation is somewhat complex, in that it represents a deletion of 6 bases along with an insertion of 7 bases at the same site. The terminology used in dbSNP (and here in SNPedia) indicates the normal allele as having the six bases ATCTGA, whereas the abnormal allele is shown only as a deletion of these six bases, without indicating the insertion. See also  OMIM 604610.0001.23andMe name: i4000396 However, note that the (D;D) genotype represents the normal genotype as reported for this i-SNP (contrary to convention)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5423]]
+    <blockquote>
+        <p class="text-snippet" data-id="5423">A form of this snp, located upstream of the XPNPEP2 gene on the X chromosome, may cause susceptibility to angioedema|skin swelling when taking medicines called ACE Inhibitors. Also known as -2399C/A in the literature; however in SNPedia, where the orientation of the corresponding dbSNP entry is recognized as primary, this is G/T.  After noticing the association of this SNP with the phenotype, the authors genotyped 20 independent AE-ACEi cases and 60 unrelated, matching controls for this SNP. The T allele was present in 8 of the 20 AE patients; and by allele counting, the T allele was found at a frequency of 11.1% in the control population and 27.3% in their AE-ACEi cases.  See also  OMIM 300145</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3786]]
+    <blockquote>
+        <p class="text-snippet" data-id="3786">rs28362286, also known as C679X, is a SNP in the PCSK9 gene.It has been reported in several studies (including ) to be both rare (2% frequency in Africans, 0.1% in Europeans) and as a dominant nonsense mutation a cause of plasma LDL-C levels being up to 40% lower than average. This lowered LDL-C level is thought to be directly associated with very significantly lowered risk for coronary events./ 23andMe blog The T version of rs11591147 and the A version of rs28362286 have both been associated with decreased LDL levels.  Each copy of these variants leads to lower LDL cholesterol. Longitudinal association of PCSK9 sequence variations with low-density lipoprotein cholesterol levels: the Coronary Artery Risk Development in Young Adults Study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4774]]
+    <blockquote>
+        <p class="text-snippet" data-id="4774">SNPs in the SNAP25 gene were initially  linked to intelligence but have failed to replicate .While now suspect, the original work can be found in .The (T;T) genotype averages almost 3 PIQ points higher than the (C;T) genotype, which averages almost 3 PIQ points higher than the (C;C) genotype.rs353016 is in close linkage with rs363050, with r2 = 0.98, such that the rs363050(A) allele typically is linked to the rs353016(T) allele. For SNPs rs363039 - rs363043 - rs353016, respectively, the haplotype C-T-T is most associated with higher intelligence in children, whereas the haplotype C-C-T is most associated in adults (SNPs oriented as in dbSNP).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4166]]
+    <blockquote>
+        <p class="text-snippet" data-id="4166">is research done at Washington University in St Louis Missouri.  They have discovered a presenilin1 gene variation that appears to increase the Alzheimer's risk of an APO E3/E4 individual to that of an APO E4/E4 individual.  They are trying to discover why at least a third of people with Alzheimer's disease do not have the an APO E4 allele, and why some people who are homozygotes for APO E4 do not get the disease.  Certain mutations are being discovered (not just this) that may help explain why.  Note that these initial studies should be confirmed in other studies. Did not find any statistically significant association between rs17125721 (E318G) and APOE4, however, study may have been "underpowered".</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2736]]
+    <blockquote>
+        <p class="text-snippet" data-id="2736">May modulate other variations. Also known as the +2018T/C SNP.In a study of 113 Japanese patients with chronic periodontitis (CP), individuals with the rs419598(C) allele are at 0.29x lower CP risk (p = 0.016).IL1B -511 allele heterozygotes have a 4 fold higher chance of surviving bacterial meningitis than (either) homozygote . SO what's this have to do with rs419598? Odds of surviving meningitis apparently further increase 2X for IL1B -511 heterozygotes who are also rs419598(T;T), i.e. homozygous for IL1RN +2018 rs419598 (T) allele (the most common one; also known as "+8006"). Radiographic severity of knee osteoarthritis is conditional on Interleukin 1 Receptor Antagonist gene variations</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q526]]
+    <blockquote>
+        <p class="text-snippet" data-id="526">This SNP, also known as S707P, a variant in the ATM gene, is 1 of 25 SNPs reported to represent independently minor, but cumulatively significant, increased risk for breast cancer. For details of all 25 SNPs in this group, along with the two methods used to calculate overall risk estimates for breast cancer, refer to the SNPedia breast cancer entry.For this particular SNP, the risk (minor) allele is (C).Another large meta-analysis published in 2011, comprising 26,000+ breast cancer cases and almost 30,000 controls from 23 studies in the Breast Cancer Association Consortium, found average odds ratios of 1.05 for heterozygotes and 1.51 for homozygotes of each of 5 ATM gene SNPs, of which this is one.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4611]]
+    <blockquote>
+        <p class="text-snippet" data-id="4611">rs1050152, a SNP in the SLC22A4 gene known as L503F, has been associated with an autoimmune disease, in this case, Crohn's disease, odds ratio = 2.1 (CI = 1.31&#226;&#8364;&#8220;3.39, p = 0.002), based on a study of 203 cases and 200 controls. The risk allele is rs1050152(T).A nearby SNP (rs2631367) in the promoter region of the SLC22A5 gene defines a haplotype along with rs3792876, with odds ratio reported as similar for either SNP or the haplotype. Referring to the TC risk haplotype, the population risk attributable to heterozygotes was 19%, and for homozygous haplotype carriers, 27%.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4682]]
+    <blockquote>
+        <p class="text-snippet" data-id="4682">rs61742739, also known as c.1961A>G, p.Asn654Ser and N654S, represents a rare variant in the SLC5A2 gene on chromosome 16.Mutations in the SLC5A2 gene are reported to cause a familial form of renal glycosuria, with both dominant and recessive forms of inheritance reported. The rs61742739(G) allele was reported along with another SLC5A2 mutation in a patient with glycosuria, implying it is recessive, which was also consistent in that the patient's parents, one of whom was heterozygous for rs61742739(G), were not reported as having glycosuria.However,  GET-Evidence states that some authors believe this variant is nonpathogenic. The literature cited is consistent with this variant being either benign or recessive (and possibly of variable penetrance).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4454]]
+    <blockquote>
+        <p class="text-snippet" data-id="4454">aka c.2971G>T (p.Val991Leu or V991L); however, in older literature, it is called c.3312G>T, Val1104L and V110L because that was how it was named in one of the earliest publications describing it The variant allele for this SNP is apparently tightly linked to the variant allele for rs12478318. There are at least two publications in which the complex allele carrying both variants is reported to be associated with congenital insensitivity to pain (CIP) and/or lower post-operative pain following surgery.However, there is also a report of a patient carrying this complex allele who had a small fiber neuropathy and increased pain. It is unclear how this can be reconciled with the reports of decreased pain associated with this complex allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1897]]
+    <blockquote>
+        <p class="text-snippet" data-id="1897">A 2017 study of ~6,500 individuals with detailed eating records concluded that the rs838133(T) allele (in SNPedia and dbSNP orientation) increased the odds ratio (OR) of being in the top 33% of people for total intake of all types of sweet-tasting foods, with an OR of 1.18 per T-allele (CI: 1.06–1.32, p = 0.003). When sweet intake was divided into “candy” and “cake,” individuals carrying the T-allele had higher candy intake (OR 1.19, CI: 1.07–1.32, p = 0.0007), whereas intake of cake was the same regardless of rs838133 genotype.  “Genetic associations with traits in 23andMe customers.” 23andMe White Paper./ Salty or sweet - 23andMe blog entry</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q798]]
+    <blockquote>
+        <p class="text-snippet" data-id="798">This variant represents the BRCA2 gene 6174delT mutation. As reported by 23andMe, the normal genotype is (I;I), which is also abbreviated II. The genotypes containing the causal/pathogenic variants are (D;I) and the even rarer (D;D).For information about causal/pathogenic BRCA2 mutations and what they imply about the odds of developing breast cancer, please see the BRCA2 page and links from that page.i4000379 is the identifier used by 23andMe for the 6174delT mutation that is rs80359550 as identified in public SNP databases.Additional BRCA information may be found in numerous places online, and within 23andMe, / here.In addition to i4000379, the other names used by 23andMe for the most common causal mutations are i4000377 and i4000378.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5049]]
+    <blockquote>
+        <p class="text-snippet" data-id="5049">rs855791, also known as V736A, is a SNP in the transmembrane protease, serine 6 TMPRSS6 gene.2 studies totaling over 17,000 individuals have linked this SNP to various blood parameters, including iron status, erythrocyte volume, and hemoglobin levels.PMID 19820699, PMID 19820698/ 23andMe blog  each rs855791(T) and each rs198846(G) led to an approximately 0.1 gram per deciliter (g/dL) decrease in hemoglobin levels. rs1799945(C) is a proxy for rs198846(G). Genetics and genomics of human ageing. Association of TMPRSS6 polymorphisms with ferritin, hemoglobin, and type 2 diabetes risk in a Chinese Han population. TMPRSS6, but not TF, TFR2 or BMP2 variants are associated with increased risk of iron-deficiency anemia.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2924]]
+    <blockquote>
+        <p class="text-snippet" data-id="2924">SNP rs8702, located in the KLC1 gene, has been reported to have a protective effect against the occurrence of multiple sclerosis. Specifically, the odds of a rs8702(G;G) individual - as oriented to the dbSNP entry, not as published - are reported to be 0.21 (CI: 0.018 - 0.88). A study of ~800 Swedish patients with Alzheimer's disease did not find an association to rs8702  independently, however, rs8702 interacted with ApoE4 carrier status in AD (p=0.006). Variability in the kinesin light chain 1 gene may influence risk of age-related cataract. Gene-environmental effects behind leukoaraiosis: a silent genetic variant of the kinesin protein can be activated in a subject with poorly controlled long-lasting hypertension.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1136]]
+    <blockquote>
+        <p class="text-snippet" data-id="1136">rs521102, also known as IVS11 +35, G>A, is a SNP in the CHEK1 gene.In a study of 119 American patients with potentially resectable pancreatic cancer, the rs521102(T) allele was associated with poorer overall survival (ie response) to combined gerncitabine radiation therapy. Also, as 1 of 3 SNPs its risk allele is associated with poorer overall survival for pancreatic cancer patients being treated with combined gerncitabine radiation therapy; median overall survival times of 31.0, 16.2, and 10.5 months were calculated for pancreatic cancer patients carrying < or = 1, 2, and 3 risk alleles from rs664143(C), rs2227928(C), and rs521102(T;T), respectively (P=0.004).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1847]]
+    <blockquote>
+        <p class="text-snippet" data-id="1847">Genome-wide association study of plasma polyunsaturated fatty acids in the InCHIANTI Study. Genetic determinants of circulating sphingolipid concentrations in European populations. Single nucleotide polymorphisms in the FADS gene cluster are associated with delta-5 and delta-6 desaturase activities estimated by serum fatty acid ratios. FADS genetic variants and omega-6 polyunsaturated fatty acid metabolism in a homogeneous island population. Genetic variation in lipid desaturases and its impact on the development of human disease. Genetic variation of the FADS1 FADS2 gene cluster and n-6 PUFA composition in erythrocyte membranes in the European Prospective Investigation into Cancer and Nutrition-Potsdam study. FADS1 genetic variability interacts with dietary alpha-linolenic acid intake to affect serum non-HDL-cholesterol concentrations in European adolescents. FADS gene variants modulate the effect of dietary fatty acid intake on allergic diseases in children.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q20]]
+    <blockquote>
+        <p class="text-snippet" data-id="20">A 2013 meta-analysis comprising a total of ~2,000 African-Americans with late-onset Alzheimer's disease found that rs115550680(G) was associated with higher risk for the disorder in this population (OR 1.79, CI: 1.47-2.12, p = 2.2 × 10e-9). This SNP was is in (80-90%) linkage disequilibrium with SNPs previously associated with Alzheimer disease in Europeans.In 2016, a publication reported that a 44-base pair deletion (rs142076058) co-segregated with both Alzheimer's and rs115550680(G).This deletion is common in African-American Alzheimer cases (15.2%) and controls (9.74%), but is rare (0.12%) in a non-Hispanic white cohort. The deleted allele could result in defective protein function and be an ethnic-specific pathogenic alteration.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4426]]
+    <blockquote>
+        <p class="text-snippet" data-id="4426">rs1672879 is a SNP in the scavenger receptor class B, member 1 SCARB1 gene which encodes a cholesterol membrane transporter.A study including African (n = 914), Hispanic (n = 464), and European (n = 1203) American postmenopausal women from the Women&#8217;s Health Initiative assessed SNP associations and serum concentrations of lycopene. In the  resulting meta-analysis, rs1672879(C) allele, as oriented in dbSNP, was associated with lycopene concentrations (p < 2.68 &#215; 10e&#8722;9), with each C allele resulting in a 12% decrease in lycopene concentrations for African Americans, a 20% decrease for Hispanic Americans, and a 9% decrease for European Americans.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2845]]
+    <blockquote>
+        <p class="text-snippet" data-id="2845">rs3748079 is a SNP in the promoter region of the ITPR3 gene; it is also known as -1990C>T.rs3748079 has been linked to increased risk for systemic lupus erythematosus (SLE) in two independent Japanese case-control samples (p=0.0000000178 with odds ratio of 1.88, CI:1.51-2.35). Individuals with risk genotypes of both rs3748079 and rs3095870, in the ITPR3 and NKX2.5 genes, respectively, have even high risk for SLE (odds ratio 5.77).This particular SNP also revealed associations with rheumatoid arthritis (RA) (p=0.0084 with odds ratio of 1.23, CI:1.05-1.43) and with Graves' disease (GD) (p=0.00036 with odds ratio of 1.57, CI:1.22-2.02).Note that the orientation of this SNP as published is reversed compared to the dbSNP entry.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1216]]
+    <blockquote>
+        <p class="text-snippet" data-id="1216">Also known as M1316V or p.Met1316Val, rs1061325 represents a common variant in the clathrin heavy chain like 1 CLTCL1 gene on chromosome 22. The (T) allele is associated with the Met (M) codon, and the (C) with Val (V), as represented on the forward/plus strand.A 2019 publication gathered a fair amount of attention in the popular press by speculating that the V1316 allele has a selective advantage in processing carbohydrate-rich diets (presumably including those with lots of sugar) of farmers compared to the M1316 allele found at somewhat higher frequencies in hunter-gatherers (who theoretically consume fewer carbs). The authors suggest that heterozygotes may have a selective advantage, with M1316 homozygotes presumably most prone to developing insulin resistance on modern diets.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3622]]
+    <blockquote>
+        <p class="text-snippet" data-id="3622">Rs926103 is located within the SH2D2A gene on Chromosome 1. SH2D2A encodes an adapter protein thought to function in T-cell signal transduction. A study in the Journal for Neuroimmunology reported that 16 repeats repeat of GA after the (A;A) allele at this SNP is associated with multiple sclerosis in Norwegian, Danish and Swedish sample sets. The study concludes that the SH2D2A gene may contribute to susceptibility to MS. This study has yet to be verified or reproduced in any subsequent research. The T cell regulator gene SH2D2A contributes to the genetic susceptibility of multiple sclerosis rs926103 and a GA repeat polymorphism forming a risk haplotype for Multiple sclerosis The fact that this is a mixture of a snp and a repeat makes this an interesting test case for Promethease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1545]]
+    <blockquote>
+        <p class="text-snippet" data-id="1545">rs41303343, also known as 27131_27132insT, is a SNP in the CYP3A5 gene.The rs41303343(T) allele defines the CYP3A5 7 variant, which is nonfunctional and has the highest prevalence in those of African descent (where ~8% of the population are carriers).Note that the scientific literature (and PharmGKB, among other sources) often incorrectly reports a different SNP (rs76293380) as defining the CYP3A5 7 allele. That SNP is actually defined as a deletion, not as in insertion, at the same position as rs41303343.In 23andMe v4-based data, this SNP is reported nearly 100% of the time as II (which would be equivalent to TT), and this is clearly incorrect. In 23andMe v5-based data, this SNP is normally missing.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q355]]
+    <blockquote>
+        <p class="text-snippet" data-id="355">499 German individuals with sarcoidosis and 490 controls; Validation in an independent sample 1,649 cases, 1,832 controls. rs2789679: P = 3.0 x 10(-13), rs7091565: P = 1.0 x 10(-5)rs1049550, T > C, R230C was found to be strongly associated with sarcoidosis.  rs2789679 P = 3.0 x 10(-13), rs7091565: P = 1.0 x 10(-5), allele-based test). Extensive fine mapping located the association signal to a region between exon 5 and exon 14 of ANXA11. A common nonsynonymous SNP (rs1049550, T > C, R230C) was found to be strongly associated with sarcoidosisNote that several ANXA11 SNPs are all tightly linked: rs1953600, rs2573346, rs2784773 and rs1049550.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4990]]
+    <blockquote>
+        <p class="text-snippet" data-id="4990">aka c.1403G>A (p.Arg468His or R468H)Considered to be a variant of uncertain significance by the (only) submitter to ClinVar; presumably a recessive mutation.A survey of non-HFE HH mutations in large-scale sequencing databases concludes that they are likely to be very rare (with heterozygote carrier frequencies of perhaps 1 in 1000 and homozygote frequencies less than 1 in a million for most). Of note, rs80338885 was listed as one of the 49 TFR2 gene variants considered pathogenic in this survey but it was not observed in any sequence; this implies that the ~1 in 500 frequency heterozygote frequency observed in DNA chip data among Promethease users is too high to be credible. A novel mutation of transferrin receptor 2 in a Taiwanese woman with type 3 hemochromatosis.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1424]]
+    <blockquote>
+        <p class="text-snippet" data-id="1424">rs28399504 is a SNP in the CYP2C19 gene, potentially encoding the CYP2C19 4 variant. This variant has been linked to poor metabolism of compounds like mephenytoin. It is also known as M1V or Met1Val.The risk allele is rs28399504(G).As a nonfunctioning CYP2C19, this variant would be expected to be a poor metabolizer of several commonly prescribed drugs, including anti-ulcer drugs like omeprazole (trade names Losec and Prilosec), esomeprazole (trade name Nexium), and lansoprazole (Prevacid).According to / a 23andMe discussion This is one of the SNPs which were re-analyzed April 2009. Customers with older data may wish to redownload. SNPs effected rs4420638, rs34276300, rs3091244, rs34601266, rs2033003, rs7900194, rs9332239, rs28371685, rs1229984, and rs28399504.Clopidogrel Efficacy</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3846]]
+    <blockquote>
+        <p class="text-snippet" data-id="3846">rs572115942, also known as c.1136G>A, p.Arg309Gln and R309Q, is a rare variant in the PHKG2 gene on chromosome 16. The PHKG2 gene encodes an enzyme required to break down glycogen in the liver.In a pediatric patient with Mauriac syndrome, a rare syndrome found in some children with poorly controlled type-1 diabetes, a single rs572115942(A) allele was found by sequencing. The patient's mother carried the same allele, but did not have diabetes or hepatomegaly; his father had childhood type-1 diabetes but didn't have the mutation, hepatomegaly or growth failure. The authors conclude that in patients with type-1 diabetes, liver glycogen accumulates due to combination of the mutated enzyme and high blood sugar, leading to the enlarged liver and Mauriac syndrome.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5260]]
+    <blockquote>
+        <p class="text-snippet" data-id="5260">rs7439366, also known as Y268H, is a SNP in the UGT2B7 gene encoding the 2B7 UDP-Glucuronosyltransferase, active primarily in the liver. The rs7439366(C) allele encodes a histidine (H) at amino acid 268, and the (T) allele encodes a tyrosine (Y). Most publications refer to the histidine as the wild-type (more common) allele. In a study of glucuronidation activity of human livers, rs7439366(T;T) individuals had 28% lower activity than rs7439366(C;C) individuals with respect to O-glucuronidation of tamoxifen metabolites 4-OH-tamoxifen and endoxifen. The authors suggest this may help explain interindividual variability (beyond CYP2D6 variation) in tamoxifen metabolism - and therefore the effectiveness of tamoxifen in reducing breast cancer recurrence.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q679]]
+    <blockquote>
+        <p class="text-snippet" data-id="679">rs41293455 is a SNP causing an amino acid change in the breast cancer 1 BRCA1 gene at amino position 1443. The more common rs41293455(C) allele encodes Arg, while the rare rs41293455(T) allele encodes a stop codon (aka c.4327C>T, p.Arg1443Ter). Another variant, rs41293455(G), encodes a Gly (aka c.4327C>G or p.Arg1443Gly); this variant appears to be benign by consensus in ClinVar.A well known study published in 1994 looked at 50 family pedigrees with breast cancer and ovarian cancer susceptibility, discovering what they believed were eight putative disease-causing mutations (four frameshifts, two nonsense mutations) and an additional two missense mutations. rs41293455 was one of these variants.   See also  Omim 113705.0016  See also  Omim 113705.0017</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1298]]
+    <blockquote>
+        <p class="text-snippet" data-id="1298">Polymorphisms within the C-reactive protein (CRP) promoter region are associated with plasma CRP levels. Allelic spectrum of the natural variation in CRP. Genetic variation is associated with C-reactive protein levels in the Third National Health and Nutrition Examination Survey. Common variants in the CRP gene in relation to longevity and cause-specific mortality in older adults: the Cardiovascular Health Study. Genetic determinants of basal C-reactive protein expression in Filipino systemic lupus erythematosus families. Fine-mapping the genetic basis of CRP regulation in African Americans: a Bayesian approach. C-reactive protein, interleukin-6, and prostate cancer risk in men aged 65 years and older. C-Reactive protein gene variants are associated with postoperative C-reactive protein levels after coronary artery bypass surgery. Gene polymorphisms in association with emerging cardiovascular risk markers in adult women.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3473]]
+    <blockquote>
+        <p class="text-snippet" data-id="3473">rs587776650, also known as c.657_661delACAAA, 657del5 and p.Lys219Asnfs, is a mutation in the NBN gene on chromosome 8. Carriers of one rs587776650(-) allele are at increased risk for several types of cancer, including breast cancer (odd ratio ~2.5), lymphoma (OR 2.9), and prostate cancer (OR ~6). It may also significantly increase risk for melanoma and Non-Hodgkin Lymphoma. Double mutations (i.e. recessive or compound heterozygote) in the NBN gene cause Nijmegen breakage syndrome. A meta-analysis of ten studies totaling over 25,000 subjects associated rs587776650(-) with increased breast cancer risk (OR 2.66, CI: 1.82-3.90, p < 0.001).See also OMIM  602667.0001Nijmegen breakage syndromeThis mutation is believed to be represented within 23andMe data as i5012770.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4221]]
+    <blockquote>
+        <p class="text-snippet" data-id="4221">rs3842787, also known as 50C>T, is a SNP in the signal peptide region of the cyclooxygenase-1 PTGS1 gene.A study of 696 European patients undergoing elective diagnostic coronary angiographies (CAGs) because of suspected or proven stable coronary artery disease found that 23 experienced bleeding, perhaps the most common complication of this type of invasive coronary procedure. After controlling for various variables (especially gender), two co-inherited SNPs, rs10306114 and rs3842787, were found to be associated with higher risk for bleeding in otherwise low risk patients who (i) did undergo percutaneous coronary intervention and (ii) did not take clopidogrel. Having the less common haplotype (rs10306114(G) and/or rs3842787(T)) increases the bleeding risk upon CAG ~12 fold (p = 0.012).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1477]]
+    <blockquote>
+        <p class="text-snippet" data-id="1477">rs1135840, also known as  4180G>C or S486T, is a SNP in the CYP2D6 gene.The wild type (normal) allele at this SNP is (G). The (C) variant indicates the presence of a non-wild type CYP2D6 variant, but it appears in many different variants so it can not be used to determine the presence of any particular variant. Please be careful when interpreting results for this SNP as it is in dbSNP and SNPedia in minus orientation where the risk allele is C, but test results are usually in plus orientation where the risk allele is G. This SNP has an ambiguous flip which can make this very confusing.  Polymorphisms affecting gene transcription and mRNA processing in pharmacogenetic candidate genes: detection through allelic expression imbalance in human target tissues.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1610]]
+    <blockquote>
+        <p class="text-snippet" data-id="1610">This 2003 study found that the DIO1 gene's D1b-A/G polymorphism (rs12095080) allele G correlated with lower rT3/T4 and higher T3/rT3 ratios, suggesting increased D1 (Deiodinase type 1) expression and/or activity of this variant. Researchers explained that liver D1 plays a key role not only in the production of plasma T3 from T4 but also in the breakdown of the metabolite rT3 (reverse T3). . This 2008 review identified the SNPs of D1a-C/T (rs11206244), and D1b-A/G (rs12095080) and cited the results of the 2003 study  on these polymorphisms. . This study analyzed DIO1-rs12095080 but found more significant effect with SNP DIO2-rs12885300. However, their data depended on TSH and T4 levels alone, since T3 and rT3 were measured at only one time point during the study.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q818]]
+    <blockquote>
+        <p class="text-snippet" data-id="818">rs4968451, which is in a breast cancer susceptibility gene, was associated with increased risk of meningioma, a common form of brain tumor, in a combination of five studies totaling 631 European case patients as well 637 European control subjects."Meningioma risks associated with hetero- and homozygosity for the minor allele of  were 1.61 (95% CI = 1.26 to 2.06) and 2.33 (95% CI = 1.25 to 4.34), respectively, and were thus compatible with a multiplicative model of action." The risk allele and minor allele is rs4968451(C). Around 30% of Europeans carry one of risk genotypes, i.e. rs4968451(A;C) or (C;C); and perhaps 16% of meningiomas might be associated with this SNP.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q895]]
+    <blockquote>
+        <p class="text-snippet" data-id="895">rs3834129 is a SNP in the CASP8 gene that is also known as the -652 6N ins/del promoter variant.It has been linked to higher risk for multiple tumours including colorectal cancer (CRC) in Chinese populations; however, it showed no association with colorectal cancer risk in a study of 4,000 UK cases.A 2012 meta-analysis found a small protective effect (i.e. slightly reduced cancer risk) associated with the rs3834129(-;CTTACT) "6N ins/del" genotype compared to the more common "6N/6N" (rs3834129(CTTACT;CTTACT)) genotype, however, there was no statistical effect noted for the "6N del/del" genotype.This page demonstrates a bug in User:SNPediaBot. It incorrectly assigned the genotype, probably because it is multiple letters. This makes a good test case.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q200]]
+    <blockquote>
+        <p class="text-snippet" data-id="200">rs266729 is a SNP in the adiponectin ADIPOQ gene that may help elucidate correlations between obesity and some types of cancer.Two case-control studies including colorectal cancer patients and controls were conducted; the first case involving 441 patients and 658 controls, all of Ashkenazi Jewish ancestry, and the second including 199 patients and 199 matched (sex, age and ethnicity) controls. rs266729(G) showed decreased colorectal cancer risk in both studies; in the first, with an odds ratio of 0.72 (CI:0.55-0.95) and in the second, with an odds ratio of 0.52 (CI: 0.34-0.78). Combining the two studies led to an overall decreased colorectal cancer odds ratio of 0.73 (CI: 0.53-0.99) for this allele./ 23andMe blog obesity and colorectal cancer (G;G) 27% lower odds</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4009]]
+    <blockquote>
+        <p class="text-snippet" data-id="4009">rs1057868, also known as A503V, is a relatively common variant defining the POR 28 allele of the P450 (cytochrome) oxidoreductase POR gene. The POR gene encodes a protein involved in electron transport of cytochrome p450 enzymes such as CYP3A4, CYP3A5 and CYP3A7.A study of 251 individuals from two independent studies (182 patients treated with methadone and 69 patients with clozapine) for CYP3A activity found that CYP3A SNPs themselves did not predict particularly well inter-individual variability in overall CYP3A activity. However, rs1057868(T;T) individuals had a 1.6x increased CYP3A activity compared to rs1057868(C) carriers (n=182, p=0.004), and the finding was replicated in a second independent dataset. The authors conclude that this POR gene SNP is a better predictor of overall CYP3A activity than CYP3A SNPs.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4243]]
+    <blockquote>
+        <p class="text-snippet" data-id="4243">rs2542151 has been reported in a large study to be associated with Crohn's disease.The risk allele (oriented to the dbSNP entry) is (G); the odds ratio associated with heterozygotes is 1.3 (CI 1.14-1.48), and for homozygotes, 2.01 (CI 1.46-2.76). rs2542151 has been reported in the same study to be associated with type-1 diabetes. The risk allele (oriented to the dbSNP entry) is (G); the odds ratio associated with heterozygotes is 1.30 (CI 1.15-1.47), and for homozygotes, 1.62 (CI 1.17-2.24). In an expanded follow-up study of >6,000 controls and 6,000 patients, the heterozygote odds ratio for this SNP was recalculated to be 1.30 (CI 1.22&#226;&#8364;&#8220;1.40).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5431]]
+    <blockquote>
+        <p class="text-snippet" data-id="5431">rs11539445, also known as c.572G>A, p.Gly191Asp and G191D, or c.572G>T, p.Gly191Val and G191V, as is a variant in the YARS2 gene on chromosome 12.The minor allele rs11539445(T) is relatively common, with an  ExAC database frequency of 0.1259, and over 1,000 homozygotes observed. This implies that G191V is a benign variation.However, the minor allele rs11539445(A), encoding G191D, is reported to be pathogenic in OMIM, at least when inherited recessively, based on a 2013 study.  Frequency data about this allele is not reported so far as we know, indicating it is likely to be extremely rare, and if the 2013 report holds up, is to be considered pathogenic (at least when inherited in two copies or as a compound heterozygote).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3723]]
+    <blockquote>
+        <p class="text-snippet" data-id="3723">rs5030860, also known as c.1241A>G, p.Tyr414Cys and Y414C, represents a variant in the PAH gene on chromosome 12. This variant is among the most common PKU-associated mutations seen in Scandinavia.While other mutations in the PAH gene may cause phenylketonuria, when inherited recessively, the rs5030860(G) mutation is associated with non-phenylketonuria hyperphenylalaninemia. OMIMThe effect of tetrahydrobiopterin (BH4) treatment, the natural cofactor of PAH, has been tested in Y414C homozygotes. In 3 such Danish patients with PKU, 8-29 years of age, patients were treated with 20, 10, and 5 mg BH4/kg/day for 1 week on each dose, starting with 20 mg/kg. The three homozygous patients had phenylalanine declines of 73%, 51%, and 27%, respectively, indicating the effectiveness of this treatment.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4997]]
+    <blockquote>
+        <p class="text-snippet" data-id="4997">colorectal neoplasia271 colorectal adenoma cases and 544 controls, and 535 colorectal adenocarcinoma cases and 656 controls. rs6957(A) was associated with higher serum TGFbeta-1 means (in ng/mL) and 95% confidence interval (95% CI) for AA or AG, 32.6 (30.6-34.7); GG, 29.0 (25.1-32.9); P(difference) = 0.05  rs11466345(G;G) had a statistically significantly lower risk of adenocarcinoma AG versus AA: odds ratio (OR), 0.9 (95% CI, 0.7-1.2); GG versus AA: OR, 0.4 (95% CI, 0.2-0.7); P(trend) = 0.01.  The haplotype carrying both variants was also statistically significantly associated with a reduced risk of adenocarcinoma (OR, 0.3; 95% CI, 0.1-0.8)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3465]]
+    <blockquote>
+        <p class="text-snippet" data-id="3465">rs1799929 is a SNP in the NAT2 gene, potentially encoding a variant detoxifying protein known as an N-acetyltransferase, but which NAT2 variant depends on which other NAT2 SNPs were also inherited. See the discussion of the NAT2 gene for a more complete explanation.The risk allele for this SNP is rs1799929(T).When this SNP is indicative of carrying a NAT2 5A allele, the following may be relevant:A study (based on only 42 patients) found that women with the NAT2 5A slow genotype (which presumably means rs1799929(T;T)) had a significantly higher risk of cervical cancer compared with individuals with the NAT2 5A fast genotype (i.e. carriers of only one rs1799929(T) allele), with a reported odds ratio of 7.469 (CI: 1.6-33.3, p=0.008).</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5187]]
+    <blockquote>
+        <p class="text-snippet" data-id="5187">A study of over 9,000+ individuals indicates that each copy of rs4704397(A) is associated with an increase of 0.13 muIU/ml in serum TSH (thyroid-stimulating hormone).A separate study of 970 pregnant women at 28 weeks of gestation found that serum TSH was highest for rs4704397(A;A) individuals (median, 2.16, 1.84, and 1.73 mIU/liter for AA, AG, and GG genotypes, respectively; p=0.0004), and more women with the (A;A) genotype had TSH concentrations above 4.21 mIU/liter, the upper limit of the reference range, compared with the (A;G) and (G;G) genotypes (9.6 vs. 3.5%, respectively; p=0.004). However, maternal PDE8B genotype was not associated with offspring birthweight or gestational age at delivery.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2728]]
+    <blockquote>
+        <p class="text-snippet" data-id="2728">Newly identified genetic risk variants for celiac disease related to the immune response. Genome-wide association defines more than 30 distinct susceptibility loci for Crohn's disease. Translational mini-review series on the immunogenetics of gut disease: immunogenetics of coeliac disease. Investigation of Crohn's disease risk loci in ulcerative colitis further defines their molecular relationship. Shared and distinct genetic variants in type 1 diabetes and celiac disease. Association study of the IL18RAP locus in three European populations with coeliac disease. Parasites represent a major selective force for interleukin genes and shape the genetic predisposition to autoimmune conditions. Identifying relationships among genomic disease regions: predicting genes at pathogenic SNP associations and rare deletions. Allelic variants of IL1R1 gene associate with severe hand osteoarthritis. An investigation of genome-wide studies reported susceptibility loci for ulcerative colitis shows limited replication in north Indians.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4576]]
+    <blockquote>
+        <p class="text-snippet" data-id="4576">rs727428 is a SNP in the sex-hormone binding globulin SHBG gene. SHBG binds steroid hormones, mostly testosterone and estradiol, rendering them biologically unavailable.  Based on a study of 758 women in 430 families, rs727428 is associated with levels of that sex-hormone binding globulin hormone, independent of the effects of insulin resistance and obesity. Specifically, levels of SHBG were decreased approximately 13% in (A;G) heterozygotes and 27% in (A;A) homozygotes compared with (G;G) homozygotes. Note: designation of alleles is as shown in dbSNP.  Haplotype analysis suggested that rs858518, rs727428, or a variant in linkage disequilibrium with them acts to decrease SHBG levels but that this effect is neutralized by rs6259. This SNP was previously associated with risk of type 2 diabetes mellitus.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3171]]
+    <blockquote>
+        <p class="text-snippet" data-id="3171">rs1734791 is one of several SNPs in the methyl CpG binding protein 2 (MECP2) that have been associated with risk for systemic lupus erythromatosis (SLE). The MECP2 gene is located on the X chromosome, which may be instructive since lupus is a predominantly female disease.An initial survey of 600 Korean patients, followed by 1,000 Caucasian patients, ultimately led to a meta-analysis indicating an odds ratio for the rs1734791(A) risk allele of 1.39 (CI: 1.24&#226;&#8364;&#8220;1.57, p = 7.2×10−8). Variants within MECP2, a key transcription regulator, are associated with increased susceptibility to lupus and differential gene expression in patients with systemic lupus erythematosus. A common MECP2 haplotype associates with reduced cortical surface area in humans in two independent populations.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2210]]
+    <blockquote>
+        <p class="text-snippet" data-id="2210">Category:needs helpCategory:interesting This paper implicates this snp as playing a role in heart disease. Having a G at this position is considered normal.Having an A at this position reduces the risk of heart disease. Approximate 15% of all people carry this allele.'''Technical note:'''This applies to many other snps, but here is the first clean case I've encountered.dbsnp showsss3839 and ss16241517 are being read 'fwd'ss16940640 and ss44449258 are being read in 'rev'.This has C/T alleles when read forward, and A/G when read in reverse. Since the authors of the paper above describe this as an A/G snp, it seems they are reading in reverse. Often papers include even less information, and can leave some ambiguity about these important details. GATA2 is associated with familial early-onset coronary artery disease.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2376]]
+    <blockquote>
+        <p class="text-snippet" data-id="2376">rs137853825, also known as c.3598G>A, Glu1200Lys or E1200K, is a variant in the GNPTAB gene on chromosome 12.The minor (A) allele of rs137853825 was the most common of several mutations in the GNPTAB gene associated with stuttering in a 2010 study. Note that inheritance was neither dominant or recessive; this variant increased the risk of stuttering when present in either one or two copies, consistent with an additive genetic effect. Female homozygotes were apparently less affected. Note that the proportion of stutterers likely to carry a GNPTAB variant is likely to be less than 4%.In 2016, 3- to 8-day old mice pups engineered to carry two copies of the Glu1200Lys mutation were observed to have significantly longer pauses in their spontaneous vocalizations than littermates not carrying the mutations, consistent with some features of human stuttering.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1844]]
+    <blockquote>
+        <p class="text-snippet" data-id="1844">rs1799883 Fatty acid binding protein 2 (FABP2) Ala54Thr; The derived allele at SNP (A54T), rs1799883, in FABP2 increases strongly with latitude (p < 0.01)  and may influence weight management Identification of four gene variants associated with myocardial infarction. Association of genetic variants with atherothrombotic cerebral infarction in Japanese individuals with metabolic syndrome. Association of genetic variants with chronic kidney disease in Japanese individuals with type 2 diabetes mellitus. Development of a fingerprinting panel using medically relevant polymorphisms. Soluble fibre (Plantago ovata husk) reduces plasma low-density lipoprotein (LDL) cholesterol, triglycerides, insulin, oxidised LDL and systolic blood pressure in hypercholesterolaemic patients: A randomised trial. Identification of type 2 diabetes-associated combination of SNPs using support vector machine. Population based allele frequencies of disease associated polymorphisms in the Personalized Medicine Research Project.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1680]]
+    <blockquote>
+        <p class="text-snippet" data-id="1680">rs1799732 is a SNP in the D2 dopamine receptor gene DRD2 gene. Although dbSNP indicates the alleles as (C) or (-) (i.e. a deletion), investigators report the alleles as (C) or (T).In a study of individuals in the Polyp Prevention Trial with any, multiple (>/=2) or advanced colorectal adenoma recurrence after 4 years, compared to those without adenoma recurrence, rs1799732(C;T) individuals were significantly associated with all adenoma recurrence (odds ratio 1.30, CI: 1.01-1.69).  The authors speculate this increased risk of adenoma recurrence (and an association with colorectal cancer) may be related to SNP-associated differences in alcohol and fat intake./ 23andMe blog Alcoholism related rs1799971(A;A) severe alcoholism 2x  rs1799732(I;I) severe alcoholism 1.85x</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4779]]
+    <blockquote>
+        <p class="text-snippet" data-id="4779">SNPs in the SNAP25 gene were initially  linked to intelligence but have failed to replicate .While now suspect, the original work can be found in .The (A;A) genotype averaged 2.84 PIQ points higher than the (A;G) genotype, which averages 2.8 PIQ points higher than the (G;G) genotype (p=0.0002). Variance in this SNP may account for 3.4% of the phenotypic variance in PIQ.rs363050 is in close linkage with rs353016, with r2 = 0.98, such that the rs363050(A) allele typically is linked to the rs353016(T) allele. For SNPs rs363039 - rs363043 - rs353016, respectively, the haplotype C-T-T is most associated with higher intelligence in children, whereas the haplotype C-C-T is most associated in adults (SNPs oriented as in dbSNP). Measures of Intelligence</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q680]]
+    <blockquote>
+        <p class="text-snippet" data-id="680">rs41293463, also known as c.5324T>G (p.Met1775Arg or M1775R) as well as c.5324T>A (p.Met1775Lys or M1775K), is a SNP causing an amino acid change in the breast cancer 1 BRCA1 gene at amino position 1775.A study found that the rs41293463(G) allele has impaired transcriptional ability, and this allele was found in some patients with breast cancer. It seems likely that primarily (G;G) homozygotes would be at increased risk for breast cancer but this has not been demonstrated. ClinVar has designated both minor alleles as pathogenic for breast cancer.This variant is considered to be the first BRCA1 mutation identified in an African-American family. It is also among the most common hereditary breast cancer mutations observed in a group of Nigerian patients.23andMe name for the T>G variant: i5010037  See also  Omim 113705.0035</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q954]]
+    <blockquote>
+        <p class="text-snippet" data-id="954">After taking Acetaminophen (Tylenol&#174;), rs1467558(A;G) individuals have higher alanine aminotransferase (ALT) levels, a sign of liver toxicity, than do (G;G) homozygotes. More studies are needed; there was only 1 (A;A) individual, and he didn't show elevated ALT levels; furthermore, the ALT increases were "modest" anyway for (A;G) individuals compared to (G;G). see also: / 23andMe blog'''Note:''' the orientation of this SNP in SNPedia is as detailed in dbSNP, but in publications (including 23andMe's blog) the orientation is 'flipped', so what's (A;A) in dbSNP is (T;T) as discussed by the 23andMe blog.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q361]]
+    <blockquote>
+        <p class="text-snippet" data-id="361">Also known as rs28933380, related to colorectal cancer, FAMILIAL, AshkenaziThe APC I1307K mutation is primarily found in people of Ashkenazi Jewish heritage (Jews of Eastern European or Russian ancestry). Researchers believe that 6% of Ashkenazi Jews carry this gene mutation, making them at a significantly higher risk for developing colorectal cancer. It is also found among Sephardi and Mizrahi Jews and Muslim and Christian Palestinian Arabs, as well as Negev Bedouin. Many patients with colorectal cancer experience no symptoms in the early stages. In fact, symptoms may not appear until the disease is in advanced stage. Routine colorectal screening is very important. Even children from 11 years of age should be screened if there is a family history of colorectal cancer.   /  APC I1307K and Colorectal Cancer - Johns Hopkins Hereditary Colorectal Cancer Website   Cancer.net: Familial Adenomatous Polyposis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1239]]
+    <blockquote>
+        <p class="text-snippet" data-id="1239">rs2710102, a common SNP in the CNTNAP2 gene, was found to be significantly associated (p<0.028) with a delayed onset of speech, as measured by the age at which a child speaks their first words, in children with autism. This effect is primarily seen in males, perhaps correlated with the 4-5x overrepresentation of males with autism compared with females.The confirmatory Stage 2 study was performed on 304 independent parent-child trios. However, the risk allele and the degree to which speech is delayed per genotype is unclear as published and awaits clarification by the authors. Speech development rs4431523, rs17236239 and significant associations (with P values from 0.01 to 5.0x10&#8211;5) between nonsense-word repetition and nine intronic SNPs (rs851715, rs10246256, rs2710102, rs759178, rs1922892, rs2538991, rs17236239, rs2538976, and rs2710117)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q912]]
+    <blockquote>
+        <p class="text-snippet" data-id="912">rs234706, also known as c.699C>T and C699T, represents a common variant in the CBS gene on chromosome 21. The most common allele for this SNP is rs234706(G) as named in dbSNP orientation, or (C) if in cDNA orientation; the only somewhat less common allele, found in one or two copies in 40 - 50% of the individuals in most populations, is rs234706(A), also known as 699T.There is significant uncertainty, and even to some extent controversy, over the consequences of the the 699T allele. Some individuals believe it leads to upregulation of the CBS gene, and (eventually) an overproduction of ammonia and/or a decrease in glutathione. Most peer-reviewed publications feel that there is little to no evidence for any negative effect of the 699T variant. investigated in Ehlers-Danlos syndrome</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q354]]
+    <blockquote>
+        <p class="text-snippet" data-id="354">rs1049550, also known as R230C, is a SNP in the annexin A11 ANXA11 gene. 499 German individuals with sarcoidosis and 490 controls; Validation in an independent sample 1,649 cases, 1,832 controls. rs2789679: P = 3.0 x 10(-13), rs7091565: P = 1.0 x 10(-5)rs1049550, T > C, R230C was found to be strongly associated with sarcoidosis.  rs2789679 P = 3.0 x 10(-13), rs7091565: P = 1.0 x 10(-5), allele-based test). Extensive fine mapping located the association signal to a region between exon 5 and exon 14 of ANXA11. A common nonsynonymous SNP (rs1049550, T > C, R230C) was found to be strongly associated with sarcoidosisNote that several ANXA11 SNPs are all tightly linked: rs1953600, rs2573346, rs2784773 and rs1049550.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2903]]
+    <blockquote>
+        <p class="text-snippet" data-id="2903">Rs4504469, a nonsynonymous SNP in exon 4 of the KIAA0319 gene, is in a region that crops up in several independent studies as likely to associated with dyslexia. The risk allele in the Caucasian populations studied is (T).The odds ratio in a study of case:control study of ~400 Caucasians associated with rs4504469(T) is 1.51 (CI: 1.17&#226;&#8364;&#8220;1.95, p = 0.002).  A 77-kilobase region of chromosome 6p22.2 is associated with dyslexia in families from the United Kingdom and from the United States. Strong genetic evidence of DCDC2 as a susceptibility gene for dyslexia. A common variant associated with dyslexia reduces expression of the KIAA0319 gene. Convergent genetic linkage and associations to language, speech and reading measures in families of probands with Specific Language Impairment.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5232]]
+    <blockquote>
+        <p class="text-snippet" data-id="5232">rs1126809 is a SNP in the TYR tyrosinase gene. This SNP is also known as R402Q (or, 1205G>A) based on the amino acid change at position 402 from an arginine (R) to a glutamine (Q). The rs1126809(G) allele encodes the more common (R)/arginine, while the variant rs1126809(A) allele encodes the (Q)/glutamine.rs1126809(A) has previously been shown to affect eye color and sun sensitivity. Based on a study of 4,000+ skin cancer patients, it also conferred increased risk of cutaneous malignant melanoma (odds ratio 1.21, p = 2.8 x 10<sup>-7</sup>) and basal cell carcinoma (odds ratio 1.14, p = 6.1 x 10<sup>-4</sup>). rs1126809 is not associated with albinism.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q108]]
+    <blockquote>
+        <p class="text-snippet" data-id="108">rs10156191, also known as Thr16Met or T16M, represents a variant in the AOC gene on chromosome 7; this gene is also known as the DAO or diamine oxidase. The rs10156191(C) allele encodes the more common Thr amino acid at this position, and the (T) allele encodes the Met.  The DAO Met allele is considered to encode a protein with lower metabolic capacity than the Thr allele. A study of 400 patients showing hypersensitivity to non-steroidal anti-inflammatory drugs (NSAIDs) found an association with the 16M allele (OR 1.7, CI: 1.3 - 2.1, Pc  =  0.0003) with a gene-dose effect (P = 0.0001). Association of single nucleotide polymorphisms in the diamine oxidase gene with diamine oxidase serum activities. Found reduced DAO activity for the minor allele and lower DAO mRNA expression for the homozygous minor allele.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q872]]
+    <blockquote>
+        <p class="text-snippet" data-id="872">This SNP in the CADM2 gene was found to contribute to life time cannabis use. (p<e-16), beta= 0.070).Cannabis use is positively associated with a range of other behaviors including alcohol dependence, depression, ADHD, Schizophrenia, bipolar, autism, risk taking and educational attainment and negatively with conscientiousness and subjective well being. This study with 185,000 ever cannabis users discovered 10% of the variance in lifetime cannabis use.(Genome-wide association analysis of lifetime cannabis use (N=184,765) identifies new risk loci, genetic overlap with mental health, and a causal influence of schizophrenia on cannabis use  Biorxiv)The significant SNPs were (rsID, gene; A1, A2, A1-Freq):  rs2875907, CADM2:  A G  0.352  rs9773390, ZNF704: T C  0.933  rs9919557, NCAM1:  T C  0.614  rs10499, RABEP2: A G  0.651</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q677]]
+    <blockquote>
+        <p class="text-snippet" data-id="677">rs28897696, also known as A1708E, c.5123C>A, 5242C>A and p.Ala1708Glu, is a SNP in the BRCA1 gene. The far more common (C) allele encodes the amino acid alanine (A), while the very rare (A) allele encodes glutamic acid (E). An analysis of sequence variants of unknown clinical significance in the BRCA1 and BRCA2 genes concluded that this SNP was among the top 10 (over both genes) likely to lead to breast cancer, with a calculated odds of over 1,000:1 against this just being a spurious association. Although the clinical importance has not been proven, this may still be of use for genetic counseling.More recently, multiple genetic testing labs have reported the rare allele of this SNP to be pathogenic for breast cancer in ClinVar.This mutation is considered a founder mutation in the Columbian Hispanic population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1665]]
+    <blockquote>
+        <p class="text-snippet" data-id="1665">rs10260404, a SNP in the region of the DPP6 gene on chromosome 7, has been associated with the sporadic form of ALS (Lou Gehrig's disease) in a study of 1000+ European patients. The overall odds ratio for the risk allele rs10260404(C) is 1.30 (CI: 1.18-1.43, p=0.017). When broken down by genotype, the odds ratios for heterozygotes are 1.20 (CI: 1.06-1.41), and for rs10260404(C;C) homozygotes, 1.60 (CI: 1.32-1.92).A "C-C" haplotype for this SNP and that of it's neighbor rs10239794 is also highly (statistically; p=10e-9) associated with ALS. However, in an expanded study pooling 4 populations (Irish, Dutch, US, Polish) rs10260404 failed to reach Bonferroni significance. although it did remain significant in the (expanded) Irish-only population.</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2158]]
+    <blockquote>
+        <p class="text-snippet" data-id="2158">This SNP in the GABRA2 gene has been linked to Alcoholism. The effect of this SNP, a synonymous change at amino acid residue 132, is unknown, but it does not change the GABRA2 protein sequence.Carriers of at least one rs279858(G) allele respond slower to the effects of alcohol and are thereby apparently more prone to alcoholism than carriers of two rs279858(A) alleles. Finasteride, an FDA approved drug for the treatment of benign prostatic hypertrophy and a modulator of GABRA2, was shown to have more of a blocking effect on rs279858(A) homozygotes. Note that nearby SNPs have been grouped into a haplotype that shows statistically stronger association with alcohol dependence, namely the haplotype consisting of the rs279871(A) + rs279845(T) + rs279836(A) alleles . 1050 nicotine-dependent cases and 879 non-dependent smoking controls rs279858 and rs16859834 aka rs2229940</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2484]]
+    <blockquote>
+        <p class="text-snippet" data-id="2484">rs7183877 is part of a haplotype spanning 166kB on chromosome 15, defined by 13 SNPs listed below, found in 97% of all Caucasians with blue eyes. In this haplotype, variations in rs1129038 and rs12913832 are relatively common in Caucasians though rare among other ethnic groups.The "h-1" haplotype found in homozygous state in 97% of individuals with blue eye color is composed as follows :rs4778241(C)<br>rs1129038(A)<br>rs12593929(A)<br>rs12913832(G)<br>rs7183877(C)<br>rs3935591(G)<br>rs7170852(A)<br>rs2238289(T)<br>rs3940272(C)<br>rs8028689(T)<br>rs2240203(A)<br>rs11631797(G)<br>rs916977(G)<br></p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    

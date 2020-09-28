@@ -1,0 +1,3363 @@
+[[AdvancedFormat]]
+[[Block:Block 1]]
+
+    [[Question:Text]]
+    [[ID:q1169]]
+    <blockquote>
+        <p class="text-snippet" data-id="1169">smoking</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1913]]
+    <blockquote>
+        <p class="text-snippet" data-id="1913">Achondroplasiars121913105</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q540]]
+    <blockquote>
+        <p class="text-snippet" data-id="540">c.348-9_351del</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3309]]
+    <blockquote>
+        <p class="text-snippet" data-id="3309">haplogroups</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3712]]
+    <blockquote>
+        <p class="text-snippet" data-id="3712">Phenylketonuriars62508588</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1446]]
+    <blockquote>
+        <p class="text-snippet" data-id="1446">Warfarin</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3711]]
+    <blockquote>
+        <p class="text-snippet" data-id="3711">Phenylketonuriars62516095</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3698]]
+    <blockquote>
+        <p class="text-snippet" data-id="3698">Phenylketonuriars5030851</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3697]]
+    <blockquote>
+        <p class="text-snippet" data-id="3697">Phenylketonuriars5030850</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3696]]
+    <blockquote>
+        <p class="text-snippet" data-id="3696">Phenylketonuriars5030847</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3642]]
+    <blockquote>
+        <p class="text-snippet" data-id="3642">colorblindness</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3694]]
+    <blockquote>
+        <p class="text-snippet" data-id="3694">Phenylketonuriars5030843</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3517]]
+    <blockquote>
+        <p class="text-snippet" data-id="3517">gs252</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3706]]
+    <blockquote>
+        <p class="text-snippet" data-id="3706">Phenylketonuriars62642932</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5392]]
+    <blockquote>
+        <p class="text-snippet" data-id="5392">see</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3702]]
+    <blockquote>
+        <p class="text-snippet" data-id="3702">Phenylketonuriars62514952</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3701]]
+    <blockquote>
+        <p class="text-snippet" data-id="3701">Phenylketonuriars5030860</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3700]]
+    <blockquote>
+        <p class="text-snippet" data-id="3700">Phenylketonuriars5030859</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3925]]
+    <blockquote>
+        <p class="text-snippet" data-id="3925">rs745770404see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q380]]
+    <blockquote>
+        <p class="text-snippet" data-id="380">aka c.13158delA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2326]]
+    <blockquote>
+        <p class="text-snippet" data-id="2326">see rs104894407</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1874]]
+    <blockquote>
+        <p class="text-snippet" data-id="1874">Fanconi Anemiars104886459</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1632]]
+    <blockquote>
+        <p class="text-snippet" data-id="1632">DLD c.105insA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1645]]
+    <blockquote>
+        <p class="text-snippet" data-id="1645">aka c.1658_1669delCCAAGGTCTTCA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1538]]
+    <blockquote>
+        <p class="text-snippet" data-id="1538">pgx related</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3929]]
+    <blockquote>
+        <p class="text-snippet" data-id="3929">rs755654557see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2292]]
+    <blockquote>
+        <p class="text-snippet" data-id="2292">see rs104894401</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3926]]
+    <blockquote>
+        <p class="text-snippet" data-id="3926">rs773136605see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2293]]
+    <blockquote>
+        <p class="text-snippet" data-id="2293">see rs104894402</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1636]]
+    <blockquote>
+        <p class="text-snippet" data-id="1636">Testicular Cancer</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3928]]
+    <blockquote>
+        <p class="text-snippet" data-id="3928">rs149798764see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2315]]
+    <blockquote>
+        <p class="text-snippet" data-id="2315">see rs28931594</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2295]]
+    <blockquote>
+        <p class="text-snippet" data-id="2295">see rs80338950</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2207]]
+    <blockquote>
+        <p class="text-snippet" data-id="2207">aka c.150_151delGA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q932]]
+    <blockquote>
+        <p class="text-snippet" data-id="932">aka c.30+5_30+6delGCinsTT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3634]]
+    <blockquote>
+        <p class="text-snippet" data-id="3634">Influences appearance</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2291]]
+    <blockquote>
+        <p class="text-snippet" data-id="2291">see rs104894406</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1873]]
+    <blockquote>
+        <p class="text-snippet" data-id="1873">Fanconi Anemiars104886457</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2688]]
+    <blockquote>
+        <p class="text-snippet" data-id="2688">Familial Dysautonomiars111033171</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3923]]
+    <blockquote>
+        <p class="text-snippet" data-id="3923">rs398124500see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1099]]
+    <blockquote>
+        <p class="text-snippet" data-id="1099">Cystic Fibrosisrs77188391</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3913]]
+    <blockquote>
+        <p class="text-snippet" data-id="3913">rs137852946see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3262]]
+    <blockquote>
+        <p class="text-snippet" data-id="3262">Lynch syndromers63749831</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3369]]
+    <blockquote>
+        <p class="text-snippet" data-id="3369">MTTP c.2212delT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q627]]
+    <blockquote>
+        <p class="text-snippet" data-id="627">BLM c.2407insT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3930]]
+    <blockquote>
+        <p class="text-snippet" data-id="3930">rs777999875see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3932]]
+    <blockquote>
+        <p class="text-snippet" data-id="3932">rs181208607see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3934]]
+    <blockquote>
+        <p class="text-snippet" data-id="3934">rs746471701see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4278]]
+    <blockquote>
+        <p class="text-snippet" data-id="4278">Reading Ability</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3908]]
+    <blockquote>
+        <p class="text-snippet" data-id="3908">rs137852947see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2386]]
+    <blockquote>
+        <p class="text-snippet" data-id="2386">GNPTG c.499insC</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3227]]
+    <blockquote>
+        <p class="text-snippet" data-id="3227">aka c.271dupA</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3937]]
+    <blockquote>
+        <p class="text-snippet" data-id="3937">rs398124475see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1177]]
+    <blockquote>
+        <p class="text-snippet" data-id="1177">Myotonia congenitars80356699</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1178]]
+    <blockquote>
+        <p class="text-snippet" data-id="1178">Myotonia congenitars80356706</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1179]]
+    <blockquote>
+        <p class="text-snippet" data-id="1179">Myotonia congenitars80356702</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1180]]
+    <blockquote>
+        <p class="text-snippet" data-id="1180">Myotonia congenitars121912805</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1183]]
+    <blockquote>
+        <p class="text-snippet" data-id="1183">Myotonia congenitars80356700</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1184]]
+    <blockquote>
+        <p class="text-snippet" data-id="1184">Myotonia congenitars55960271</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q669]]
+    <blockquote>
+        <p class="text-snippet" data-id="669">rs80357856breast cancer</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1709]]
+    <blockquote>
+        <p class="text-snippet" data-id="1709">intelligence related</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1700]]
+    <blockquote>
+        <p class="text-snippet" data-id="1700">aka c.2548delGinsTT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1702]]
+    <blockquote>
+        <p class="text-snippet" data-id="1702">aka c.1771_1772delTG</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3902]]
+    <blockquote>
+        <p class="text-snippet" data-id="3902">rs137852949see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1095]]
+    <blockquote>
+        <p class="text-snippet" data-id="1095">Cystic Fibrosisrs77010898</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1093]]
+    <blockquote>
+        <p class="text-snippet" data-id="1093">Cystic Fibrosisrs80055610</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3936]]
+    <blockquote>
+        <p class="text-snippet" data-id="3936">rs786204707see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1088]]
+    <blockquote>
+        <p class="text-snippet" data-id="1088">Cystic Fibrosisrs113993959</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3918]]
+    <blockquote>
+        <p class="text-snippet" data-id="3918">rs201881567see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3917]]
+    <blockquote>
+        <p class="text-snippet" data-id="3917">rs786204696see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1090]]
+    <blockquote>
+        <p class="text-snippet" data-id="1090">Cystic Fibrosisrs121909005</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3919]]
+    <blockquote>
+        <p class="text-snippet" data-id="3919">rs398124495see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3915]]
+    <blockquote>
+        <p class="text-snippet" data-id="3915">rs398124478see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3914]]
+    <blockquote>
+        <p class="text-snippet" data-id="3914">rs142146981see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2149]]
+    <blockquote>
+        <p class="text-snippet" data-id="2149">aka c.2242dup</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q206]]
+    <blockquote>
+        <p class="text-snippet" data-id="206">Tooth Development</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5151]]
+    <blockquote>
+        <p class="text-snippet" data-id="5151">  See rs10818488</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2440]]
+    <blockquote>
+        <p class="text-snippet" data-id="2440">GUCY2D c.389delC</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2929]]
+    <blockquote>
+        <p class="text-snippet" data-id="2929">Adiponectin Levels</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4806]]
+    <blockquote>
+        <p class="text-snippet" data-id="4806">ALS rs7277748</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3922]]
+    <blockquote>
+        <p class="text-snippet" data-id="3922">rs754392766see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2174]]
+    <blockquote>
+        <p class="text-snippet" data-id="2174">aka c.1162-4delT</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q219]]
+    <blockquote>
+        <p class="text-snippet" data-id="219">asthma related</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5280]]
+    <blockquote>
+        <p class="text-snippet" data-id="5280">USH1C c.1220delG</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3921]]
+    <blockquote>
+        <p class="text-snippet" data-id="3921">rs777183511see PKHD1</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4068]]
+    <blockquote>
+        <p class="text-snippet" data-id="4068">aka Asp760del</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1726]]
+    <blockquote>
+        <p class="text-snippet" data-id="1726">see OMIM  131240.0003</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1401]]
+    <blockquote>
+        <p class="text-snippet" data-id="1401">Congenital adrenal hyperplasiars7769409</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1628]]
+    <blockquote>
+        <p class="text-snippet" data-id="1628">rs121964990Dihydrolipoamide Dehydrogenase Deficiency/</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1812]]
+    <blockquote>
+        <p class="text-snippet" data-id="1812">Factor XI Deficiencyrs373297713</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1813]]
+    <blockquote>
+        <p class="text-snippet" data-id="1813">Factor XI Deficiencyrs121965063</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3916]]
+    <blockquote>
+        <p class="text-snippet" data-id="3916">rs200179145Polycystic kidney disease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3179]]
+    <blockquote>
+        <p class="text-snippet" data-id="3179">Familial Mediterranean Feverrs104895083</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4703]]
+    <blockquote>
+        <p class="text-snippet" data-id="4703">c.1269+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4634]]
+    <blockquote>
+        <p class="text-snippet" data-id="4634">Hearing lossPendred Syndromers121908362</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3160]]
+    <blockquote>
+        <p class="text-snippet" data-id="3160">aka −14009 G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4636]]
+    <blockquote>
+        <p class="text-snippet" data-id="4636">Hearing lossPendred Syndromers111033199</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1791]]
+    <blockquote>
+        <p class="text-snippet" data-id="1791">see OMIM  133430.0002</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1793]]
+    <blockquote>
+        <p class="text-snippet" data-id="1793">see OMIM  133430.0003</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1863]]
+    <blockquote>
+        <p class="text-snippet" data-id="1863">Tyrosinemia Type Irs80338901</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3137]]
+    <blockquote>
+        <p class="text-snippet" data-id="3137">See also Rs1805009</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1398]]
+    <blockquote>
+        <p class="text-snippet" data-id="1398">Congenital adrenal hyperplasiars72552757</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1854]]
+    <blockquote>
+        <p class="text-snippet" data-id="1854">The previous supersedes</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4812]]
+    <blockquote>
+        <p class="text-snippet" data-id="4812">|OA=1}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1861]]
+    <blockquote>
+        <p class="text-snippet" data-id="1861">Tyrosinemia Type Irs80338899</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1397]]
+    <blockquote>
+        <p class="text-snippet" data-id="1397">Congenital adrenal hyperplasiars151344504</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q497]]
+    <blockquote>
+        <p class="text-snippet" data-id="497">c.533_557dup25, p.Leu187Glyfs</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3330]]
+    <blockquote>
+        <p class="text-snippet" data-id="3330">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H3|derived_haplogroup=H3c|ancestral_allele=T|derived_allele=C}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3332]]
+    <blockquote>
+        <p class="text-snippet" data-id="3332">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1c|derived_haplogroup=H1c2|ancestral_allele=C|derived_allele=T}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5367]]
+    <blockquote>
+        <p class="text-snippet" data-id="5367">rs61754011Von Willebrand disease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5373]]
+    <blockquote>
+        <p class="text-snippet" data-id="5373">rs61749393Von Willebrand disease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5376]]
+    <blockquote>
+        <p class="text-snippet" data-id="5376">rs61754002Von Willebrand disease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2380]]
+    <blockquote>
+        <p class="text-snippet" data-id="2380">c.233+5G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3321]]
+    <blockquote>
+        <p class="text-snippet" data-id="3321">haplogroups|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1a|derived_haplogroup=H1b|ancestral_allele=A|derived_allele=G}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q471]]
+    <blockquote>
+        <p class="text-snippet" data-id="471">c.291+1G>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q241]]
+    <blockquote>
+        <p class="text-snippet" data-id="241">OMIM pathogenic variant</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q542]]
+    <blockquote>
+        <p class="text-snippet" data-id="542">c.1306+5G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4928]]
+    <blockquote>
+        <p class="text-snippet" data-id="4928">n.5894C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q484]]
+    <blockquote>
+        <p class="text-snippet" data-id="484">c.602+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q153]]
+    <blockquote>
+        <p class="text-snippet" data-id="153">Merged into rs1815739</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q230]]
+    <blockquote>
+        <p class="text-snippet" data-id="230">see OMIM  106150.0003</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5381]]
+    <blockquote>
+        <p class="text-snippet" data-id="5381">rs61750101Von Willebrand disease</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3319]]
+    <blockquote>
+        <p class="text-snippet" data-id="3319">,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1a|derived_haplogroup=H1b|ancestral_allele=A|derived_allele=G}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3334]]
+    <blockquote>
+        <p class="text-snippet" data-id="3334">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H2a|derived_haplogroup=H2a1|ancestral_allele=G|derived_allele=A}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3316]]
+    <blockquote>
+        <p class="text-snippet" data-id="3316">haplogroups|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1a|derived_haplogroup=H1a1|ancestral_allele=T|derived_allele=C}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5112]]
+    <blockquote>
+        <p class="text-snippet" data-id="5112">blonde hair color</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3756]]
+    <blockquote>
+        <p class="text-snippet" data-id="3756">c.7+1G>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q856]]
+    <blockquote>
+        <p class="text-snippet" data-id="856">influences warfarin dose</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3310]]
+    <blockquote>
+        <p class="text-snippet" data-id="3310">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H|derived_haplogroup=H4|ancestral_allele=G|derived_allele=A}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3312]]
+    <blockquote>
+        <p class="text-snippet" data-id="3312">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1a|derived_haplogroup=H1f|ancestral_allele=A|derived_allele=G}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5442]]
+    <blockquote>
+        <p class="text-snippet" data-id="5442">aka c.5485-1delGsee ZFYVE26</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4066]]
+    <blockquote>
+        <p class="text-snippet" data-id="4066">aka Asp201Asn;</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3315]]
+    <blockquote>
+        <p class="text-snippet" data-id="3315">haplogroups,23andMe|tree=PhyloTree|tree_build=7|ancestral_haplogroup=H1a|derived_haplogroup=H1f|ancestral_allele=T|derived_allele=C}}</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2362]]
+    <blockquote>
+        <p class="text-snippet" data-id="2362">c.2665+1G>C</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q117]]
+    <blockquote>
+        <p class="text-snippet" data-id="117">Medium-Chain Acyl-CoA Dehydrogenase Deficiencyrs77931234</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1286]]
+    <blockquote>
+        <p class="text-snippet" data-id="1286">aka c.3265C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4547]]
+    <blockquote>
+        <p class="text-snippet" data-id="4547">aka c.812C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q159]]
+    <blockquote>
+        <p class="text-snippet" data-id="159">aka c.703C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4672]]
+    <blockquote>
+        <p class="text-snippet" data-id="4672">SLC39A4 c.1223delC or c.1224delC</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4127]]
+    <blockquote>
+        <p class="text-snippet" data-id="4127">aka c.728-1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q118]]
+    <blockquote>
+        <p class="text-snippet" data-id="118">Medium-Chain Acyl-CoA Dehydrogenase Deficiencyrs373715782</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q538]]
+    <blockquote>
+        <p class="text-snippet" data-id="538">c.2552_2553delTT (p.Phe851Cysfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3024]]
+    <blockquote>
+        <p class="text-snippet" data-id="3024">23andMe name: i4000178</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4413]]
+    <blockquote>
+        <p class="text-snippet" data-id="4413">23andMe name: i6017665</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3438]]
+    <blockquote>
+        <p class="text-snippet" data-id="3438">aka c.1344-2A>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2969]]
+    <blockquote>
+        <p class="text-snippet" data-id="2969">aka c.486-2A>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4339]]
+    <blockquote>
+        <p class="text-snippet" data-id="4339">c.1207_1210dupCTGG (p.Glu404Alafs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4546]]
+    <blockquote>
+        <p class="text-snippet" data-id="4546">aka c.1093C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4420]]
+    <blockquote>
+        <p class="text-snippet" data-id="4420">see discussion at SAMM50</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q126]]
+    <blockquote>
+        <p class="text-snippet" data-id="126">c.999_1011dup (p.Gln338Terfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3437]]
+    <blockquote>
+        <p class="text-snippet" data-id="3437">aka c.2187+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2470]]
+    <blockquote>
+        <p class="text-snippet" data-id="2470">23andMe name: i6012327</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q589]]
+    <blockquote>
+        <p class="text-snippet" data-id="589">aka c.859C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3433]]
+    <blockquote>
+        <p class="text-snippet" data-id="3433">aka c.3126T>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2978]]
+    <blockquote>
+        <p class="text-snippet" data-id="2978">aka c.4815G>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q541]]
+    <blockquote>
+        <p class="text-snippet" data-id="541">c.1101_1102dupGA (p.Thr368Argfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q530]]
+    <blockquote>
+        <p class="text-snippet" data-id="530">c.3152_3154delTCT (p.Phe1051del)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4458]]
+    <blockquote>
+        <p class="text-snippet" data-id="4458">aka c.423+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5296]]
+    <blockquote>
+        <p class="text-snippet" data-id="5296">23andMe name: i4000166</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3866]]
+    <blockquote>
+        <p class="text-snippet" data-id="3866">c.620delG (p.Arg207Glnfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q409]]
+    <blockquote>
+        <p class="text-snippet" data-id="409">A proxy for rs71785313</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q353]]
+    <blockquote>
+        <p class="text-snippet" data-id="353">aka c.762+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4168]]
+    <blockquote>
+        <p class="text-snippet" data-id="4168">c.1300_1301delGCinsTG (p.Ala434Cys)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5161]]
+    <blockquote>
+        <p class="text-snippet" data-id="5161">Focal segmental glomerulosclerosis 2rs121434392</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2865]]
+    <blockquote>
+        <p class="text-snippet" data-id="2865">aka c.212C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2357]]
+    <blockquote>
+        <p class="text-snippet" data-id="2357">c.2267_2269delTCT (p.Phe756del)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5188]]
+    <blockquote>
+        <p class="text-snippet" data-id="5188">aka c.1825C>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5218]]
+    <blockquote>
+        <p class="text-snippet" data-id="5218">23andMe name: i3000014</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5219]]
+    <blockquote>
+        <p class="text-snippet" data-id="5219">23andMe name: i3000065</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1718]]
+    <blockquote>
+        <p class="text-snippet" data-id="1718">aka c.2810+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5236]]
+    <blockquote>
+        <p class="text-snippet" data-id="5236">aka c.1037-1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q969]]
+    <blockquote>
+        <p class="text-snippet" data-id="969">rs121964877CDH1, gastric cancer</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3992]]
+    <blockquote>
+        <p class="text-snippet" data-id="3992">23andMe name: i5006729</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3089]]
+    <blockquote>
+        <p class="text-snippet" data-id="3089">c.1996dupC (p.Gln666Profs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3515]]
+    <blockquote>
+        <p class="text-snippet" data-id="3515">aka c.1294G>T</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3538]]
+    <blockquote>
+        <p class="text-snippet" data-id="3538">also known as rs2066847</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2465]]
+    <blockquote>
+        <p class="text-snippet" data-id="2465">23andMe name: i6012473</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2464]]
+    <blockquote>
+        <p class="text-snippet" data-id="2464">23andMe name: i6012428</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1468]]
+    <blockquote>
+        <p class="text-snippet" data-id="1468">a variation in CYP2D6</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2433]]
+    <blockquote>
+        <p class="text-snippet" data-id="2433">aka c.-9+5G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2238]]
+    <blockquote>
+        <p class="text-snippet" data-id="2238">aka c.301G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q499]]
+    <blockquote>
+        <p class="text-snippet" data-id="499">aka c.524+2T>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q5297]]
+    <blockquote>
+        <p class="text-snippet" data-id="5297">23andMe name: i4000146</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q1652]]
+    <blockquote>
+        <p class="text-snippet" data-id="1652">c.166_167insTT (p.Arg56Leufs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2628]]
+    <blockquote>
+        <p class="text-snippet" data-id="2628">aka c.7006+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2599]]
+    <blockquote>
+        <p class="text-snippet" data-id="2599">aka c.1163+1G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4219]]
+    <blockquote>
+        <p class="text-snippet" data-id="4219">Molecularly equivalent to rs780264945</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3566]]
+    <blockquote>
+        <p class="text-snippet" data-id="3566">c.4512delC (p.Cys1505Valfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2621]]
+    <blockquote>
+        <p class="text-snippet" data-id="2621">c.1039_1040delCT (p.Leu347Valfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2600]]
+    <blockquote>
+        <p class="text-snippet" data-id="2600">aka c.2482-2A>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2629]]
+    <blockquote>
+        <p class="text-snippet" data-id="2629">aka c.4740+5G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4338]]
+    <blockquote>
+        <p class="text-snippet" data-id="4338">c.962dupA (p.Asn321Lysfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2763]]
+    <blockquote>
+        <p class="text-snippet" data-id="2763">association with multiple sclerosis</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3214]]
+    <blockquote>
+        <p class="text-snippet" data-id="3214">No known significant associations</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4337]]
+    <blockquote>
+        <p class="text-snippet" data-id="4337">c.271_272insA (p.Arg91Glnfs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2513]]
+    <blockquote>
+        <p class="text-snippet" data-id="2513">23andMe name: i5004824</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2117]]
+    <blockquote>
+        <p class="text-snippet" data-id="2117">23andMe name: i6010592</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2115]]
+    <blockquote>
+        <p class="text-snippet" data-id="2115">23andMe name: i5008445</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2114]]
+    <blockquote>
+        <p class="text-snippet" data-id="2114">23andMe name: i6010578</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2514]]
+    <blockquote>
+        <p class="text-snippet" data-id="2514">23andMe name: i5004825</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3254]]
+    <blockquote>
+        <p class="text-snippet" data-id="3254">aka c.971G>A</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2110]]
+    <blockquote>
+        <p class="text-snippet" data-id="2110">23andMe name: i6010585</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q717]]
+    <blockquote>
+        <p class="text-snippet" data-id="717">23andMe name: i5010039</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2716]]
+    <blockquote>
+        <p class="text-snippet" data-id="2716">/ linked to eczema</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2109]]
+    <blockquote>
+        <p class="text-snippet" data-id="2109">23andMe name: i5008436</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q3366]]
+    <blockquote>
+        <p class="text-snippet" data-id="3366">aka c.62-2A>G</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q4063]]
+    <blockquote>
+        <p class="text-snippet" data-id="4063">c.1090_1091delCT (p.Leu364Glufs)</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2107]]
+    <blockquote>
+        <p class="text-snippet" data-id="2107">23andMe name: i5008433</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2106]]
+    <blockquote>
+        <p class="text-snippet" data-id="2106">23andMe name: i6010641</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
+    [[Question:Text]]
+    [[ID:q2105]]
+    <blockquote>
+        <p class="text-snippet" data-id="2105">23andMe name: i5008430</p>
+    </blockquote>
+    <ul></ul>
+    <script>
+    Qualtrics.SurveyEngine.addOnload(function() {
+        let el = document.querySelector("p.text-snippet"); 
+        questionId = el.dataset.id;
+        hilites = ${e://Field/hilights} || [];
+        el.addEventListener("mouseup", initTextHiliting);
+    });
+    </script>
+    [[PageBreak]]
+    
