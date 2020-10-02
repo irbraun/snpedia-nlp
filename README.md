@@ -39,7 +39,6 @@ Mapping genes to *context* sentences, the most noisy dataset (`genes_snps_contex
 ```
 gene      snp           context
 CACNA1C   Rs80315385    Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
-CACNA1C   Rs80315385    Severe arrhythmia disorder caused by cardiac L-type calcium channel mutations.
 CACNA1D   Rs312481      rs312481 is a SNP in the calcium channel, voltage-dependent, L type, alpha 1D subunit CACNA1D gene.A study of 161 Japanese patients (85 men, 76 women) being treated for hypertension with L-type dCCBs (calcium channel blockers) concluded that individuals with rs312481 (C;C) genotypes responded better, as measured by lowered systolic and diastolic blood pressure readings.
 CACNA1S   Rs1800559     rs1800559, also known as Arg1086His or R1086H, is a SNP in the CACNA1S gene on chromosome 1.The rs1800559 (A) allele is reported to be associated with malignant hyperthermia, type 5.This variant meets the criteria published in 2013 by the ACMG regarding incidental findings in exome or genome sequencing, as a variant that they do recommend informing a patient about.
 CACNA1S   Rs1800559     Genetics and pathogenesis of malignant hyperthermia.
