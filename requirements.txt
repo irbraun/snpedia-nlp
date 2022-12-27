@@ -147,7 +147,7 @@ scikit-learn==0.22.2.post1
 scipy==1.5.1
 seaborn==0.10.1
 Send2Trash==1.5.0
-setuptools==46.1.1.post20200322
+setuptools==65.5.1
 six==1.14.0
 smart-open==1.8.4
 snowballstemmer==2.0.0
